@@ -33,7 +33,7 @@ class Notifier:
             resp.raise_for_status()
             logger.debug("Telegram message sent OK")
             return True
-        except requests.RequestException as e:
+        except Exception as e:
             logger.error(f"Telegram send failed: {e}")
             return False
 
