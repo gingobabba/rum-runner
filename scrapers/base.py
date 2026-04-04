@@ -82,7 +82,8 @@ class BaseScraper(ABC):
         self.config = config
         self.debug = debug
         self.session = requests.Session(impersonate=IMPERSONATE)
-
+        self.access_denied = False  # Set True when we hit a 403 (bot protection)
+        
     def _get(self, url: str, **kwargs) -> Optional[requests.Response]:
         """GET a URL with polite rate limiting and error handling."""
         delay = random.uniform(1.5, 3.0)
@@ -100,6 +101,11 @@ class BaseScraper(ABC):
             return resp
         except Exception as e:
             logger.error(f"Request failed for {url}: {e}")
+            if "403" in str(e):                                                        
+                self.access_denied = True                                              
+                logger.warning(f"Access denied (403) for {url} — likely bot protection")                                                                                     
+            else:                                                                      
+                logger.error(f"Request failed for {url}: {e}")
             return None
 
     def _soup(self, url: str, **kwargs) -> Optional[BeautifulSoup]:
