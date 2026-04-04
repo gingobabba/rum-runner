@@ -319,6 +319,10 @@ def main() -> None:
                     r_state=r_state,
                     notifier=notifier,
                 )
+            elif scraper.access_denied:
+                logger.warning(
+                    f"[{retailer_name}] Blocked by bot protection (403) — skipping, will retry next run"
+                )
             else:
                 logger.warning(f"[{retailer_name}] Catalog returned 0 products — scraper may need selector update")
                 errors.append(retailer_name)
@@ -353,3 +357,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    
