@@ -1,4 +1,4 @@
-yamlname: Rum Monitor
+name: Rum Monitor
 
 on:
   schedule:
