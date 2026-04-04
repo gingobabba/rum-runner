@@ -175,13 +175,9 @@ def process_watches(
         current = scraper.get_watched_product(url)
 
         if current is None:
-            # Scrape failed — this might mean the product is gone/sold out
-            # Per spec: alert if failure implies out-of-stock
-            prev = watches_state.get(url, {})
-            if prev.get("in_stock", True):
-                logger.warning(f"[{retailer_name}] Could not fetch {url} — may be OOS")
-                notifier.alert_scrape_error(retailer=retailer_name, url=url)
-                watches_state.setdefault(url, {})["in_stock"] = False
+            # Network/scrape error — skip silently, do not send OOS alert.
+            # A 403 or timeout doesn't mean the product is gone; we'll retry next run.
+            logger.warning(f"[{retailer_name}] Could not fetch {url} — skipping (will retry next run)")
             continue
 
         prev = watches_state.get(url, {})
