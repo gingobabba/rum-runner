@@ -100,11 +100,10 @@ class BaseScraper(ABC):
                 logger.debug(f"Saved raw HTML to {debug_path}")
             return resp
         except Exception as e:
-            logger.error(f"Request failed for {url}: {e}")
-            if "403" in str(e):                                                        
-                self.access_denied = True                                              
-                logger.warning(f"Access denied (403) for {url} — likely bot protection")                                                                                     
-            else:                                                                      
+            if "403" in str(e):
+                self.access_denied = True
+                logger.warning(f"Access denied (403) for {url} — likely bot protection")
+            else:
                 logger.error(f"Request failed for {url}: {e}")
             return None
 
