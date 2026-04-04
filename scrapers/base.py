@@ -116,7 +116,6 @@ class BaseScraper(ABC):
     def get_catalog(self) -> List[Product]:
         """Return all products from the rum catalog."""
         pass
-
     def get_watched_product(self, url: str) -> Optional[WatchedProduct]:
         """Return current price/stock for a specific product URL.
         Override in scrapers that support watched-product monitoring."""
