@@ -98,9 +98,6 @@ class BaseScraper(ABC):
                     f.write(resp.text)
                 logger.debug(f"Saved raw HTML to {debug_path}")
             return resp
-        except requests.HTTPError as e:
-            logger.error(f"HTTP {e.response.status_code} fetching {url}")
-            return None
         except Exception as e:
             logger.error(f"Request failed for {url}: {e}")
             return None
@@ -116,6 +113,7 @@ class BaseScraper(ABC):
     def get_catalog(self) -> List[Product]:
         """Return all products from the rum catalog."""
         pass
+
     def get_watched_product(self, url: str) -> Optional[WatchedProduct]:
         """Return current price/stock for a specific product URL.
         Override in scrapers that support watched-product monitoring."""
