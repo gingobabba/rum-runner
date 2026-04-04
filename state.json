@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-04T06:13:55.998664+00:00",
+  "last_run": "2026-04-04T06:38:17.206977+00:00",
   "retailers": {
     "klwines": {
       "catalog": {},
@@ -16,10 +16,216 @@
       }
     },
     "bittersandbottles": {
-      "catalog": {}
+      "catalog": {
+        "el-dorado-high-ester-pm-dhe-demerara-rum": {
+          "name": "El Dorado High Ester PM/DHE Demerara Rum",
+          "price": 146.5,
+          "url": "https://www.bittersandbottles.com/products/el-dorado-high-ester-pm-dhe-demerara-rum",
+          "first_seen": "2026-04-04T06:38:08.456371+00:00"
+        },
+        "bedford-park-french-antilles-6-year-single-barrel-rum": {
+          "name": "Bedford Park French Antilles 6 Year Single Barrel Rum",
+          "price": 119.5,
+          "url": "https://www.bittersandbottles.com/products/bedford-park-french-antilles-6-year-single-barrel-rum",
+          "first_seen": "2026-04-04T06:38:08.456397+00:00"
+        },
+        "bedford-park-foursquare-17-year-single-barrel-rum": {
+          "name": "Bedford Park Foursquare 17 Year Single Barrel Rum",
+          "price": 179.5,
+          "url": "https://www.bittersandbottles.com/products/bedford-park-foursquare-17-year-single-barrel-rum",
+          "first_seen": "2026-04-04T06:38:08.456404+00:00"
+        },
+        "rum-et-al-variable-dunderclap-still-strength-rum": {
+          "name": "Rum et al Variable Dunderclap Still Strength Rum",
+          "price": 56.5,
+          "url": "https://www.bittersandbottles.com/products/rum-et-al-variable-dunderclap-still-strength-rum",
+          "first_seen": "2026-04-04T06:38:08.456410+00:00"
+        },
+        "rum-et-al-baseline-still-strength-rum": {
+          "name": "Rum et al Baseline Still Strength Rum",
+          "price": 54.5,
+          "url": "https://www.bittersandbottles.com/products/rum-et-al-baseline-still-strength-rum",
+          "first_seen": "2026-04-04T06:38:08.456415+00:00"
+        },
+        "hamilton-10-year-copper-pot-still-single-cask-jamaican-rum": {
+          "name": "Hamilton 10 Year Copper Pot Still Single Cask Jamaican Rum",
+          "price": 98.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-10-year-copper-pot-still-single-cask-jamaican-rum",
+          "first_seen": "2026-04-04T06:38:08.456420+00:00"
+        },
+        "tanduay-filipino-16-year-double-rum": {
+          "name": "Tanduay Filipino Double Rum",
+          "price": 49.5,
+          "url": "https://www.bittersandbottles.com/products/tanduay-filipino-16-year-double-rum",
+          "first_seen": "2026-04-04T06:38:08.456477+00:00"
+        },
+        "holmes-cay-guyana-uitvlugt-2003-21-year-rum": {
+          "name": "Holmes Cay Guyana 'Uitvlugt 2003' 21 Year Rum",
+          "price": 299.5,
+          "url": "https://www.bittersandbottles.com/products/holmes-cay-guyana-uitvlugt-2003-21-year-rum",
+          "first_seen": "2026-04-04T06:38:08.456515+00:00"
+        },
+        "alambique-serrano-3-anos-single-origin-oaxacan-rum": {
+          "name": "Alambique Serrano \"3 A\u00f1os\" Single Origin Oaxacan Rum",
+          "price": 54.5,
+          "url": "https://www.bittersandbottles.com/products/alambique-serrano-3-anos-single-origin-oaxacan-rum",
+          "first_seen": "2026-04-04T06:38:08.456536+00:00"
+        },
+        "two-james-doctor-bird-coconut-rum": {
+          "name": "Two James Doctor Bird 'Coco Atoll' Coconut Rum",
+          "price": 41.5,
+          "url": "https://www.bittersandbottles.com/products/two-james-doctor-bird-coconut-rum",
+          "first_seen": "2026-04-04T06:38:08.456578+00:00"
+        },
+        "holmes-cay-venezuela-15-year-2007-single-cask-rum": {
+          "name": "Holmes Cay Venezuela 15 Year 2007 Single Cask Rum",
+          "price": 92.0,
+          "url": "https://www.bittersandbottles.com/products/holmes-cay-venezuela-15-year-2007-single-cask-rum",
+          "first_seen": "2026-04-04T06:38:08.456596+00:00"
+        },
+        "aguaviva-cachaca": {
+          "name": "Aguaviva Cacha\u00e7a",
+          "price": 32.5,
+          "url": "https://www.bittersandbottles.com/products/aguaviva-cachaca",
+          "first_seen": "2026-04-04T06:38:08.456624+00:00"
+        },
+        "planteray-paraguay-chardonnay-single-cask-rum": {
+          "name": "Planteray Paraguay Chardonnay  Single Cask Rum",
+          "price": 42.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-paraguay-chardonnay-single-cask-rum",
+          "first_seen": "2026-04-04T06:38:08.456670+00:00"
+        }
+      }
     },
     "potomac": {
-      "catalog": {}
+      "catalog": {
+        "barrell-private-release-bourbon-blend-b43k": {
+          "name": "Barrell Private Release Bourbon Blend #B43K Selected by Potomac Wines and Spirits",
+          "price": 109.99,
+          "url": "https://potomacwines.com/en-gb/product/barrell-private-release-bourbon-blend-b43k",
+          "first_seen": "2026-04-04T06:38:11.838609+00:00"
+        },
+        "whistlepig-farm-10-year-single-barrel-cask-strength-straight-rye-whiskey-selected-by-potomac-wines-and-spirits": {
+          "name": "WhistlePig Farm 10 Year Single Barrel Cask Strength Straight Rye Whiskey Selected by Potomac Wines and Spirits",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/whistlepig-farm-10-year-single-barrel-cask-strength-straight-rye-whiskey-selected-by-potomac-wines-and-spirits",
+          "first_seen": "2026-04-04T06:38:11.838630+00:00"
+        },
+        "angel-s-envy-private-selection-single-barrel": {
+          "name": "Angel's Envy Private Selection Single Barrel Kentucky Straight Bourbon",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/angel-s-envy-private-selection-single-barrel",
+          "first_seen": "2026-04-04T06:38:11.838638+00:00"
+        },
+        "Old-Forester-Single-Barrel-Barrel-Strength-Bourbon": {
+          "name": "Old Forester Single Barrel Barrel Strength Bourbon Selected By Potomac Wines and Spirits",
+          "price": 104.99,
+          "url": "https://potomacwines.com/en-gb/product/Old-Forester-Single-Barrel-Barrel-Strength-Bourbon",
+          "first_seen": "2026-04-04T06:38:11.838644+00:00"
+        },
+        "russell-s-reserve-private-barrel-selection-kentucky-straight-bourbon-selected-by-potomac-wines-and-spirits": {
+          "name": "Russell's Reserve Private Barrel Selection Kentucky Straight Bourbon Selected By Potomac Wines and Spirits",
+          "price": 69.99,
+          "url": "https://potomacwines.com/en-gb/product/russell-s-reserve-private-barrel-selection-kentucky-straight-bourbon-selected-by-potomac-wines-and-spirits",
+          "first_seen": "2026-04-04T06:38:11.838651+00:00"
+        },
+        "12-bottle-mixed-georgian-wine-sampler": {
+          "name": "12 Bottle Mixed Georgian Wine Sampler",
+          "price": 227.88,
+          "url": "https://potomacwines.com/en-gb/product/12-bottle-mixed-georgian-wine-sampler",
+          "first_seen": "2026-04-04T06:38:11.838656+00:00"
+        },
+        "21-seeds-cucumber-jalapeno-infused-tequila-blanco": {
+          "name": "21 Seeds Cucumber Jalapeno Infused Tequila Blanco",
+          "price": 34.99,
+          "url": "https://potomacwines.com/en-gb/product/21-seeds-cucumber-jalapeno-infused-tequila-blanco",
+          "first_seen": "2026-04-04T06:38:11.838662+00:00"
+        },
+        "21-seeds-grapefruit-hibiscus-infused-tequila-blanco": {
+          "name": "21 Seeds Grapefruit Hibiscus Infused Tequila Blanco",
+          "price": 34.99,
+          "url": "https://potomacwines.com/en-gb/product/21-seeds-grapefruit-hibiscus-infused-tequila-blanco",
+          "first_seen": "2026-04-04T06:38:11.838667+00:00"
+        },
+        "21-seeds-valencia-orange-infused-tequila-blanco": {
+          "name": "21 Seeds Valencia Orange Infused Tequila Blanco",
+          "price": 34.99,
+          "url": "https://potomacwines.com/en-gb/product/21-seeds-valencia-orange-infused-tequila-blanco",
+          "first_seen": "2026-04-04T06:38:11.838672+00:00"
+        },
+        "5-sentidos-arroqueno": {
+          "name": "5 Sentidos Arroqueno",
+          "price": 139.99,
+          "url": "https://potomacwines.com/en-gb/product/5-sentidos-arroqueno",
+          "first_seen": "2026-04-04T06:38:11.838677+00:00"
+        },
+        "5-Sentidos-Bicuixe-Verde": {
+          "name": "5 Sentidos Bicuixe Verde",
+          "price": 129.99,
+          "url": "https://potomacwines.com/en-gb/product/5-Sentidos-Bicuixe-Verde",
+          "first_seen": "2026-04-04T06:38:11.838681+00:00"
+        },
+        "Heavens-Door-Single-Barrel-Cask-Strength-Straight-Bourbon": {
+          "name": "Heaven's Door Single Barrel Cask Strength Straight Bourbon",
+          "price": 49.99,
+          "url": "https://potomacwines.com/en-gb/product/Heavens-Door-Single-Barrel-Cask-Strength-Straight-Bourbon",
+          "first_seen": "2026-04-04T06:38:11.838687+00:00"
+        },
+        "Bulleit-Single-Barrel-Straight-Bourbon": {
+          "name": "Bulleit Single Barrel Straight Bourbon",
+          "price": 49.99,
+          "url": "https://potomacwines.com/en-gb/product/Bulleit-Single-Barrel-Straight-Bourbon",
+          "first_seen": "2026-04-04T06:38:11.838691+00:00"
+        },
+        "Beringer-private-reserve-cabernet-2017": {
+          "name": "Beringer Vineyards Private Reserve Cabernet Sauvignon 2017",
+          "price": 139.99,
+          "url": "https://potomacwines.com/en-gb/product/Beringer-private-reserve-cabernet-2017",
+          "first_seen": "2026-04-04T06:38:11.838696+00:00"
+        },
+        "Cadenheads-Green-Label-10-Year-Old-Panama-Rum": {
+          "name": "Cadenhead's Green Label 10 Year Old Panama Rum",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/Cadenheads-Green-Label-10-Year-Old-Panama-Rum",
+          "first_seen": "2026-04-04T06:38:11.838700+00:00"
+        },
+        "Beylerbeyi-Incirden-Raki-700ml": {
+          "name": "Beylerbeyi Incirden Raki 700ml",
+          "price": 39.99,
+          "url": "https://potomacwines.com/en-gb/product/Beylerbeyi-Incirden-Raki-700ml",
+          "first_seen": "2026-04-04T06:38:11.838705+00:00"
+        },
+        "Arran-Amarone-Cask-Finish-Single-Malt": {
+          "name": "Arran Amarone Cask Finish Single Malt",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/Arran-Amarone-Cask-Finish-Single-Malt",
+          "first_seen": "2026-04-04T06:38:11.838710+00:00"
+        },
+        "LErmitage-Saint-Valbert-Liqueur-Vegetale-Verte": {
+          "name": "Grandes Distilleries Peureux Massenez L'Ermitage Saint Valbert Liqueur Vegetale Verte",
+          "price": 44.99,
+          "url": "https://potomacwines.com/en-gb/product/LErmitage-Saint-Valbert-Liqueur-Vegetale-Verte",
+          "first_seen": "2026-04-04T06:38:11.838715+00:00"
+        },
+        "Old-Fitzgerald-Bottled-in-Bond-7-Year-Old-Bourbon": {
+          "name": "Old Fitzgerald Bottled in Bond 7 Year Old Kentucky Straight Bourbon",
+          "price": 74.99,
+          "url": "https://potomacwines.com/en-gb/product/Old-Fitzgerald-Bottled-in-Bond-7-Year-Old-Bourbon",
+          "first_seen": "2026-04-04T06:38:11.838720+00:00"
+        },
+        "Heaven-Hill-Grain-to-Glass-Chinquapin-Wheated-Bourbon": {
+          "name": "Heaven Hill Grain to Glass Speciality Barrel Chinquapin Straight Wheated Bourbon",
+          "price": 149.99,
+          "url": "https://potomacwines.com/en-gb/product/Heaven-Hill-Grain-to-Glass-Chinquapin-Wheated-Bourbon",
+          "first_seen": "2026-04-04T06:38:11.838726+00:00"
+        },
+        "skenderbeu-balle-kazani-skrapari-grape-brandy-1L": {
+          "name": "Skenderbeu 'Balle Kazani Skrapari' Grape Brandy 1L",
+          "price": 24.99,
+          "url": "https://potomacwines.com/en-gb/product/skenderbeu-balle-kazani-skrapari-grape-brandy-1L",
+          "first_seen": "2026-04-04T06:38:11.838731+00:00"
+        }
+      }
     },
     "astor": {
       "catalog": {}
