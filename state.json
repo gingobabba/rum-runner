@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-04T06:38:17.206977+00:00",
+  "last_run": "2026-04-04T06:45:46.778075+00:00",
   "retailers": {
     "klwines": {
       "catalog": {},
@@ -94,6 +94,1044 @@
           "price": 42.5,
           "url": "https://www.bittersandbottles.com/products/planteray-paraguay-chardonnay-single-cask-rum",
           "first_seen": "2026-04-04T06:38:08.456670+00:00"
+        },
+        "habitation-velier-mhoba-south-african-single-rum": {
+          "name": "Habitation Velier Mhoba South African Single Rum",
+          "price": 119.5,
+          "url": "https://www.bittersandbottles.com/products/habitation-velier-mhoba-south-african-single-rum",
+          "first_seen": "2026-04-04T06:45:18.448496+00:00"
+        },
+        "habitation-velier-renegade-grenada-single-rum": {
+          "name": "Habitation Velier Renegade Grenada Single Rum",
+          "price": 118.5,
+          "url": "https://www.bittersandbottles.com/products/habitation-velier-renegade-grenada-single-rum",
+          "first_seen": "2026-04-04T06:45:19.488622+00:00"
+        },
+        "foursquare-exceptional-cask-mark-xxix-mandamus-16-year-rum": {
+          "name": "Foursquare Exceptional Cask Mark XXIX \"Mandamus\" 16 Year Rum",
+          "price": 154.5,
+          "url": "https://www.bittersandbottles.com/products/foursquare-exceptional-cask-mark-xxix-mandamus-16-year-rum",
+          "first_seen": "2026-04-04T06:45:19.488726+00:00"
+        },
+        "doctor-bird-private-barrel-cask-strength-119-proof-madeira-finish-rum": {
+          "name": "Doctor Bird Private Barrel Cask Strength (119 Proof) Madeira Finish Rum",
+          "price": 46.5,
+          "url": "https://www.bittersandbottles.com/products/doctor-bird-private-barrel-cask-strength-119-proof-madeira-finish-rum",
+          "first_seen": "2026-04-04T06:45:19.488750+00:00"
+        },
+        "dos-maderas-px-5-5-year-rum": {
+          "name": "Dos Maderas PX 5+5 Year Rum",
+          "price": 44.5,
+          "url": "https://www.bittersandbottles.com/products/dos-maderas-px-5-5-year-rum",
+          "first_seen": "2026-04-04T06:45:19.488779+00:00"
+        },
+        "hamilton-the-grass-skirt-blend-rum": {
+          "name": "Hamilton The Grass Skirt Blend Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-the-grass-skirt-blend-rum",
+          "first_seen": "2026-04-04T06:45:19.488790+00:00"
+        },
+        "granalta-5-year-rum": {
+          "name": "Granalta 5 Year Rum",
+          "price": 54.5,
+          "url": "https://www.bittersandbottles.com/products/granalta-5-year-rum",
+          "first_seen": "2026-04-04T06:45:19.488812+00:00"
+        },
+        "papalin-jamaica-high-ester-pot-still-vatted-rum": {
+          "name": "Papalin Jamaica High Ester Pot Still Vatted Rum",
+          "price": 64.5,
+          "url": "https://www.bittersandbottles.com/products/papalin-jamaica-high-ester-pot-still-vatted-rum",
+          "first_seen": "2026-04-04T06:45:20.542807+00:00"
+        },
+        "hampden-estate-1753-single-jamaican-rum": {
+          "name": "Hampden Estate 1753 Single Jamaican Rum",
+          "price": 82.5,
+          "url": "https://www.bittersandbottles.com/products/hampden-estate-1753-single-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:21.569831+00:00"
+        },
+        "english-harbour-90th-anniversary-release-rum": {
+          "name": "English Harbour 90th Anniversary Release 19 Year Rum",
+          "price": 109.5,
+          "url": "https://www.bittersandbottles.com/products/english-harbour-90th-anniversary-release-rum",
+          "first_seen": "2026-04-04T06:45:21.569874+00:00"
+        },
+        "foursquare-exceptional-cask-mark-xxviii-convocation-14-year-rum": {
+          "name": "Foursquare Exceptional Cask Mark XXVIII \"Convocation\" 14 Year Rum",
+          "price": 154.5,
+          "url": "https://www.bittersandbottles.com/products/foursquare-exceptional-cask-mark-xxviii-convocation-14-year-rum",
+          "first_seen": "2026-04-04T06:45:21.569902+00:00"
+        },
+        "alambique-serrano-cartier-30-oaxacan-rum": {
+          "name": "Alambique Serrano \"Cartier 30\" Oaxacan Rum",
+          "price": 64.5,
+          "url": "https://www.bittersandbottles.com/products/alambique-serrano-cartier-30-oaxacan-rum",
+          "first_seen": "2026-04-04T06:45:21.569922+00:00"
+        },
+        "privateer-letter-of-marque-4-yr-p806-rum": {
+          "name": "Privateer Letter of Marque 4 Year 8 Month #P806 Rum",
+          "price": 79.0,
+          "url": "https://www.bittersandbottles.com/products/privateer-letter-of-marque-4-yr-p806-rum",
+          "first_seen": "2026-04-04T06:45:21.569953+00:00"
+        },
+        "planteray-sealander-blended-rum": {
+          "name": "Planteray 'Sealander' Blended Rum",
+          "price": 41.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-sealander-blended-rum",
+          "first_seen": "2026-04-04T06:45:21.569967+00:00"
+        },
+        "planteray-spain-11-year-single-cask-rum": {
+          "name": "Planteray Spain 11 Year Single Cask Rum",
+          "price": 76.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-spain-11-year-single-cask-rum",
+          "first_seen": "2026-04-04T06:45:21.570010+00:00"
+        },
+        "planteray-belize-2008-15-year-rum": {
+          "name": "Planteray Belize 2008 15 Year Rum",
+          "price": 39.99,
+          "url": "https://www.bittersandbottles.com/products/planteray-belize-2008-15-year-rum",
+          "first_seen": "2026-04-04T06:45:21.570030+00:00"
+        },
+        "planteray-mister-fogg-navy-rum": {
+          "name": "Planteray Mister Fogg Navy Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-mister-fogg-navy-rum",
+          "first_seen": "2026-04-04T06:45:21.570059+00:00"
+        },
+        "blackwell-jamaican-black-gold-reserve-rum": {
+          "name": "Blackwell Jamaican Black Gold Reserve Rum",
+          "price": 36.5,
+          "url": "https://www.bittersandbottles.com/products/blackwell-jamaican-black-gold-reserve-rum",
+          "first_seen": "2026-04-04T06:45:21.570081+00:00"
+        },
+        "mount-gay-navy-strength-rum": {
+          "name": "Mount Gay Navy Strength Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/mount-gay-navy-strength-rum",
+          "first_seen": "2026-04-04T06:45:21.570092+00:00"
+        },
+        "hampden-estate-hlcf-classic-overproof-jamaican-rum": {
+          "name": "Hampden Estate HLCF Classic Overproof Jamaican Rum",
+          "price": 96.5,
+          "url": "https://www.bittersandbottles.com/products/hampden-estate-hlcf-classic-overproof-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:22.642428+00:00"
+        },
+        "cadenhead-single-cask-diamond-distillery-rum": {
+          "name": "Cadenhead Single Cask Guyana Diamond Distillery Rum",
+          "price": 92.0,
+          "url": "https://www.bittersandbottles.com/products/cadenhead-single-cask-diamond-distillery-rum",
+          "first_seen": "2026-04-04T06:45:22.642500+00:00"
+        },
+        "holmes-cay-single-origin-reunion-island-agricole-rum": {
+          "name": "Holmes Cay Single Origin R\u00e9union Island Agricole Rum",
+          "price": 41.5,
+          "url": "https://www.bittersandbottles.com/products/holmes-cay-single-origin-reunion-island-agricole-rum",
+          "first_seen": "2026-04-04T06:45:22.642552+00:00"
+        },
+        "worthy-park-white-overproof-rum": {
+          "name": "Worthy Park White Overproof Rum",
+          "price": 31.5,
+          "url": "https://www.bittersandbottles.com/products/worthy-park-white-overproof-rum",
+          "first_seen": "2026-04-04T06:45:22.642563+00:00"
+        },
+        "teeda-japanese-white-rum": {
+          "name": "Teeda Japanese White Rum",
+          "price": 33.5,
+          "url": "https://www.bittersandbottles.com/products/teeda-japanese-white-rum",
+          "first_seen": "2026-04-04T06:45:22.642571+00:00"
+        },
+        "royal-jamaican-blackstrap-rum": {
+          "name": "Royal Jamaican Blackstrap Rum",
+          "price": 26.5,
+          "url": "https://www.bittersandbottles.com/products/royal-jamaican-blackstrap-rum",
+          "first_seen": "2026-04-04T06:45:22.642589+00:00"
+        },
+        "wright-brown-overproof-white-rum": {
+          "name": "Wright & Brown Overproof White Rum",
+          "price": 44.5,
+          "url": "https://www.bittersandbottles.com/products/wright-brown-overproof-white-rum",
+          "first_seen": "2026-04-04T06:45:22.642607+00:00"
+        },
+        "planteray-cut-dry-coconut-rum": {
+          "name": "Planteray Cut & Dry Coconut Rum",
+          "price": 34.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-cut-dry-coconut-rum",
+          "first_seen": "2026-04-04T06:45:22.642621+00:00"
+        },
+        "clement-tequila-cask": {
+          "name": "Clement Private Cask Tequila Finish Vieux Agricole Rhum",
+          "price": 91.5,
+          "url": "https://www.bittersandbottles.com/products/clement-tequila-cask",
+          "first_seen": "2026-04-04T06:45:22.642629+00:00"
+        },
+        "monymusk-overproof-white-rum": {
+          "name": "Monymusk Overproof White Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/monymusk-overproof-white-rum",
+          "first_seen": "2026-04-04T06:45:23.714671+00:00"
+        },
+        "hamilton-breezeway-blend-rum": {
+          "name": "Hamilton Breezeway Blend Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-breezeway-blend-rum",
+          "first_seen": "2026-04-04T06:45:23.714712+00:00"
+        },
+        "hamilton-puesto-aged-blended-white-rum": {
+          "name": "Hamilton Puesto Aged Blended White Rum",
+          "price": 26.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-puesto-aged-blended-white-rum",
+          "first_seen": "2026-04-04T06:45:23.714759+00:00"
+        },
+        "el-amparo-rum": {
+          "name": "El Amparo Rum",
+          "price": 56.5,
+          "url": "https://www.bittersandbottles.com/products/el-amparo-rum",
+          "first_seen": "2026-04-04T06:45:23.714772+00:00"
+        },
+        "transcontinental-rum-line-high-seas-rum": {
+          "name": "Transcontinental Rum Line High Seas Rum",
+          "price": 32.5,
+          "url": "https://www.bittersandbottles.com/products/transcontinental-rum-line-high-seas-rum",
+          "first_seen": "2026-04-04T06:45:23.714788+00:00"
+        },
+        "rhum-jm-epices-creoles-agricole-rhum": {
+          "name": "Rhum JM Epices Creoles Agricole Rhum",
+          "price": 37.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-epices-creoles-agricole-rhum",
+          "first_seen": "2026-04-04T06:45:23.714803+00:00"
+        },
+        "rhum-jm-frumee-volcanique-agricole-rhum": {
+          "name": "Rhum JM Fum\u00e9e Volcanique Agricole Rhum",
+          "price": 37.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-frumee-volcanique-agricole-rhum",
+          "first_seen": "2026-04-04T06:45:23.714818+00:00"
+        },
+        "holmes-cay-single-origin-reunion-island-grand-arome-rum": {
+          "name": "Holmes Cay Single Origin R\u00e9union Island Grand Ar\u00f4me Rum",
+          "price": 49.5,
+          "url": "https://www.bittersandbottles.com/products/holmes-cay-single-origin-reunion-island-grand-arome-rum",
+          "first_seen": "2026-04-04T06:45:23.714836+00:00"
+        },
+        "privateer-rum-new-england-navy-yard-rum": {
+          "name": "Privateer Rum New England Navy Yard Rum",
+          "price": 59.6,
+          "url": "https://www.bittersandbottles.com/products/privateer-rum-new-england-navy-yard-rum",
+          "first_seen": "2026-04-04T06:45:23.714845+00:00"
+        },
+        "privateer-the-queens-share-4-yr-rum": {
+          "name": "Privateer The Queen's Share 4 Year Rum",
+          "price": 63.5,
+          "url": "https://www.bittersandbottles.com/products/privateer-the-queens-share-4-yr-rum",
+          "first_seen": "2026-04-04T06:45:23.714865+00:00"
+        },
+        "hamilton-strong-water-lost-voyage-rum": {
+          "name": "Hamilton Strong Water Lost Voyage Rum",
+          "price": 28.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-strong-water-lost-voyage-rum",
+          "first_seen": "2026-04-04T06:45:23.714883+00:00"
+        },
+        "denizen-aged-white-rum": {
+          "name": "Denizen Aged White Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/denizen-aged-white-rum",
+          "first_seen": "2026-04-04T06:45:23.714893+00:00"
+        },
+        "mount-gay-master-blender-5-px-sherry-cask-21-year-rum": {
+          "name": "Mount Gay Master Blender PX Sherry Cask 21 Year Rum",
+          "price": 284.5,
+          "url": "https://www.bittersandbottles.com/products/mount-gay-master-blender-5-px-sherry-cask-21-year-rum",
+          "first_seen": "2026-04-04T06:45:23.714914+00:00"
+        },
+        "plantation-extreme-series-v-14-year-barbados-wird-2007-rum": {
+          "name": "Plantation Extreme Series V Barbados WIRD 2007 Rum",
+          "price": 199.5,
+          "url": "https://www.bittersandbottles.com/products/plantation-extreme-series-v-14-year-barbados-wird-2007-rum",
+          "first_seen": "2026-04-04T06:45:23.714924+00:00"
+        },
+        "plantation-extreme-series-v-21-year-barbados-wird-2000-rum": {
+          "name": "Plantation Extreme Series V 21 Year Barbados WIRD 2000 Rum",
+          "price": 324.5,
+          "url": "https://www.bittersandbottles.com/products/plantation-extreme-series-v-21-year-barbados-wird-2000-rum",
+          "first_seen": "2026-04-04T06:45:23.714934+00:00"
+        },
+        "two-james-doctor-bird-pineapple-rum": {
+          "name": "Doctor Bird Navy Strength Pineapple Rum",
+          "price": 41.5,
+          "url": "https://www.bittersandbottles.com/products/two-james-doctor-bird-pineapple-rum",
+          "first_seen": "2026-04-04T06:45:23.714945+00:00"
+        },
+        "myrtle-bank-shannon-muss-tiki-blend-rum": {
+          "name": "Myrtle Bank Shannon's Tiki Blend Rum",
+          "price": 74.5,
+          "url": "https://www.bittersandbottles.com/products/myrtle-bank-shannon-muss-tiki-blend-rum",
+          "first_seen": "2026-04-04T06:45:23.714953+00:00"
+        },
+        "myers-single-barrel-select-rum": {
+          "name": "Myers's Bitters & Bottles Single Barrel Select Jamaican Rum",
+          "price": 24.5,
+          "url": "https://www.bittersandbottles.com/products/myers-single-barrel-select-rum",
+          "first_seen": "2026-04-04T06:45:23.714977+00:00"
+        },
+        "charbay-2005-barrel-strength-rum": {
+          "name": "Charbay Double Aged 2005 Barrel Strength Rum",
+          "price": 432.5,
+          "url": "https://www.bittersandbottles.com/products/charbay-2005-barrel-strength-rum",
+          "first_seen": "2026-04-04T06:45:23.714989+00:00"
+        },
+        "rhum-jm-terrior-volcanique-agricole-rhum": {
+          "name": "Rhum JM Terroir Volcanique Agricole Rhum",
+          "price": 45.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-terrior-volcanique-agricole-rhum",
+          "first_seen": "2026-04-04T06:45:23.715003+00:00"
+        },
+        "ron-colon-salvadoreno-red-banana-oleo-rum": {
+          "name": "Ron Colon Salvadoreno Red Banana Oleo Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/ron-colon-salvadoreno-red-banana-oleo-rum",
+          "first_seen": "2026-04-04T06:45:23.715011+00:00"
+        },
+        "clement-px-sherry-cask": {
+          "name": "Clement Private Cask PX Sherry Finish Vieux Agricole Rum",
+          "price": 74.5,
+          "url": "https://www.bittersandbottles.com/products/clement-px-sherry-cask",
+          "first_seen": "2026-04-04T06:45:23.715052+00:00"
+        },
+        "chairmans-reserve-16-year-port-cask-masters-selection-cask-strength-rum": {
+          "name": "Chairman's Reserve 16 Year Port Cask Master's Selection Cask Strength Rum",
+          "price": 74.5,
+          "url": "https://www.bittersandbottles.com/products/chairmans-reserve-16-year-port-cask-masters-selection-cask-strength-rum",
+          "first_seen": "2026-04-04T06:45:23.715099+00:00"
+        },
+        "rhum-jm-jardin-fruite-agricole-rhum": {
+          "name": "Rhum JM Jardin Fruit\u00e9 Agricole Rhum",
+          "price": 41.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-jardin-fruite-agricole-rhum",
+          "first_seen": "2026-04-04T06:45:23.715122+00:00"
+        },
+        "neisson-2013-new-american-oak-single-barrel-rhum": {
+          "name": "Neisson 2013 New American Oak Single Barrel Rhum",
+          "price": 77.99,
+          "url": "https://www.bittersandbottles.com/products/neisson-2013-new-american-oak-single-barrel-rhum",
+          "first_seen": "2026-04-04T06:45:23.715138+00:00"
+        },
+        "holmes-cay-2001-fiji-21-year-pot-still-rum": {
+          "name": "Holmes Cay 2001 Fiji 21 Year Pot Still Rum",
+          "price": 249.5,
+          "url": "https://www.bittersandbottles.com/products/holmes-cay-2001-fiji-21-year-pot-still-rum",
+          "first_seen": "2026-04-04T06:45:23.715161+00:00"
+        },
+        "holmes-cay-2002-barbados-20-year-pot-still-rum": {
+          "name": "Holmes Cay 2002 Barbados 20 Year Pot Still Rum",
+          "price": 359.5,
+          "url": "https://www.bittersandbottles.com/products/holmes-cay-2002-barbados-20-year-pot-still-rum",
+          "first_seen": "2026-04-04T06:45:23.715176+00:00"
+        },
+        "canerock-jamaican-spiced-rum": {
+          "name": "Canerock Jamaican Spiced Rum",
+          "price": 26.5,
+          "url": "https://www.bittersandbottles.com/products/canerock-jamaican-spiced-rum",
+          "first_seen": "2026-04-04T06:45:24.766226+00:00"
+        },
+        "mount-gay-master-blender-madeira-cask": {
+          "name": "Mount Gay Master Blender Madeira Cask Rum",
+          "price": 239.5,
+          "url": "https://www.bittersandbottles.com/products/mount-gay-master-blender-madeira-cask",
+          "first_seen": "2026-04-04T06:45:24.766271+00:00"
+        },
+        "jung-wulff-no-1-trinidad-rum": {
+          "name": "Jung & Wulff No. 1 Trinidad Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/jung-wulff-no-1-trinidad-rum",
+          "first_seen": "2026-04-04T06:45:24.766295+00:00"
+        },
+        "jung-wulff-no-3-barbados-rum": {
+          "name": "Jung & Wulff No. 3 Barbados Rum",
+          "price": 42.5,
+          "url": "https://www.bittersandbottles.com/products/jung-wulff-no-3-barbados-rum",
+          "first_seen": "2026-04-04T06:45:24.766312+00:00"
+        },
+        "clairin-communal-four-village-haitian-rum": {
+          "name": "Clairin Communal Four Village Haitian Rum",
+          "price": 44.5,
+          "url": "https://www.bittersandbottles.com/products/clairin-communal-four-village-haitian-rum",
+          "first_seen": "2026-04-04T06:45:24.766340+00:00"
+        },
+        "worthy-park-16-year-b-b-single-barrel-rum": {
+          "name": "Worthy Park 16 Year B&B Single Barrel Rum",
+          "price": 134.5,
+          "url": "https://www.bittersandbottles.com/products/worthy-park-16-year-b-b-single-barrel-rum",
+          "first_seen": "2026-04-04T06:45:25.815484+00:00"
+        },
+        "hamilton-beachbum-berrys-navy-grog-rum": {
+          "name": "Hamilton Beachbum Berry's Navy Grog Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-beachbum-berrys-navy-grog-rum",
+          "first_seen": "2026-04-04T06:45:25.815551+00:00"
+        },
+        "hamilton-8-year-guyanese-wooden-coffey-still-single-cask-rum": {
+          "name": "Hamilton 8 Year Guyanese Wooden Coffey Still Single Cask Rum",
+          "price": 82.0,
+          "url": "https://www.bittersandbottles.com/products/hamilton-8-year-guyanese-wooden-coffey-still-single-cask-rum",
+          "first_seen": "2026-04-04T06:45:25.815672+00:00"
+        },
+        "ten-to-one-x-uncle-nearest-bourbon-cask-dark-rum": {
+          "name": "Ten To One x Uncle Nearest Bourbon Cask Dark Rum",
+          "price": 64.5,
+          "url": "https://www.bittersandbottles.com/products/ten-to-one-x-uncle-nearest-bourbon-cask-dark-rum",
+          "first_seen": "2026-04-04T06:45:25.815696+00:00"
+        },
+        "equiano-original-rum": {
+          "name": "Equiano Original Rum",
+          "price": 56.5,
+          "url": "https://www.bittersandbottles.com/products/equiano-original-rum",
+          "first_seen": "2026-04-04T06:45:25.815723+00:00"
+        },
+        "equiano-light-rum": {
+          "name": "Equiano Light Rum",
+          "price": 42.5,
+          "url": "https://www.bittersandbottles.com/products/equiano-light-rum",
+          "first_seen": "2026-04-04T06:45:25.815754+00:00"
+        },
+        "saison-px-sherry-cask-caribbean-rum": {
+          "name": "Saison PX Sherry Cask Caribbean Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/saison-px-sherry-cask-caribbean-rum",
+          "first_seen": "2026-04-04T06:45:25.815766+00:00"
+        },
+        "paranubes-oaxaca-anejo-rum": {
+          "name": "Paranubes Oaxaca Anejo Rum",
+          "price": 72.5,
+          "url": "https://www.bittersandbottles.com/products/paranubes-oaxaca-anejo-rum",
+          "first_seen": "2026-04-04T06:45:26.871203+00:00"
+        },
+        "uruapan-charanda-anejo-rum": {
+          "name": "Uruapan Charanda Anejo Rum",
+          "price": 41.5,
+          "url": "https://www.bittersandbottles.com/products/uruapan-charanda-anejo-rum",
+          "first_seen": "2026-04-04T06:45:26.871261+00:00"
+        },
+        "worthy-park-109-jamaica-dark-rum": {
+          "name": "Worthy Park 109 Jamaica Dark Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/worthy-park-109-jamaica-dark-rum",
+          "first_seen": "2026-04-04T06:45:26.871276+00:00"
+        },
+        "ron-del-barrilito-2-star-rum": {
+          "name": "Ron Del Barrilito 2 Star Rum",
+          "price": 36.5,
+          "url": "https://www.bittersandbottles.com/products/ron-del-barrilito-2-star-rum",
+          "first_seen": "2026-04-04T06:45:26.871286+00:00"
+        },
+        "saint-benevolence-aged-clairin-rum": {
+          "name": "Saint Benevolence Aged Clairin Rum",
+          "price": 64.5,
+          "url": "https://www.bittersandbottles.com/products/saint-benevolence-aged-clairin-rum",
+          "first_seen": "2026-04-04T06:45:26.871317+00:00"
+        },
+        "appleton-15-year-black-river-casks-rum": {
+          "name": "Appleton 15 Year Black River Casks Rum",
+          "price": 74.5,
+          "url": "https://www.bittersandbottles.com/products/appleton-15-year-black-river-casks-rum",
+          "first_seen": "2026-04-04T06:45:26.871335+00:00"
+        },
+        "hamilton-beachbum-berrys-zombie-blend-rum": {
+          "name": "Hamilton Beachbum Berry's Zombie Blend Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-beachbum-berrys-zombie-blend-rum",
+          "first_seen": "2026-04-04T06:45:26.871372+00:00"
+        },
+        "barrell-private-release-j552-single-cask-rum": {
+          "name": "Barrell Private Release J552 Single Cask Rum",
+          "price": 89.5,
+          "url": "https://www.bittersandbottles.com/products/barrell-private-release-j552-single-cask-rum",
+          "first_seen": "2026-04-04T06:45:26.871407+00:00"
+        },
+        "neisson-eleve-sous-bois-rhum": {
+          "name": "Neisson \u00c9lev\u00e9 Sous Bois Rhum",
+          "price": 54.5,
+          "url": "https://www.bittersandbottles.com/products/neisson-eleve-sous-bois-rhum",
+          "first_seen": "2026-04-04T06:45:26.871426+00:00"
+        },
+        "r-l-seales-12-year-barbados-rum": {
+          "name": "R.L. Seale's 12 Year Barbados Rum",
+          "price": 46.5,
+          "url": "https://www.bittersandbottles.com/products/r-l-seales-12-year-barbados-rum",
+          "first_seen": "2026-04-04T06:45:26.871454+00:00"
+        },
+        "myers-original-dark-rum": {
+          "name": "Myers's Original Dark Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/myers-original-dark-rum",
+          "first_seen": "2026-04-04T06:45:26.871471+00:00"
+        },
+        "kohana-koho-barrel-aged-hawaiian-agricole-rum": {
+          "name": "KoHana Koho Barrel Aged Hawaiian Agricole Rum",
+          "price": 84.5,
+          "url": "https://www.bittersandbottles.com/products/kohana-koho-barrel-aged-hawaiian-agricole-rum",
+          "first_seen": "2026-04-04T06:45:26.871491+00:00"
+        },
+        "hamilton-false-idol-151-proof-west-indies-rum": {
+          "name": "Hamilton False Idol 151 Proof West Indies Rum",
+          "price": 39.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-false-idol-151-proof-west-indies-rum",
+          "first_seen": "2026-04-04T06:45:26.871508+00:00"
+        },
+        "plantation-isle-of-fiji-double-barrel-rum": {
+          "name": "Planteray Isle of Fiji Double Barrel Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/plantation-isle-of-fiji-double-barrel-rum",
+          "first_seen": "2026-04-04T06:45:26.871528+00:00"
+        },
+        "rhum-jm-agricole-blanc-55-rhum": {
+          "name": "Rhum JM Agricole Blanc 55% Rhum",
+          "price": 39.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-agricole-blanc-55-rhum",
+          "first_seen": "2026-04-04T06:45:26.871557+00:00"
+        },
+        "ten-to-one-caribbean-dark-rum": {
+          "name": "Ten To One Caribbean Dark Rum",
+          "price": 42.5,
+          "url": "https://www.bittersandbottles.com/products/ten-to-one-caribbean-dark-rum",
+          "first_seen": "2026-04-04T06:45:26.871580+00:00"
+        },
+        "malahat-white-rum": {
+          "name": "Malahat White Rum",
+          "price": 35.5,
+          "url": "https://www.bittersandbottles.com/products/malahat-white-rum",
+          "first_seen": "2026-04-04T06:45:26.871595+00:00"
+        },
+        "appleton-estate-reserve-8-year-rum": {
+          "name": "Appleton Estate Reserve 8 Year Rum",
+          "price": 44.5,
+          "url": "https://www.bittersandbottles.com/products/appleton-estate-reserve-8-year-rum",
+          "first_seen": "2026-04-04T06:45:26.871616+00:00"
+        },
+        "appleton-estate-signature-jamaican-rum": {
+          "name": "Appleton Estate Signature Jamaican Rum",
+          "price": 24.5,
+          "url": "https://www.bittersandbottles.com/products/appleton-estate-signature-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:26.871626+00:00"
+        },
+        "mount-gay-xo-triple-cask-reserve-rum": {
+          "name": "Mount Gay XO Triple Cask Reserve Rum",
+          "price": 58.5,
+          "url": "https://www.bittersandbottles.com/products/mount-gay-xo-triple-cask-reserve-rum",
+          "first_seen": "2026-04-04T06:45:26.871668+00:00"
+        },
+        "mount-gay-black-barrel-double-cask-rum": {
+          "name": "Mount Gay Black Barrel Double Cask Rum",
+          "price": 46.5,
+          "url": "https://www.bittersandbottles.com/products/mount-gay-black-barrel-double-cask-rum",
+          "first_seen": "2026-04-04T06:45:26.871682+00:00"
+        },
+        "mount-gay-eclipse-heritage-rum": {
+          "name": "Mount Gay Eclipse Heritage Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/mount-gay-eclipse-heritage-rum",
+          "first_seen": "2026-04-04T06:45:26.871694+00:00"
+        },
+        "appleton-estate-rare-casks-12-year-jamaica-rum": {
+          "name": "Appleton Estate Rare Casks 12 Year Jamaica Rum",
+          "price": 54.5,
+          "url": "https://www.bittersandbottles.com/products/appleton-estate-rare-casks-12-year-jamaica-rum",
+          "first_seen": "2026-04-04T06:45:26.871708+00:00"
+        },
+        "neisson-lespirit-70-agricole-blanc-rhum-1": {
+          "name": "Neisson L'Esprit 70% Agricole Blanc Rhum",
+          "price": 78.5,
+          "url": "https://www.bittersandbottles.com/products/neisson-lespirit-70-agricole-blanc-rhum-1",
+          "first_seen": "2026-04-04T06:45:26.871720+00:00"
+        },
+        "black-tot-finest-caribbean-rum": {
+          "name": "Black Tot Finest Caribbean Rum",
+          "price": 62.5,
+          "url": "https://www.bittersandbottles.com/products/black-tot-finest-caribbean-rum",
+          "first_seen": "2026-04-04T06:45:26.871748+00:00"
+        },
+        "myrtle-bank-10-year-120-proof-jamaica-rum": {
+          "name": "Myrtle Bank 10 Year 120 Proof Jamaica Rum",
+          "price": 99.5,
+          "url": "https://www.bittersandbottles.com/products/myrtle-bank-10-year-120-proof-jamaica-rum",
+          "first_seen": "2026-04-04T06:45:26.871758+00:00"
+        },
+        "tiki-lovers-white-rum": {
+          "name": "Tiki Lovers White Rum",
+          "price": 24.5,
+          "url": "https://www.bittersandbottles.com/products/tiki-lovers-white-rum",
+          "first_seen": "2026-04-04T06:45:26.871775+00:00"
+        },
+        "panama-pacific-15-year-rum": {
+          "name": "Panama Pacific 15 Year Rum",
+          "price": 54.5,
+          "url": "https://www.bittersandbottles.com/products/panama-pacific-15-year-rum",
+          "first_seen": "2026-04-04T06:45:26.871793+00:00"
+        },
+        "hamilton-87-white-stache-rum": {
+          "name": "Hamilton 87 White 'Stache Rum",
+          "price": 26.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-87-white-stache-rum",
+          "first_seen": "2026-04-04T06:45:26.871805+00:00"
+        },
+        "kuleana-hawaiian-agricole-rum": {
+          "name": "Kuleana Hawaiian Agricole Rum",
+          "price": 59.5,
+          "url": "https://www.bittersandbottles.com/products/kuleana-hawaiian-agricole-rum",
+          "first_seen": "2026-04-04T06:45:26.871825+00:00"
+        },
+        "rhum-jm-vo-agricole-rhum": {
+          "name": "Rhum JM VO Agricole Rhum",
+          "price": 36.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-vo-agricole-rhum",
+          "first_seen": "2026-04-04T06:45:26.871854+00:00"
+        },
+        "denizen-vatted-dark-rum": {
+          "name": "Denizen Vatted Dark Rum",
+          "price": 23.5,
+          "url": "https://www.bittersandbottles.com/products/denizen-vatted-dark-rum",
+          "first_seen": "2026-04-04T06:45:26.871864+00:00"
+        },
+        "saint-benevolence-haitin-clairin-rum": {
+          "name": "Saint Benevolence Haitian Clairin Rum",
+          "price": 34.5,
+          "url": "https://www.bittersandbottles.com/products/saint-benevolence-haitin-clairin-rum",
+          "first_seen": "2026-04-04T06:45:26.871886+00:00"
+        },
+        "neisson-organic-agricole-blanc-rhum": {
+          "name": "Neisson Organic Agricole Blanc Rhum",
+          "price": 69.5,
+          "url": "https://www.bittersandbottles.com/products/neisson-organic-agricole-blanc-rhum",
+          "first_seen": "2026-04-04T06:45:26.871906+00:00"
+        },
+        "tiki-lovers-dark-rum": {
+          "name": "Tiki Lovers Dark Rum",
+          "price": 24.5,
+          "url": "https://www.bittersandbottles.com/products/tiki-lovers-dark-rum",
+          "first_seen": "2026-04-04T06:45:27.942163+00:00"
+        },
+        "foursquare-probitas-white-rum": {
+          "name": "Foursquare Probitas White Rum",
+          "price": 26.5,
+          "url": "https://www.bittersandbottles.com/products/foursquare-probitas-white-rum",
+          "first_seen": "2026-04-04T06:45:28.988605+00:00"
+        },
+        "hampden-estate-46-single-jamaican-rum": {
+          "name": "Hampden Estate 8 Year Single Jamaican Rum",
+          "price": 99.5,
+          "url": "https://www.bittersandbottles.com/products/hampden-estate-46-single-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:30.021434+00:00"
+        },
+        "copalli-organic-white-rum": {
+          "name": "Copalli Organic White Rum",
+          "price": 36.5,
+          "url": "https://www.bittersandbottles.com/products/copalli-organic-white-rum",
+          "first_seen": "2026-04-04T06:45:30.021492+00:00"
+        },
+        "rhum-jm-xo-agricole-rhum": {
+          "name": "Rhum JM XO Agricole Rhum",
+          "price": 74.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-xo-agricole-rhum",
+          "first_seen": "2026-04-04T06:45:30.021527+00:00"
+        },
+        "selvarey-cacao-rum": {
+          "name": "Selvarey Cacao Rum",
+          "price": 41.5,
+          "url": "https://www.bittersandbottles.com/products/selvarey-cacao-rum",
+          "first_seen": "2026-04-04T06:45:30.021544+00:00"
+        },
+        "hamilton-west-indies-1670-blend-rum": {
+          "name": "Hamilton West Indies 1670 Blend Rum",
+          "price": 27.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-west-indies-1670-blend-rum",
+          "first_seen": "2026-04-04T06:45:30.021555+00:00"
+        },
+        "angostura-5-year-superior-gold-rum": {
+          "name": "Angostura 5 Year Superior Gold Rum",
+          "price": 27.5,
+          "url": "https://www.bittersandbottles.com/products/angostura-5-year-superior-gold-rum",
+          "first_seen": "2026-04-04T06:45:30.021570+00:00"
+        },
+        "hamilton-jamaican-pot-still-blonde-rum": {
+          "name": "Hamilton Jamaican Pot Still Blonde Rum",
+          "price": 28.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-jamaican-pot-still-blonde-rum",
+          "first_seen": "2026-04-04T06:45:30.021585+00:00"
+        },
+        "the-real-mccoy-3-year-rum": {
+          "name": "The Real McCoy 3 Year Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/the-real-mccoy-3-year-rum",
+          "first_seen": "2026-04-04T06:45:30.021606+00:00"
+        },
+        "planteray-xaymaca-special-dry-jamaican-rum": {
+          "name": "Planteray Xaymaca Special Dry Jamaican Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-xaymaca-special-dry-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:31.072585+00:00"
+        },
+        "worthy-park-single-estate-reserve-jamaica-rum": {
+          "name": "Worthy Park Single Estate Reserve Jamaica Rum",
+          "price": 64.5,
+          "url": "https://www.bittersandbottles.com/products/worthy-park-single-estate-reserve-jamaica-rum",
+          "first_seen": "2026-04-04T06:45:31.072644+00:00"
+        },
+        "saint-benevolence-5-year-caribbean-rum": {
+          "name": "Saint Benevolence 5 Year Caribbean Rum",
+          "price": 34.5,
+          "url": "https://www.bittersandbottles.com/products/saint-benevolence-5-year-caribbean-rum",
+          "first_seen": "2026-04-04T06:45:31.072657+00:00"
+        },
+        "casa-magdalena-blanco-rum": {
+          "name": "Casa Magdalena Blanco Rum",
+          "price": 22.5,
+          "url": "https://www.bittersandbottles.com/products/casa-magdalena-blanco-rum",
+          "first_seen": "2026-04-04T06:45:31.072714+00:00"
+        },
+        "clairin-sajous-distillery-chelo-haitin-rum": {
+          "name": "Clairin Sajous 'Distillery Chelo' Haitian Rum",
+          "price": 53.5,
+          "url": "https://www.bittersandbottles.com/products/clairin-sajous-distillery-chelo-haitin-rum",
+          "first_seen": "2026-04-04T06:45:32.148324+00:00"
+        },
+        "rhum-jm-blanc-100-proof-rhum": {
+          "name": "Rhum JM Agricole Blanc 50% Rhum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-blanc-100-proof-rhum",
+          "first_seen": "2026-04-04T06:45:32.148386+00:00"
+        },
+        "uruapan-charanda-blanco-rum": {
+          "name": "Uruapan Charanda Blanco Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/uruapan-charanda-blanco-rum",
+          "first_seen": "2026-04-04T06:45:32.148406+00:00"
+        },
+        "the-funk-heavy-pot-still-jamaican-rum": {
+          "name": "The Funk Heavy Pot Still Jamaican Rum",
+          "price": 24.5,
+          "url": "https://www.bittersandbottles.com/products/the-funk-heavy-pot-still-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:32.148455+00:00"
+        },
+        "royal-standard-dry-white-rum": {
+          "name": "Royal Standard Dry White Rum",
+          "price": 23.5,
+          "url": "https://www.bittersandbottles.com/products/royal-standard-dry-white-rum",
+          "first_seen": "2026-04-04T06:45:32.148466+00:00"
+        },
+        "hamilton-jamaican-pot-still-black-rum": {
+          "name": "Hamilton Jamaican Pot Still Black Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-jamaican-pot-still-black-rum",
+          "first_seen": "2026-04-04T06:45:32.148481+00:00"
+        },
+        "ko-hana-kea-hawaiian-agricole-rum": {
+          "name": "KoHana Kea Hawaiian Agricole Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/ko-hana-kea-hawaiian-agricole-rum",
+          "first_seen": "2026-04-04T06:45:32.148493+00:00"
+        },
+        "paranubes-oaxaca-rum": {
+          "name": "Paranubes Oaxaca Rum",
+          "price": 52.5,
+          "url": "https://www.bittersandbottles.com/products/paranubes-oaxaca-rum",
+          "first_seen": "2026-04-04T06:45:33.202339+00:00"
+        },
+        "hamilton-navy-strength-114-proof-rum": {
+          "name": "Hamilton Navy Strength 114 Proof Rum",
+          "price": 31.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-navy-strength-114-proof-rum",
+          "first_seen": "2026-04-04T06:45:33.202377+00:00"
+        },
+        "el-dorado-cask-aged-5-year-rum": {
+          "name": "El Dorado Cask Aged 5 Year Rum",
+          "price": 24.5,
+          "url": "https://www.bittersandbottles.com/products/el-dorado-cask-aged-5-year-rum",
+          "first_seen": "2026-04-04T06:45:33.202403+00:00"
+        },
+        "two-james-doctor-bird-jamaica-rum": {
+          "name": "Doctor Bird Jamaica Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/two-james-doctor-bird-jamaica-rum",
+          "first_seen": "2026-04-04T06:45:33.202419+00:00"
+        },
+        "plantation-barbados-20th-anniversary-xo-rum": {
+          "name": "Planteray Barbados 20th Anniversary XO Rum",
+          "price": 64.5,
+          "url": "https://www.bittersandbottles.com/products/plantation-barbados-20th-anniversary-xo-rum",
+          "first_seen": "2026-04-04T06:45:33.202434+00:00"
+        },
+        "rhum-jm-vsop-agricole-rhum": {
+          "name": "Rhum JM VSOP Agricole Rhum",
+          "price": 54.5,
+          "url": "https://www.bittersandbottles.com/products/rhum-jm-vsop-agricole-rhum",
+          "first_seen": "2026-04-04T06:45:33.202462+00:00"
+        },
+        "panama-pacific-9-year-rum": {
+          "name": "Panama Pacific 9 Year Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/panama-pacific-9-year-rum",
+          "first_seen": "2026-04-04T06:45:33.202480+00:00"
+        },
+        "brugal-extra-dry-supremo-rum": {
+          "name": "Brugal Extra Dry Supremo Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/brugal-extra-dry-supremo-rum",
+          "first_seen": "2026-04-04T06:45:33.202489+00:00"
+        },
+        "the-real-mccoy-5-year-rum": {
+          "name": "The Real McCoy 5 Year Rum",
+          "price": 31.5,
+          "url": "https://www.bittersandbottles.com/products/the-real-mccoy-5-year-rum",
+          "first_seen": "2026-04-04T06:45:33.202508+00:00"
+        },
+        "rum-fire-overproof-jamaican-rum": {
+          "name": "Rum Fire Overproof Jamaican Rum",
+          "price": 35.5,
+          "url": "https://www.bittersandbottles.com/products/rum-fire-overproof-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:34.275107+00:00"
+        },
+        "ron-del-barrilito-3-star-rum": {
+          "name": "Ron Del Barrilito 3 Star Rum",
+          "price": 42.5,
+          "url": "https://www.bittersandbottles.com/products/ron-del-barrilito-3-star-rum",
+          "first_seen": "2026-04-04T06:45:34.275155+00:00"
+        },
+        "lemon-hart-original-1804-rum": {
+          "name": "Lemon Hart Original 1804 Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/lemon-hart-original-1804-rum",
+          "first_seen": "2026-04-04T06:45:34.275207+00:00"
+        },
+        "planteray-grand-reserve-5-year-rum": {
+          "name": "Planteray 5 Year Barbados Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-grand-reserve-5-year-rum",
+          "first_seen": "2026-04-04T06:45:34.275221+00:00"
+        },
+        "the-real-mccoy-12-year-rum": {
+          "name": "The Real McCoy 12 Year Rum",
+          "price": 62.5,
+          "url": "https://www.bittersandbottles.com/products/the-real-mccoy-12-year-rum",
+          "first_seen": "2026-04-04T06:45:34.275241+00:00"
+        },
+        "appleton-estate-21-year-jamaican-rum": {
+          "name": "Appleton Estate 21 Year Jamaican Rum",
+          "price": 156.5,
+          "url": "https://www.bittersandbottles.com/products/appleton-estate-21-year-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:34.275254+00:00"
+        },
+        "batavia-arrack-van-oosten-sugarcane-spirit": {
+          "name": "Batavia Arrack van Oosten Sugarcane Spirit",
+          "price": 36.5,
+          "url": "https://www.bittersandbottles.com/products/batavia-arrack-van-oosten-sugarcane-spirit",
+          "first_seen": "2026-04-04T06:45:34.275262+00:00"
+        },
+        "one-barrel-belize-rum": {
+          "name": "One Barrel Belize Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/one-barrel-belize-rum",
+          "first_seen": "2026-04-04T06:45:34.275269+00:00"
+        },
+        "stark-spirits-silver-rum": {
+          "name": "Stark Spirits Silver Rum",
+          "price": 3.49,
+          "url": "https://www.bittersandbottles.com/products/stark-spirits-silver-rum",
+          "first_seen": "2026-04-04T06:45:34.275275+00:00"
+        },
+        "lemon-hart-overproof-151-rum": {
+          "name": "Lemon Hart Overproof 151 Rum",
+          "price": 40.5,
+          "url": "https://www.bittersandbottles.com/products/lemon-hart-overproof-151-rum",
+          "first_seen": "2026-04-04T06:45:34.275287+00:00"
+        },
+        "hamilton-demerara-151-overproof-rum": {
+          "name": "Hamilton Demerara 151 Overproof Rum",
+          "price": 34.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-demerara-151-overproof-rum",
+          "first_seen": "2026-04-04T06:45:34.275297+00:00"
+        },
+        "hamilton-demerara-86-proof-rum": {
+          "name": "Hamilton Demerara 86 Proof Rum",
+          "price": 26.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-demerara-86-proof-rum",
+          "first_seen": "2026-04-04T06:45:34.275307+00:00"
+        },
+        "hamilton-jamaican-pot-still-gold-rum": {
+          "name": "Hamilton Jamaican Pot Still Gold Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/hamilton-jamaican-pot-still-gold-rum",
+          "first_seen": "2026-04-04T06:45:34.275315+00:00"
+        },
+        "el-dorado-15-year-special-reserve-rum": {
+          "name": "El Dorado 15 Year Special Reserve Rum",
+          "price": 66.5,
+          "url": "https://www.bittersandbottles.com/products/el-dorado-15-year-special-reserve-rum",
+          "first_seen": "2026-04-04T06:45:34.275331+00:00"
+        },
+        "el-dorado-12-year-rum": {
+          "name": "El Dorado 12 Year Rum",
+          "price": 42.5,
+          "url": "https://www.bittersandbottles.com/products/el-dorado-12-year-rum",
+          "first_seen": "2026-04-04T06:45:34.275340+00:00"
+        },
+        "el-dorado-cask-aged-8-year-rum": {
+          "name": "El Dorado Cask Aged 8 Year Rum",
+          "price": 32.5,
+          "url": "https://www.bittersandbottles.com/products/el-dorado-cask-aged-8-year-rum",
+          "first_seen": "2026-04-04T06:45:34.275365+00:00"
+        },
+        "el-dorado-cask-aged-3-year-white-rum": {
+          "name": "El Dorado Cask Aged 3 Year White Rum",
+          "price": 19.5,
+          "url": "https://www.bittersandbottles.com/products/el-dorado-cask-aged-3-year-white-rum",
+          "first_seen": "2026-04-04T06:45:34.275373+00:00"
+        },
+        "santa-teresa-1796-solera-rum": {
+          "name": "Santa Teresa 1796 Solera Rum",
+          "price": 44.5,
+          "url": "https://www.bittersandbottles.com/products/santa-teresa-1796-solera-rum",
+          "first_seen": "2026-04-04T06:45:34.275380+00:00"
+        },
+        "scarlet-ibis-trinidad-rum": {
+          "name": "Scarlet Ibis Trinidad Rum",
+          "price": 31.5,
+          "url": "https://www.bittersandbottles.com/products/scarlet-ibis-trinidad-rum",
+          "first_seen": "2026-04-04T06:45:34.275387+00:00"
+        },
+        "chairmans-reserve-spiced-rum": {
+          "name": "Chairman's Reserve Spiced Rum",
+          "price": 28.5,
+          "url": "https://www.bittersandbottles.com/products/chairmans-reserve-spiced-rum",
+          "first_seen": "2026-04-04T06:45:34.275394+00:00"
+        },
+        "smith-cross-jamaican-rum": {
+          "name": "Smith & Cross Jamaican Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/smith-cross-jamaican-rum",
+          "first_seen": "2026-04-04T06:45:35.303986+00:00"
+        },
+        "banks-7-island-golden-rum": {
+          "name": "Banks 7 Island Golden Rum",
+          "price": 34.5,
+          "url": "https://www.bittersandbottles.com/products/banks-7-island-golden-rum",
+          "first_seen": "2026-04-04T06:45:35.304027+00:00"
+        },
+        "banks-5-island-rum": {
+          "name": "Banks 5 Island Rum",
+          "price": 29.5,
+          "url": "https://www.bittersandbottles.com/products/banks-5-island-rum",
+          "first_seen": "2026-04-04T06:45:35.304044+00:00"
+        },
+        "la-favorite-blanc-rhum": {
+          "name": "La Favorite Blanc Rhum",
+          "price": 44.5,
+          "url": "https://www.bittersandbottles.com/products/la-favorite-blanc-rhum",
+          "first_seen": "2026-04-04T06:45:35.304061+00:00"
+        },
+        "brugal-1888-rum": {
+          "name": "Brugal 1888 Gran Reserva Rum",
+          "price": 42.5,
+          "url": "https://www.bittersandbottles.com/products/brugal-1888-rum",
+          "first_seen": "2026-04-04T06:45:35.304073+00:00"
+        },
+        "clement-vsop-rhum": {
+          "name": "Clement VSOP Agricole Rhum",
+          "price": 46.5,
+          "url": "https://www.bittersandbottles.com/products/clement-vsop-rhum",
+          "first_seen": "2026-04-04T06:45:35.304085+00:00"
+        },
+        "clement-canne-bleue-rhum": {
+          "name": "Clement Canne Bleue Agricole Rhum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/clement-canne-bleue-rhum",
+          "first_seen": "2026-04-04T06:45:35.304095+00:00"
+        },
+        "coruba-dark-rum": {
+          "name": "Coruba Dark Rum",
+          "price": 23.5,
+          "url": "https://www.bittersandbottles.com/products/coruba-dark-rum",
+          "first_seen": "2026-04-04T06:45:35.304106+00:00"
+        },
+        "cruzan-black-strap-rum": {
+          "name": "Cruzan Black Strap Rum",
+          "price": 18.5,
+          "url": "https://www.bittersandbottles.com/products/cruzan-black-strap-rum",
+          "first_seen": "2026-04-04T06:45:35.304116+00:00"
+        },
+        "wray-nephew-overproof-white-rum": {
+          "name": "Wray & Nephew Overproof White Rum",
+          "price": 28.5,
+          "url": "https://www.bittersandbottles.com/products/wray-nephew-overproof-white-rum",
+          "first_seen": "2026-04-04T06:45:35.304129+00:00"
+        },
+        "planteray-oftd-old-fashioned-overproof-rum": {
+          "name": "Planteray OFTD Old Fashioned Overproof Rum",
+          "price": 39.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-oftd-old-fashioned-overproof-rum",
+          "first_seen": "2026-04-04T06:45:35.304140+00:00"
+        },
+        "planteray-stiggins-fancy-pineapple-rum": {
+          "name": "Planteray Stiggins Fancy Pineapple Rum",
+          "price": 32.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-stiggins-fancy-pineapple-rum",
+          "first_seen": "2026-04-04T06:45:35.304150+00:00"
+        },
+        "planteray-3-star-white-rum": {
+          "name": "Planteray 3 Star White Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/planteray-3-star-white-rum",
+          "first_seen": "2026-04-04T06:45:35.304158+00:00"
+        },
+        "plantation-original-dark-rum": {
+          "name": "Planteray Original Dark Rum",
+          "price": 21.5,
+          "url": "https://www.bittersandbottles.com/products/plantation-original-dark-rum",
+          "first_seen": "2026-04-04T06:45:36.338014+00:00"
+        },
+        "pussers-british-navy-gunpowder-proof-rum": {
+          "name": "Pussers British Navy Gunpowder Proof Rum",
+          "price": 39.5,
+          "url": "https://www.bittersandbottles.com/products/pussers-british-navy-gunpowder-proof-rum",
+          "first_seen": "2026-04-04T06:45:36.338057+00:00"
+        },
+        "pussers-15-year-true-aged-rum": {
+          "name": "Pussers 15 Year True Aged Rum",
+          "price": 84.5,
+          "url": "https://www.bittersandbottles.com/products/pussers-15-year-true-aged-rum",
+          "first_seen": "2026-04-04T06:45:36.338089+00:00"
+        },
+        "pussers-british-navy-rum": {
+          "name": "Pussers British Navy Rum",
+          "price": 28.5,
+          "url": "https://www.bittersandbottles.com/products/pussers-british-navy-rum",
+          "first_seen": "2026-04-04T06:45:36.338100+00:00"
+        },
+        "angostura-grand-anejo-7-year-rum": {
+          "name": "Angostura 7 Year Rum",
+          "price": 34.5,
+          "url": "https://www.bittersandbottles.com/products/angostura-grand-anejo-7-year-rum",
+          "first_seen": "2026-04-04T06:45:36.338118+00:00"
+        },
+        "diplomatico-reserva-exclusiva-12-year-rum": {
+          "name": "Diplomatico Reserva Exclusiva Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/diplomatico-reserva-exclusiva-12-year-rum",
+          "first_seen": "2026-04-04T06:45:36.338128+00:00"
+        },
+        "denizen-8-year-merchants-reserve-rum": {
+          "name": "Denizen Small Batch 8 Year Merchant's Reserve Rum",
+          "price": 35.5,
+          "url": "https://www.bittersandbottles.com/products/denizen-8-year-merchants-reserve-rum",
+          "first_seen": "2026-04-04T06:45:36.338139+00:00"
+        },
+        "flor-de-cana-white-4-year-rum": {
+          "name": "Flor De Ca\u00f1a White Extra Seco '4' Rum",
+          "price": 19.5,
+          "url": "https://www.bittersandbottles.com/products/flor-de-cana-white-4-year-rum",
+          "first_seen": "2026-04-04T06:45:36.338153+00:00"
+        },
+        "english-harbour-5-year-rum": {
+          "name": "English Harbour 5 Year Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/english-harbour-5-year-rum",
+          "first_seen": "2026-04-04T06:45:36.338178+00:00"
         }
       }
     },
