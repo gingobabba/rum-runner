@@ -2,7 +2,7 @@
 
 import logging
 import time
-import requests
+from curl_cffi import requests
 
 logger = logging.getLogger(__name__)
 
