@@ -1,9 +1,19 @@
 {
-  "last_run": null,
+  "last_run": "2026-04-04T06:13:55.998664+00:00",
   "retailers": {
     "klwines": {
       "catalog": {},
-      "watches": {}
+      "watches": {
+        "https://shop.klwines.com/products/details/1919203": {
+          "in_stock": false
+        },
+        "https://shop.klwines.com/products/details/1976863": {
+          "in_stock": false
+        },
+        "https://shop.klwines.com/products/details/1912467": {
+          "in_stock": false
+        }
+      }
     },
     "bittersandbottles": {
       "catalog": {}
@@ -15,7 +25,86 @@
       "catalog": {}
     },
     "baytowne": {
-      "catalog": {}
+      "catalog": {
+        "aged": {
+          "name": "Aged(77)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/aged",
+          "first_seen": "2026-04-04T06:13:55.998513+00:00"
+        },
+        "silver-rum": {
+          "name": "Silver Rum(9)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/silver-rum",
+          "first_seen": "2026-04-04T06:13:55.998538+00:00"
+        },
+        "gold-rum": {
+          "name": "Gold Rum(10)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/gold-rum",
+          "first_seen": "2026-04-04T06:13:55.998545+00:00"
+        },
+        "dark-rum": {
+          "name": "Dark Rum(5)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/dark-rum",
+          "first_seen": "2026-04-04T06:13:55.998550+00:00"
+        },
+        "white-rum": {
+          "name": "White Rum(2)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/white-rum",
+          "first_seen": "2026-04-04T06:13:55.998555+00:00"
+        },
+        "rhum-agricole": {
+          "name": "Rhum Agricole(2)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/rhum-agricole",
+          "first_seen": "2026-04-04T06:13:55.998560+00:00"
+        },
+        "light-rum": {
+          "name": "Light Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/light-rum",
+          "first_seen": "2026-04-04T06:13:55.998570+00:00"
+        },
+        "grand-arome-rum": {
+          "name": "Grand Arome Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/grand-arome-rum",
+          "first_seen": "2026-04-04T06:13:55.998579+00:00"
+        },
+        "white-rum-1": {
+          "name": "White Rum(2)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/white-rum-1",
+          "first_seen": "2026-04-04T06:13:55.998586+00:00"
+        },
+        "spiced-rum": {
+          "name": "Spiced Rum(20)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/spiced-rum",
+          "first_seen": "2026-04-04T06:13:55.998589+00:00"
+        },
+        "un-aged": {
+          "name": "Un Aged(15)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/un-aged",
+          "first_seen": "2026-04-04T06:13:55.998592+00:00"
+        },
+        "flavored-rum": {
+          "name": "Flavored Rum(30)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/flavored-rum",
+          "first_seen": "2026-04-04T06:13:55.998595+00:00"
+        },
+        "pot-still-rum": {
+          "name": "Pot Still Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/pot-still-rum",
+          "first_seen": "2026-04-04T06:13:55.998598+00:00"
+        }
+      }
     }
   }
 }
