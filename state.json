@@ -1,0 +1,21 @@
+{
+  "last_run": null,
+  "retailers": {
+    "klwines": {
+      "catalog": {},
+      "watches": {}
+    },
+    "bittersandbottles": {
+      "catalog": {}
+    },
+    "potomac": {
+      "catalog": {}
+    },
+    "astor": {
+      "catalog": {}
+    },
+    "baytowne": {
+      "catalog": {}
+    }
+  }
+}

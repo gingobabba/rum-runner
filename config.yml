@@ -1,0 +1,59 @@
+telegram:
+  bot_token: "${TELEGRAM_BOT_TOKEN}"
+  chat_id: "${TELEGRAM_CHAT_ID}"
+
+# Keywords matched case-insensitively against product title AND description
+# across ALL retailer catalogs (OR logic — any match triggers an alert)
+global_keywords:
+  - "Velier"
+  - "Hampden"
+  - "LMV"
+  - "TECA"
+  - "TECC"
+  - "HGML"
+  - "hogo monsta"
+  - "long pond"
+  - "new yarmouth"
+
+retailers:
+  klwines:
+    enabled: true
+    name: "KL Wines"
+    # Category page for full rum catalog (new product detection + keyword scan)
+    rum_category_url: "https://www.klwines.com/Products?filters=sv2_44&limit=96&offset={offset}&orderBy=0&searchText=*"
+    # KL-specific extra keywords (on top of global_keywords)
+    extra_keywords:
+      - "New Yarmouth"
+    # Specific product URLs to monitor for price changes and low stock
+    watches:
+      - url: "https://shop.klwines.com/products/details/1919203"
+        low_stock_threshold: 2
+      - url: "https://shop.klwines.com/products/details/1976863"
+        low_stock_threshold: 2
+      - url: "https://shop.klwines.com/products/details/1912467"
+        low_stock_threshold: 2
+
+  bittersandbottles:
+    enabled: true
+    name: "Bitter & Bottles"
+    # Shopify JSON API — reliable, no HTML parsing needed
+    rum_category_url: "https://www.bittersandbottles.com/collections/rum/products.json"
+    platform: "shopify"
+
+  potomac:
+    enabled: true
+    name: "Potomac Wine & Spirits"
+    rum_category_url: "https://potomacwines.com/spirits/rum"
+    platform: "opencart"
+
+  astor:
+    enabled: true
+    name: "Astor Wines"
+    rum_category_url: "https://www.astorwines.com/SearchResult.aspx?searchtype=Contains&term=Rum&viewall=true"
+    platform: "custom_aspnet"
+
+  baytowne:
+    enabled: true
+    name: "Baytowne Wine"
+    rum_category_url: "https://baytownewine.com/spirits"
+    platform: "custom"
