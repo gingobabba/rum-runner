@@ -75,21 +75,4 @@ jobs:
           git config user.email "rum-monitor[bot]@users.noreply.github.com"
           git add state.json
           git diff --cached --quiet || git commit -m "chore: update state.json [skip ci]"
-          git push || (
-            git fetch origin main
-            python3 -c "
-import json, subprocess
-with open('state.json') as f:
-    ours = json.load(f)
-remote_raw = subprocess.run(['git','show','origin/main:state.json'], capture_output=True, text=True).stdout
-remote = json.loads(remote_raw)
-remote.setdefault('retailers', {})['klwines'] = ours.get('retailers', {}).get('klwines', {})
-remote['last_run'] = ours.get('last_run')
-with open('state.json', 'w') as f:
-    json.dump(remote, f, indent=2)
-print('Merged KL state onto remote state.json')
-"
-            git add state.json
-            git commit --amend --no-edit
-            git push
-          )
+          git push || (git fetch origin main && python3 scripts/merge_kl_state.py && git add state.json && git commit --amend --no-edit && git push)
