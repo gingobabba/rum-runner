@@ -126,13 +126,21 @@ def process_catalog(
                 logger.info(
                     f"[{retailer_name}] NEW MATCH: '{product.name}' (keyword: {matched})"
                 )
-                notifier.alert_new_product(
-                    retailer=retailer_name,
-                    product_name=product.name,
-                    price=product.price,
-                    url=product.url,
-                    matched_keyword=matched,
-                )
+                if product.price == 0:
+                    notifier.alert_pre_release(
+                        retailer=retailer_name,
+                        product_name=product.name,
+                        url=product.url,
+                        matched_keyword=matched,
+                    )
+                else:
+                    notifier.alert_new_product(
+                        retailer=retailer_name,
+                        product_name=product.name,
+                        price=product.price,
+                        url=product.url,
+                        matched_keyword=matched,
+                    )
             # Record in state regardless of keyword match
             known_catalog[pid] = {
                 "name": product.name,

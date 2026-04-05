@@ -54,6 +54,18 @@ class Notifier:
         self.send(msg)
         time.sleep(0.5)  # Avoid Telegram rate limits between back-to-back sends
 
+    def alert_pre_release(self, retailer: str, product_name: str,
+                          url: str, matched_keyword: str) -> None:
+        msg = (
+            f"🔔 <b>Pre-Release — {retailer}</b>\n"
+            f"{product_name}\n"
+            f"Listed but not yet priced — may be upcoming release\n"
+            f'Matched: <i>{matched_keyword}</i>\n'
+            f"🔗 {url}"
+        )
+        self.send(msg)
+        time.sleep(0.5)
+
     def alert_price_drop(self, retailer: str, product_name: str,
                          old_price: float, new_price: float, url: str) -> None:
         if old_price > 0:
