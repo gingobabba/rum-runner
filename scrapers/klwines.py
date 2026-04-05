@@ -75,81 +75,42 @@ class KLWinesScraper(BaseScraper):
         """
         Parse one catalog result page.
 
-        KL Wines renders product cards as <li> elements inside a results list.
-        Each card contains a link matching /products/details/{SKU}.
-        Selector priority: specific class selectors → fallback link scan.
+        KL Wines renders products as <li class="no-highlight"> items.
+        SKU is in <a class="product-link" data-insights-object-id="...">.
         """
         products: List[Product] = []
-
-        # Primary selectors (adjust if KL redesigns)
-        items = (
-            soup.select("li.result") or
-            soup.select(".product-listing-item") or
-            soup.select("div.result")
-        )
-
-        if items:
-            for item in items:
-                product = self._parse_product_card(item)
-                if product:
-                    products.append(product)
-        else:
-            # Fallback: scan all links matching the product URL pattern
-            logger.debug("KL catalog: primary selectors found nothing, falling back to link scan")
-            seen_skus = set()
-            for link in soup.find_all("a", href=re.compile(r"/products/details/\d+")):
-                href = link.get("href", "")
-                sku_m = re.search(r"/products/details/(\d+)", href)
-                if not sku_m or sku_m.group(1) in seen_skus:
-                    continue
-                sku = sku_m.group(1)
-                seen_skus.add(sku)
-                url = href if href.startswith("http") else SHOP_BASE + href
-                name = link.get_text(strip=True)
-                if name:
-                    products.append(Product(id=sku, name=name, price=0.0, url=url))
-
+        for item in soup.select("li.no-highlight"):
+            product = self._parse_product_card(item)
+            if product:
+                products.append(product)
         return products
 
     def _parse_product_card(self, item) -> Optional[Product]:
         """Extract product info from a single result card element."""
         try:
-            link = item.find("a", href=re.compile(r"/products/details/\d+"))
+            link = item.select_one("a.product-link")
             if not link:
                 return None
 
-            href = link.get("href", "")
-            sku_m = re.search(r"/products/details/(\d+)", href)
-            if not sku_m:
-                return None
-            sku = sku_m.group(1)
-            url = href if href.startswith("http") else SHOP_BASE + href
+            sku = link.get("data-insights-object-id", "")
+            if not sku:
+                m = re.search(r"[?&]i=(\d+)", link.get("href", ""))
+                if not m:
+                    return None
+                sku = m.group(1)
 
-            # Name — prefer dedicated name element, fall back to link text
-            name_el = (
-                item.select_one(".result-info h3") or
-                item.select_one(".product-name") or
-                item.select_one("h2") or
-                item.select_one("h3") or
-                link
-            )
+            url = f"{CATALOG_BASE}/p/i?i={sku}"
+
+            name_el = item.select_one("h3")
             name = name_el.get_text(strip=True) if name_el else ""
             if not name:
                 return None
 
-            # Price
-            price_el = (
-                item.select_one(".price") or
-                item.select_one(".product-price") or
-                item.select_one(".current-price") or
-                item.select_one("[data-price]")
-            )
-            price_text = price_el.get_text(strip=True) if price_el else ""
-            price = parse_price(price_text)
+            price_el = item.select_one("span.price")
+            price = parse_price(price_el.get_text(strip=True)) if price_el else 0.0
 
-            # Description (may not appear on listing page — that's OK)
-            desc_el = item.select_one(".notes, .description, .product-desc, .tasting-notes")
-            description = desc_el.get_text(strip=True) if desc_el else ""
+            desc_els = item.select("p.ui-li-desc")
+            description = desc_els[-1].get_text(strip=True) if len(desc_els) > 1 else ""
 
             return Product(id=sku, name=name, price=price, url=url, description=description)
 
