@@ -266,6 +266,81 @@ def process_watches(
 
 
 # ---------------------------------------------------------------------------
+# Digest (one-time snapshot of all current keyword matches)
+# ---------------------------------------------------------------------------
+
+
+def _run_digest(retailers_cfg: dict, global_keywords: List[str], notifier, args) -> None:
+    """Scrape all retailers, find every keyword match, send a Telegram digest."""
+    from datetime import datetime, timezone
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    total_matches = 0
+
+    for retailer_key, retailer_cfg in retailers_cfg.items():
+        if not retailer_cfg.get("enabled", True):
+            continue
+        if args.retailer and retailer_key != args.retailer:
+            continue
+        if args.skip and retailer_key == args.skip:
+            continue
+
+        retailer_name = retailer_cfg.get("name", retailer_key)
+        ScraperClass = SCRAPER_MAP.get(retailer_key)
+        if not ScraperClass:
+            continue
+
+        logger.info(f"[digest] Scraping {retailer_name}")
+        all_keywords = global_keywords + retailer_cfg.get("extra_keywords", [])
+
+        try:
+            scraper = ScraperClass(config=retailer_cfg, debug=args.debug)
+            products = scraper.get_catalog()
+        except Exception as e:
+            logger.exception(f"[digest] {retailer_name} scrape error: {e}")
+            notifier.send(f"⚠️ <b>Digest — {retailer_name}</b>\nScrape failed: {e}")
+            continue
+
+        if scraper.access_denied:
+            notifier.send(f"⚠️ <b>Digest — {retailer_name}</b>\nBlocked (403) — no data available")
+            continue
+
+        matches = [
+            (p.name, p.price, keywords_match(f"{p.name} {p.description}", all_keywords), p.url)
+            for p in products
+            if keywords_match(f"{p.name} {p.description}", all_keywords)
+        ]
+
+        if not matches:
+            logger.info(f"[digest] {retailer_name}: no matches")
+            continue
+
+        total_matches += len(matches)
+        logger.info(f"[digest] {retailer_name}: {len(matches)} matches")
+
+        # Build message — Telegram limit is 4096 chars, so chunk if needed
+        lines = [f"📋 <b>Digest — {retailer_name}</b>  ({timestamp})\n"]
+        for name, price, kw, url in matches:
+            price_str = f"${price:.2f}" if price > 0 else "unlisted"
+            lines.append(f"• {name}  <i>[{kw}]</i>  {price_str}\n  {url}")
+
+        # Send in chunks of ~4000 chars
+        chunk, chunk_len = [], 0
+        for line in lines:
+            if chunk_len + len(line) > 3900 and chunk:
+                notifier.send("\n".join(chunk))
+                chunk, chunk_len = [], 0
+            chunk.append(line)
+            chunk_len += len(line)
+        if chunk:
+            notifier.send("\n".join(chunk))
+
+    if total_matches == 0:
+        notifier.send(f"📋 <b>Digest</b>  ({timestamp})\nNo keyword matches found across all retailers.")
+    else:
+        notifier.send(f"📋 <b>Digest complete</b> — {total_matches} matches found across retailers.")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -276,6 +351,7 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true", help="Scrape but don't send Telegram alerts")
     parser.add_argument("--retailer", help="Run only this retailer key (e.g. klwines)")
     parser.add_argument("--skip", help="Skip this retailer key (e.g. klwines)")
+    parser.add_argument("--digest", action="store_true", help="Send a one-time digest of all current keyword matches, then exit")
     args = parser.parse_args()
 
     if args.debug:
@@ -293,6 +369,10 @@ def main() -> None:
 
     global_keywords: List[str] = config.get("global_keywords", [])
     retailers_cfg: dict = config.get("retailers", {})
+
+    if args.digest:
+        _run_digest(retailers_cfg, global_keywords, notifier, args)
+        return
 
     errors = []
 
