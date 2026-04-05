@@ -267,6 +267,7 @@ def main() -> None:
     parser.add_argument("--debug", action="store_true", help="Save raw HTML to /tmp/ for debugging")
     parser.add_argument("--dry-run", action="store_true", help="Scrape but don't send Telegram alerts")
     parser.add_argument("--retailer", help="Run only this retailer key (e.g. klwines)")
+    parser.add_argument("--skip", help="Skip this retailer key (e.g. klwines)")
     args = parser.parse_args()
 
     if args.debug:
@@ -292,6 +293,9 @@ def main() -> None:
             logger.info(f"Skipping disabled retailer: {retailer_key}")
             continue
         if args.retailer and retailer_key != args.retailer:
+            continue
+        if args.skip and retailer_key == args.skip:
+            logger.info(f"Skipping retailer (--skip flag): {retailer_key}")
             continue
 
         retailer_name = retailer_cfg.get("name", retailer_key)
