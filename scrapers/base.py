@@ -15,8 +15,9 @@ from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
 
-# Impersonation target — matches a recent stable Chrome version
-IMPERSONATE = "chrome120"
+# safari17_2_ios bypasses Cloudflare on KL Wines (www + shop subdomains)
+# while still working on all other retailers
+IMPERSONATE = "safari17_2_ios"
 
 
 @dataclass
