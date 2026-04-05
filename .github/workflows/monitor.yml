@@ -75,4 +75,4 @@ jobs:
           git config user.email "rum-monitor[bot]@users.noreply.github.com"
           git add state.json
           git diff --cached --quiet || git commit -m "chore: update state.json [skip ci]"
-          git push || (git fetch origin main && python3 scripts/merge_kl_state.py && git add state.json && git commit --amend --no-edit && git push)
+          git push || (git fetch origin main && python3 scripts/merge_kl_state.py && git reset --soft origin/main && git add state.json && git commit -m "chore: update state.json [skip ci]" && git push)
