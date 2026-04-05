@@ -1,25 +1,25 @@
 {
-  "last_run": "2026-04-05T06:16:05.675973+00:00",
+  "last_run": "2026-04-05T06:16:27.562851+00:00",
   "retailers": {
     "klwines": {
       "catalog": {},
       "watches": {
         "https://shop.klwines.com/products/details/1919203": {
-          "name": "2008 Jamaica NY (New Yarmouth) 17 Year Old  \"Down Island - Rumrise, Rumset\" FRS & RCC Collab #1 Sauternes Barrel Aged Single Barrel Jamaica Rum (700ml)",
+          "name": "Similar Products",
           "price": 0.0,
           "stock": -1,
           "in_stock": true,
           "alerted_low_stock": false
         },
         "https://shop.klwines.com/products/details/1976863": {
-          "name": "1997 Uitvlugt 24 Year Old \"Duncan Taylor\" Single Barrel #4 Cask Strength Guyana Rum (750ml)",
+          "name": "Similar Products",
           "price": 0.0,
           "stock": -1,
           "in_stock": true,
           "alerted_low_stock": false
         },
         "https://shop.klwines.com/products/details/1912467": {
-          "name": "La Galion Distillery \"Pelee's Fury III - Raising Glasses\" Cask Strength Small Batch Oloroso Sherry Finished Martinique Rum (375ml)",
+          "name": "Similar Products",
           "price": 0.0,
           "stock": -1,
           "in_stock": true,
