@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-06T15:13:36.210109+00:00",
+  "last_run": "2026-04-06T15:52:50.536658+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4081,6 +4081,18 @@
           "price": 0.0,
           "url": "https://www.astorwines.com/item/52431",
           "first_seen": "2026-04-05T21:35:53.980898+00:00"
+        },
+        "40958": {
+          "name": "Turquoise Bay Mauritius Amber Rum",
+          "price": 0.0,
+          "url": "https://www.astorwines.com/item/40958",
+          "first_seen": "2026-04-06T15:52:46.692532+00:00"
+        },
+        "40959": {
+          "name": "Anacaona Santo Domingo Reserve Rum",
+          "price": 0.0,
+          "url": "https://www.astorwines.com/item/40959",
+          "first_seen": "2026-04-06T15:52:46.692556+00:00"
         }
       }
     },
