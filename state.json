@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-07T02:38:45.638937+00:00",
+  "last_run": "2026-04-07T05:12:49.151734+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2782,7 +2782,7 @@
         },
         "07174": {
           "name": "Barbancourt 3 Star 4 Yr. Rhum",
-          "price": 24.99,
+          "price": 26.99,
           "url": "https://www.astorwines.com/item/07174",
           "first_seen": "2026-04-05T01:36:24.599644+00:00"
         },
@@ -2848,7 +2848,7 @@
         },
         "28892": {
           "name": "Planteray Barbados 20th Anniversary Rum",
-          "price": 59.97,
+          "price": 54.96,
           "url": "https://www.astorwines.com/item/28892",
           "first_seen": "2026-04-05T01:36:25.100578+00:00"
         },
@@ -4102,7 +4102,7 @@
         },
         "12904": {
           "name": "Gosling's Old Rum                                         ...",
-          "price": 89.99,
+          "price": 89.96,
           "url": "https://www.astorwines.com/item/12904",
           "first_seen": "2026-04-06T16:54:16.805975+00:00"
         },
