@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-06T23:39:52.335848+00:00",
+  "last_run": "2026-04-07T00:08:23.092477+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -869,7 +869,7 @@
         },
         "1995864": {
           "name": "2004 Hamilton 10 Year Old Cask Strength St. Lucia Pot Still Aged Rum",
-          "price": 90.0,
+          "price": 102.0,
           "url": "https://www.klwines.com/p/i?i=1995864",
           "first_seen": "2026-04-05T14:47:52.519770+00:00"
         },
