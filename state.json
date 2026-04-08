@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-08T15:02:41.693853+00:00",
+  "last_run": "2026-04-08T15:16:29.592425+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4141,6 +4141,24 @@
           "price": 39.99,
           "url": "https://www.astorwines.com/item/18298",
           "first_seen": "2026-04-07T18:12:15.320414+00:00"
+        },
+        "26142": {
+          "name": "Brugal 1888 Gran Reserva Rum                              ...",
+          "price": 51.99,
+          "url": "https://www.astorwines.com/item/26142",
+          "first_seen": "2026-04-08T15:16:25.484394+00:00"
+        },
+        "49816": {
+          "name": "El Amparo Rum                                             ...",
+          "price": 51.99,
+          "url": "https://www.astorwines.com/item/49816",
+          "first_seen": "2026-04-08T15:16:25.484422+00:00"
+        },
+        "54798": {
+          "name": "Transcontinental Rum Line High Seas Caibbean Blend Rum",
+          "price": 28.87,
+          "url": "https://www.astorwines.com/item/54798",
+          "first_seen": "2026-04-08T15:16:25.484480+00:00"
         }
       }
     },
