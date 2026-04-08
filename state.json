@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-08T20:48:52.893290+00:00",
+  "last_run": "2026-04-08T21:26:47.044870+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -226,8 +226,8 @@
           "first_seen": "2026-04-05T14:47:42.421299+00:00"
         },
         "1688848": {
-          "name": "Baie Des Tresors \"Plein Soleil\" Agricole Martinique (700ml)",
-          "price": 49.99,
+          "name": "Baie Des Tresors \"Plein Soleil\" Agricole Martinique (700ml) (Previously $50)",
+          "price": 0.0,
           "url": "https://www.klwines.com/p/i?i=1688848",
           "first_seen": "2026-04-05T14:47:42.421416+00:00"
         },
@@ -496,7 +496,7 @@
           "first_seen": "2026-04-05T14:47:49.160921+00:00"
         },
         "1995870": {
-          "name": "NV Enmore 25 Year Old \"Golden Devil\" K&L Exclusive Single Barrel Cask Strength Guyana Rum",
+          "name": "Enmore 25 Year Old \"Golden Devil\" K&L Exclusive Single Barrel Cask Strength Guyana Rum",
           "price": 180.0,
           "url": "https://www.klwines.com/p/i?i=1995870",
           "first_seen": "2026-04-05T14:47:49.160952+00:00"
@@ -874,7 +874,7 @@
           "first_seen": "2026-04-05T14:47:52.519770+00:00"
         },
         "1995850": {
-          "name": "NV Enmore 25 Year Old \"Faultline - K&L Exclusive\" Single Barrel Cask Strength Rum",
+          "name": "Enmore 25 Year Old \"Faultline - K&L Exclusive\" Single Barrel Cask Strength Rum",
           "price": 250.0,
           "url": "https://www.klwines.com/p/i?i=1995850",
           "first_seen": "2026-04-05T14:47:52.519805+00:00"
@@ -934,8 +934,8 @@
           "first_seen": "2026-04-05T14:47:52.520114+00:00"
         },
         "1476104": {
-          "name": "Starr 7 Year Old Ultra Superior Dark African Rum, Mauritius (750ml)",
-          "price": 49.99,
+          "name": "Starr 7 Year Old Ultra Superior Dark African Rum, Mauritius (750ml) (Previously $50)",
+          "price": 0.0,
           "url": "https://www.klwines.com/p/i?i=1476104",
           "first_seen": "2026-04-05T14:47:52.520148+00:00"
         },
@@ -1304,8 +1304,8 @@
         "https://shop.klwines.com/products/details/1919203": {
           "name": "Similar Products",
           "price": 0.0,
-          "stock": -1,
-          "in_stock": true,
+          "stock": 0,
+          "in_stock": false,
           "alerted_low_stock": false
         },
         "https://shop.klwines.com/products/details/1976863": {
