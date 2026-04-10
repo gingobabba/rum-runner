@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-10T03:25:28.032845+00:00",
+  "last_run": "2026-04-10T05:28:32.068779+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3586,7 +3586,7 @@
         },
         "54187": {
           "name": "Viamundi Charanda de la Familia Rum Artesanal             ...",
-          "price": 114.96,
+          "price": 97.72,
           "url": "https://www.astorwines.com/item/54187",
           "first_seen": "2026-04-05T01:36:30.109674+00:00"
         },
@@ -4234,13 +4234,13 @@
         },
         "18298": {
           "name": "Angostura 1919 8 Yr. Rum",
-          "price": 39.99,
+          "price": 39.97,
           "url": "https://www.astorwines.com/item/18298",
           "first_seen": "2026-04-07T18:12:15.320414+00:00"
         },
         "26142": {
           "name": "Brugal 1888 Gran Reserva Rum                              ...",
-          "price": 51.99,
+          "price": 51.96,
           "url": "https://www.astorwines.com/item/26142",
           "first_seen": "2026-04-08T15:16:25.484394+00:00"
         },
@@ -4276,7 +4276,7 @@
         },
         "52435": {
           "name": "El Dorado Enmore Cask Strength Single Still Rum",
-          "price": 134.96,
+          "price": 144.96,
           "url": "https://www.astorwines.com/item/52435",
           "first_seen": "2026-04-09T17:11:43.521859+00:00"
         }
