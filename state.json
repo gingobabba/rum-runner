@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-10T13:17:53.045298+00:00",
+  "last_run": "2026-04-10T14:52:01.976855+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2667,6 +2667,12 @@
           "price": 279.99,
           "url": "https://potomacwines.com/en-gb/product/Binders-Stash-7-Year-Old-Straight-Rye-Rye-n-Man",
           "first_seen": "2026-04-09T19:11:07.713452+00:00"
+        },
+        "Binders-Stash-8-Year-Old-Straight-Bourbon-Planet-Caramel": {
+          "name": "Binder's Stash 8 Year Old Straight Bourbon Planet Caramel",
+          "price": 374.99,
+          "url": "https://potomacwines.com/en-gb/product/Binders-Stash-8-Year-Old-Straight-Bourbon-Planet-Caramel",
+          "first_seen": "2026-04-10T14:50:59.733710+00:00"
         }
       }
     },
