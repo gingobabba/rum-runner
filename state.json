@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-10T15:00:43.820694+00:00",
+  "last_run": "2026-04-10T15:57:17.611361+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2652,7 +2652,7 @@
         },
         "Binders-Stash-8-Year-Old-Straight-Bourbon-Bills-Candy-Shop": {
           "name": "Binder's Stash 8 Year Old Straight Bourbon Bill's Candy Shop",
-          "price": 374.99,
+          "price": 349.99,
           "url": "https://potomacwines.com/en-gb/product/Binders-Stash-8-Year-Old-Straight-Bourbon-Bills-Candy-Shop",
           "first_seen": "2026-04-08T21:42:58.600105+00:00"
         },
@@ -2670,9 +2670,21 @@
         },
         "Binders-Stash-8-Year-Old-Straight-Bourbon-Planet-Caramel": {
           "name": "Binder's Stash 8 Year Old Straight Bourbon Planet Caramel",
-          "price": 374.99,
+          "price": 349.99,
           "url": "https://potomacwines.com/en-gb/product/Binders-Stash-8-Year-Old-Straight-Bourbon-Planet-Caramel",
           "first_seen": "2026-04-10T14:50:59.733710+00:00"
+        },
+        "Binders-Stash-8-Year-Old-Straight-Bourbon-Snowbound": {
+          "name": "Binder's Stash 8 Year Old Straight Bourbon Snowbound",
+          "price": 349.99,
+          "url": "https://potomacwines.com/en-gb/product/Binders-Stash-8-Year-Old-Straight-Bourbon-Snowbound",
+          "first_seen": "2026-04-10T15:56:19.256447+00:00"
+        },
+        "Binders-Stash-8-Year-Old-Straight-Bourbon-Bills-Crazy-Grain": {
+          "name": "Binder's Stash 8 Year Old Straight Bourbon Crazy Grain",
+          "price": 349.99,
+          "url": "https://potomacwines.com/en-gb/product/Binders-Stash-8-Year-Old-Straight-Bourbon-Bills-Crazy-Grain",
+          "first_seen": "2026-04-10T15:56:19.256465+00:00"
         }
       }
     },
