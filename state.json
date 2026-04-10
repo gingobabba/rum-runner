@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-09T22:44:29.037701+00:00",
+  "last_run": "2026-04-10T00:06:23.399629+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1730,7 +1730,7 @@
         },
         "ron-colon-salvadoreno-red-banana-oleo-rum": {
           "name": "Ron Colon Salvadoreno Red Banana Oleo Rum",
-          "price": 38.5,
+          "price": 29.5,
           "url": "https://www.bittersandbottles.com/products/ron-colon-salvadoreno-red-banana-oleo-rum",
           "first_seen": "2026-04-04T06:45:23.715011+00:00"
         },
