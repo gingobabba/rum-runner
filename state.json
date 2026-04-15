@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-15T20:54:11.673264+00:00",
+  "last_run": "2026-04-15T21:04:00.244053+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -472,8 +472,8 @@
           "first_seen": "2026-04-05T14:47:49.160804+00:00"
         },
         "1637943": {
-          "name": "Ca\u00f1ada Aguardiente de Oaxaca 100% Distilled from Sugar Cane Juice Rum (1L)",
-          "price": 39.99,
+          "name": "Ca\u00f1ada Aguardiente de Oaxaca 100% Distilled from Sugar Cane Juice Rum (1L) (Previously $40)",
+          "price": 0.0,
           "url": "https://www.klwines.com/p/i?i=1637943",
           "first_seen": "2026-04-05T14:47:49.160831+00:00"
         },
@@ -1126,8 +1126,8 @@
           "first_seen": "2026-04-05T14:47:52.521221+00:00"
         },
         "1540967": {
-          "name": "Kula Toasted Coconut Organic Rum from Hawaii (750ml)",
-          "price": 26.99,
+          "name": "Kula Toasted Coconut Organic Rum from Hawaii (750ml) (Previously $30)",
+          "price": 0.0,
           "url": "https://www.klwines.com/p/i?i=1540967",
           "first_seen": "2026-04-05T14:47:52.521248+00:00"
         },
