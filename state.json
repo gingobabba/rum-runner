@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-16T16:11:02.166820+00:00",
+  "last_run": "2026-04-16T17:19:15.818062+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4597,6 +4597,18 @@
           "price": 94.96,
           "url": "https://www.astorwines.com/item/54822",
           "first_seen": "2026-04-14T14:52:48.188495+00:00"
+        },
+        "54860": {
+          "name": "Alambique Serrano 'Besadiablos' Single Origin Oaxacan Rum",
+          "price": 89.96,
+          "url": "https://www.astorwines.com/item/54860",
+          "first_seen": "2026-04-16T17:19:12.973386+00:00"
+        },
+        "54859": {
+          "name": "Alambique Serrano 'Alambique de Cobre' Pot Still White ...",
+          "price": 74.96,
+          "url": "https://www.astorwines.com/item/54859",
+          "first_seen": "2026-04-16T17:19:12.973409+00:00"
         }
       }
     },
