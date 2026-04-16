@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-16T22:16:14.399679+00:00",
+  "last_run": "2026-04-16T23:21:56.862056+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -29,7 +29,7 @@
         },
         "1028172": {
           "name": "El Dorado 15 Year Old Demerara Guyana Rum (750ml)",
-          "price": 57.99,
+          "price": 55.99,
           "url": "https://www.klwines.com/p/i?i=1028172",
           "first_seen": "2026-04-05T14:47:37.968464+00:00"
         },
@@ -1355,7 +1355,7 @@
         },
         "2000712": {
           "name": "NV Diplomatico \"Distillery Collection No 3.\" Pot Still Venezuelan Rum",
-          "price": 32.0,
+          "price": 38.99,
           "url": "https://www.klwines.com/p/i?i=2000712",
           "first_seen": "2026-04-16T11:22:56.736612+00:00"
         },
@@ -1391,7 +1391,7 @@
         },
         "2000911": {
           "name": "NV Bapt & Clem 12 Year Old \"Savanna Distillery\" R\u00e9union Rum",
-          "price": 25.0,
+          "price": 30.0,
           "url": "https://www.klwines.com/p/i?i=2000911",
           "first_seen": "2026-04-16T16:10:51.291029+00:00"
         },
@@ -1451,7 +1451,7 @@
         },
         "2000701": {
           "name": "NV Privateer Rum \"Distiller's Drawer #113 - Nautical Twilight\" American Special Finish Rum",
-          "price": 40.0,
+          "price": 47.0,
           "url": "https://www.klwines.com/p/i?i=2000701",
           "first_seen": "2026-04-16T16:10:52.450898+00:00"
         },
@@ -1469,7 +1469,7 @@
         },
         "2000664": {
           "name": "NV Plantation 14 Year Old \"Grand Terroir: Peru\" Rum",
-          "price": 45.0,
+          "price": 52.0,
           "url": "https://www.klwines.com/p/i?i=2000664",
           "first_seen": "2026-04-16T16:10:52.450971+00:00"
         },
@@ -1517,7 +1517,7 @@
         },
         "2000425": {
           "name": "NV Hamilton 11 Year Old Single Cask Strength Guyanese Rum - Private Barrel",
-          "price": 30.0,
+          "price": 32.0,
           "url": "https://www.klwines.com/p/i?i=2000425",
           "first_seen": "2026-04-16T16:10:53.586202+00:00"
         },
