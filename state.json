@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-17T17:55:36.716838+00:00",
+  "last_run": "2026-04-17T18:01:19.277886+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1559,7 +1559,7 @@
         },
         "2000297": {
           "name": "NV Blackwell \"007 Limited Edition\" Jamaican Rum",
-          "price": 20.0,
+          "price": 22.5,
           "url": "https://www.klwines.com/p/i?i=2000297",
           "first_seen": "2026-04-16T16:10:55.893910+00:00"
         },
