@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-18T07:13:16.071487+00:00",
+  "last_run": "2026-04-18T17:45:35.022716+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1445,7 +1445,7 @@
         },
         "2000716": {
           "name": "2001 Transcontinental Rum Line 19 Year Old \"Trinidad\" Small Batch Cask Strength Trinidad Rum",
-          "price": 95.0,
+          "price": 97.0,
           "url": "https://www.klwines.com/p/i?i=2000716",
           "first_seen": "2026-04-16T16:10:52.450866+00:00"
         },
@@ -1577,7 +1577,7 @@
         },
         "1999996": {
           "name": "NV Alambique Serrano Blend #2 Oaxacan Rum",
-          "price": 34.0,
+          "price": 38.0,
           "url": "https://www.klwines.com/p/i?i=1999996",
           "first_seen": "2026-04-16T16:10:55.894023+00:00"
         }
