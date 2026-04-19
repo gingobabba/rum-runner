@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-19T22:40:03.828429+00:00",
+  "last_run": "2026-04-19T23:34:34.968144+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1391,7 +1391,7 @@
         },
         "2000911": {
           "name": "NV Bapt & Clem 12 Year Old \"Savanna Distillery\" R\u00e9union Rum",
-          "price": 32.0,
+          "price": 40.0,
           "url": "https://www.klwines.com/p/i?i=2000911",
           "first_seen": "2026-04-16T16:10:51.291029+00:00"
         },
@@ -1427,7 +1427,7 @@
         },
         "2000823": {
           "name": "NV Cadenhead's Classic 100 Proof Caribbean Rum",
-          "price": 30.5,
+          "price": 38.0,
           "url": "https://www.klwines.com/p/i?i=2000823",
           "first_seen": "2026-04-16T16:10:52.450783+00:00"
         },
