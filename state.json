@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-20T23:56:41.780178+00:00",
+  "last_run": "2026-04-20T23:58:34.393647+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1585,19 +1585,19 @@
           "name": "Neon Seas Yaeyama Rum (700ml)",
           "price": 39.99,
           "url": "https://www.klwines.com/p/i?i=2002674",
-          "first_seen": "2026-04-20T23:56:34.121906+00:00"
+          "first_seen": "2026-04-20T23:58:26.282176+00:00"
         },
         "2002673": {
           "name": "Nankai Acou White Japanese Rum (720ml)",
           "price": 44.99,
           "url": "https://www.klwines.com/p/i?i=2002673",
-          "first_seen": "2026-04-20T23:56:34.122485+00:00"
+          "first_seen": "2026-04-20T23:58:26.282361+00:00"
         },
         "2002664": {
           "name": "Mainland Rum American Rum Co. 8 Year Old Cask Strength California Rum (750ml)",
           "price": 74.99,
           "url": "https://www.klwines.com/p/i?i=2002664",
-          "first_seen": "2026-04-20T23:56:34.122489+00:00"
+          "first_seen": "2026-04-20T23:58:26.282366+00:00"
         }
       },
       "watches": {
