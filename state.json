@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-23T00:12:01.390007+00:00",
+  "last_run": "2026-04-23T00:14:43.384628+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1615,19 +1615,19 @@
           "name": "Batiste Rhum Reserve (750ml)",
           "price": 39.99,
           "url": "https://www.klwines.com/p/i?i=2003296",
-          "first_seen": "2026-04-23T00:11:52.741375+00:00"
+          "first_seen": "2026-04-23T00:14:34.792772+00:00"
         },
         "1355042": {
           "name": "Batiste Rhum Gold (750ml)",
           "price": 28.99,
           "url": "https://www.klwines.com/p/i?i=1355042",
-          "first_seen": "2026-04-23T00:11:52.741555+00:00"
+          "first_seen": "2026-04-23T00:14:34.792969+00:00"
         },
         "1052731": {
           "name": "Batiste Rhum Silver (750ml)",
           "price": 24.99,
           "url": "https://www.klwines.com/p/i?i=1052731",
-          "first_seen": "2026-04-23T00:11:52.741563+00:00"
+          "first_seen": "2026-04-23T00:14:34.792978+00:00"
         }
       },
       "watches": {
