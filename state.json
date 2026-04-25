@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-25T15:20:44.968732+00:00",
+  "last_run": "2026-04-25T15:42:06.605736+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3033,6 +3033,18 @@
           "price": 224.99,
           "url": "https://potomacwines.com/en-gb/product/Woodford-Reserve-Double-Double-Oaked-Bourbon",
           "first_seen": "2026-04-23T19:14:10.124875+00:00"
+        },
+        "5-Sentidos-Tobala-A-Garcia": {
+          "name": "5 Sentidos Tobala",
+          "price": 124.99,
+          "url": "https://potomacwines.com/en-gb/product/5-Sentidos-Tobala-A-Garcia",
+          "first_seen": "2026-04-25T15:41:10.644347+00:00"
+        },
+        "petrolo-boggina-b-toscana-bianco-trebbiano-2023": {
+          "name": "Petrolo 'Boggina B' Trebbiano Toscana Bianco IGT 2023",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/petrolo-boggina-b-toscana-bianco-trebbiano-2023",
+          "first_seen": "2026-04-25T15:41:10.644372+00:00"
         }
       }
     },
