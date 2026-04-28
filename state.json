@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-28T06:31:58.381119+00:00",
+  "last_run": "2026-04-28T19:24:01.687202+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1379,7 +1379,7 @@
         },
         "2000928": {
           "name": "NV Privateer Rum \"Letter of Marque Thick Distillation - Quarantine Cask\" Barrel #P145 Single Barrel Cask Strength American Rum",
-          "price": 50.0,
+          "price": 57.0,
           "url": "https://www.klwines.com/p/i?i=2000928",
           "first_seen": "2026-04-16T16:10:51.291012+00:00"
         },
@@ -1577,7 +1577,7 @@
         },
         "1999996": {
           "name": "NV Alambique Serrano Blend #2 Oaxacan Rum",
-          "price": 56.0,
+          "price": 72.0,
           "url": "https://www.klwines.com/p/i?i=1999996",
           "first_seen": "2026-04-16T16:10:55.894023+00:00"
         },
