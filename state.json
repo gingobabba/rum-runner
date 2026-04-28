@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-28T05:59:41.353045+00:00",
+  "last_run": "2026-04-28T06:00:08.671040+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1216,7 +1216,7 @@
           "first_seen": "2026-04-05T14:47:52.521812+00:00"
         },
         "1987035": {
-          "name": "1984 Destileria Colombiana 33 Year Old \"Silver Seal x Distinctive Spirits - Ancient Rum Series\" Cask Strength Port Pipe Finished Colombian Rum (750ml)",
+          "name": "1984 Destileria Colombiana 33 Year Old \"Distinctive Spirits - Ancient Rum Series\" Cask Strength Port Pipe Finished Colombian Rum (750ml)",
           "price": 179.99,
           "url": "https://www.klwines.com/p/i?i=1987035",
           "first_seen": "2026-04-05T14:47:52.521867+00:00"
@@ -1234,7 +1234,7 @@
           "first_seen": "2026-04-05T14:47:52.521959+00:00"
         },
         "1987006": {
-          "name": "1976 Destileria Colombiana 41 Year Old \"Silver Seal x Distinctive Spirits - Ancient Rum Series\" Cask Strength Sherry Finished Colombian Rum (750ml) (Elsewhere $480)",
+          "name": "1976 Destileria Colombiana 41 Year Old \"Distinctive Spirits - Ancient Rum Series\" Cask Strength Sherry Finished Colombian Rum (750ml) (Elsewhere $480)",
           "price": 199.99,
           "url": "https://www.klwines.com/p/i?i=1987006",
           "first_seen": "2026-04-05T14:47:52.521997+00:00"
@@ -1361,7 +1361,7 @@
         },
         "2000105": {
           "name": "NV Worthy Park \"Single Estate Reserve\" Jamaican Rum",
-          "price": 53.0,
+          "price": 55.0,
           "url": "https://www.klwines.com/p/i?i=2000105",
           "first_seen": "2026-04-16T11:22:56.736747+00:00"
         },
@@ -1385,7 +1385,7 @@
         },
         "2000926": {
           "name": "2020 Gosling's Papa Seal \"2020 Release\" Single Barrel Bermuda Rum",
-          "price": 70.0,
+          "price": 72.0,
           "url": "https://www.klwines.com/p/i?i=2000926",
           "first_seen": "2026-04-16T16:10:51.291019+00:00"
         },
@@ -1445,7 +1445,7 @@
         },
         "2000716": {
           "name": "2001 Transcontinental Rum Line 19 Year Old \"Trinidad\" Small Batch Cask Strength Trinidad Rum",
-          "price": 145.0,
+          "price": 165.0,
           "url": "https://www.klwines.com/p/i?i=2000716",
           "first_seen": "2026-04-16T16:10:52.450866+00:00"
         },
@@ -1481,7 +1481,7 @@
         },
         "2000555": {
           "name": "NV Ron Izalco 15 Year Cask Strength Rum - Private Barrel",
-          "price": 35.0,
+          "price": 37.0,
           "url": "https://www.klwines.com/p/i?i=2000555",
           "first_seen": "2026-04-16T16:10:52.451011+00:00"
         },
