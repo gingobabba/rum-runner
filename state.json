@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-28T22:58:58.288916+00:00",
+  "last_run": "2026-04-29T23:00:42.800779+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1850,7 +1850,7 @@
         },
         "hampden-estate-hlcf-classic-overproof-jamaican-rum": {
           "name": "Hampden Estate HLCF Classic Overproof Jamaican Rum",
-          "price": 96.5,
+          "price": 99.5,
           "url": "https://www.bittersandbottles.com/products/hampden-estate-hlcf-classic-overproof-jamaican-rum",
           "first_seen": "2026-04-04T06:45:22.642428+00:00"
         },
