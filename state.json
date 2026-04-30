@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-30T06:30:06.026918+00:00",
+  "last_run": "2026-04-30T16:40:51.391580+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -41,7 +41,7 @@
         },
         "1028171": {
           "name": "El Dorado 12 Year Old Demerara Guyana Rum",
-          "price": 39.99,
+          "price": 36.99,
           "url": "https://www.klwines.com/p/i?i=1028171",
           "first_seen": "2026-04-05T14:47:37.968489+00:00"
         },
@@ -1367,7 +1367,7 @@
         },
         "1999990": {
           "name": "2006 Trois Rivi\u00e8res 13 Year Old K&L Exclusive Cask Strength Single Barrel #23-108 Vieux Agricole Martinique Rum",
-          "price": 131.0,
+          "price": 141.1,
           "url": "https://www.klwines.com/p/i?i=1999990",
           "first_seen": "2026-04-16T11:22:56.736755+00:00"
         },
@@ -1409,7 +1409,7 @@
         },
         "2000863": {
           "name": "NV Foursquare Rum Distillery 12 Year Old \"Mark XVII - 2009\" Ex-Bourbon Cask Exceptional Cask Selection Single Blended Barbados Rum",
-          "price": 120.0,
+          "price": 130.0,
           "url": "https://www.klwines.com/p/i?i=2000863",
           "first_seen": "2026-04-16T16:10:52.450707+00:00"
         },
@@ -1445,7 +1445,7 @@
         },
         "2000716": {
           "name": "2001 Transcontinental Rum Line 19 Year Old \"Trinidad\" Small Batch Cask Strength Trinidad Rum",
-          "price": 165.0,
+          "price": 175.0,
           "url": "https://www.klwines.com/p/i?i=2000716",
           "first_seen": "2026-04-16T16:10:52.450866+00:00"
         },
@@ -1475,7 +1475,7 @@
         },
         "2000583": {
           "name": "2006 Worthy Park 12 Year Old Single Estate Cask Strength Jamaican Rum",
-          "price": 80.0,
+          "price": 86.1,
           "url": "https://www.klwines.com/p/i?i=2000583",
           "first_seen": "2026-04-16T16:10:52.450994+00:00"
         },
@@ -1517,7 +1517,7 @@
         },
         "2000425": {
           "name": "NV Hamilton 11 Year Old Single Cask Strength Guyanese Rum - Private Barrel",
-          "price": 100.0,
+          "price": 106.0,
           "url": "https://www.klwines.com/p/i?i=2000425",
           "first_seen": "2026-04-16T16:10:53.586202+00:00"
         },
@@ -1571,13 +1571,13 @@
         },
         "2000037": {
           "name": "2005 Trois Rivi\u00e8res 14 Year Old K&L Exclusive Cask Strength Single Barrel #22-6 Vieux Agricole Martinique Rum",
-          "price": 102.0,
+          "price": 112.0,
           "url": "https://www.klwines.com/p/i?i=2000037",
           "first_seen": "2026-04-16T16:10:55.893989+00:00"
         },
         "1999996": {
           "name": "NV Alambique Serrano Blend #2 Oaxacan Rum",
-          "price": 72.0,
+          "price": 180.0,
           "url": "https://www.klwines.com/p/i?i=1999996",
           "first_seen": "2026-04-16T16:10:55.894023+00:00"
         },
