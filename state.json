@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-30T16:42:38.797229+00:00",
+  "last_run": "2026-04-30T17:25:37.252711+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3045,6 +3045,42 @@
           "price": 99.99,
           "url": "https://potomacwines.com/en-gb/product/petrolo-boggina-b-toscana-bianco-trebbiano-2023",
           "first_seen": "2026-04-25T15:41:10.644372+00:00"
+        },
+        "5-Sentidos-Maguey-de-Pulque": {
+          "name": "5 Sentidos Maguey de Pulque",
+          "price": 134.99,
+          "url": "https://potomacwines.com/en-gb/product/5-Sentidos-Maguey-de-Pulque",
+          "first_seen": "2026-04-30T17:23:54.141445+00:00"
+        },
+        "The-Rums-of-Mexico-Melaza-con-Muck": {
+          "name": "The Rums of Mexico Melaza con Muck",
+          "price": 81.99,
+          "url": "https://potomacwines.com/en-gb/product/The-Rums-of-Mexico-Melaza-con-Muck",
+          "first_seen": "2026-04-30T17:23:54.141467+00:00"
+        },
+        "The-Rums-of-Mexico-Cana-Dura": {
+          "name": "The Rums of Mexico Ca\u00f1a Dura",
+          "price": 54.99,
+          "url": "https://potomacwines.com/en-gb/product/The-Rums-of-Mexico-Cana-Dura",
+          "first_seen": "2026-04-30T17:23:54.141477+00:00"
+        },
+        "The-Rums-of-Mexico-Cana-Cristalina": {
+          "name": "The Rums of Mexico Ca\u00f1a Cristalina",
+          "price": 54.99,
+          "url": "https://potomacwines.com/en-gb/product/The-Rums-of-Mexico-Cana-Cristalina",
+          "first_seen": "2026-04-30T17:23:54.141483+00:00"
+        },
+        "The-Rums-of-Mexico-Cana-Criolla": {
+          "name": "The Rums of Mexico Ca\u00f1a Criolla",
+          "price": 56.99,
+          "url": "https://potomacwines.com/en-gb/product/The-Rums-of-Mexico-Cana-Criolla",
+          "first_seen": "2026-04-30T17:23:54.141489+00:00"
+        },
+        "The-Rums-of-Mexico-Caldo": {
+          "name": "The Rums of Mexico Caldo",
+          "price": 54.99,
+          "url": "https://potomacwines.com/en-gb/product/The-Rums-of-Mexico-Caldo",
+          "first_seen": "2026-04-30T17:23:54.141494+00:00"
         }
       }
     },
