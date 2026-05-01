@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-01T19:49:06.234723+00:00",
+  "last_run": "2026-05-01T20:56:34.329755+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4777,6 +4777,12 @@
           "price": 74.96,
           "url": "https://www.astorwines.com/item/54859",
           "first_seen": "2026-04-16T17:19:12.973409+00:00"
+        },
+        "29240": {
+          "name": "Mount Gay Black Barrel Rum                                ...",
+          "price": 49.96,
+          "url": "https://www.astorwines.com/item/29240?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-05-01T20:56:31.429339+00:00"
         }
       }
     },
