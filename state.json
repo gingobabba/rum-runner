@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-01T06:39:50.498754+00:00",
+  "last_run": "2026-05-01T19:47:13.027186+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1628,6 +1628,54 @@
           "price": 24.99,
           "url": "https://www.klwines.com/p/i?i=1052731",
           "first_seen": "2026-04-23T00:14:34.792978+00:00"
+        },
+        "2006531": {
+          "name": "NV Coyopa 10 Year Old Barbados Rum",
+          "price": 90.0,
+          "url": "https://www.klwines.com/p/i?i=2006531",
+          "first_seen": "2026-05-01T19:47:04.639408+00:00"
+        },
+        "2006530": {
+          "name": "NV Coyopa 10 Year Old Barbados Rum",
+          "price": 90.0,
+          "url": "https://www.klwines.com/p/i?i=2006530",
+          "first_seen": "2026-05-01T19:47:04.639575+00:00"
+        },
+        "2006493": {
+          "name": "Rum Horizontal",
+          "price": 20.0,
+          "url": "https://www.klwines.com/p/i?i=2006493",
+          "first_seen": "2026-05-01T19:47:04.639580+00:00"
+        },
+        "2006490": {
+          "name": "2011 Chairman's Reserve 9 Year Old \"Master's Selection\" K&L Exclusive Barrel Vendome Pot Still Single Barrel St-Lucia Rum",
+          "price": 140.0,
+          "url": "https://www.klwines.com/p/i?i=2006490",
+          "first_seen": "2026-05-01T19:47:04.639585+00:00"
+        },
+        "2006337": {
+          "name": "NV Lemon Hart Demerara 80 Proof Rum (Old Label)",
+          "price": 25.0,
+          "url": "https://www.klwines.com/p/i?i=2006337",
+          "first_seen": "2026-05-01T19:47:04.639589+00:00"
+        },
+        "2006322": {
+          "name": "NV Myers's 10 Year Old \"Legend\" Jamaican Rum",
+          "price": 60.0,
+          "url": "https://www.klwines.com/p/i?i=2006322",
+          "first_seen": "2026-05-01T19:47:04.639592+00:00"
+        },
+        "2006260": {
+          "name": "2017 Foursquare \"Principia\" Double Maturation Barrel Proof Single Blended Rum (700ml)",
+          "price": 195.0,
+          "url": "https://www.klwines.com/p/i?i=2006260",
+          "first_seen": "2026-05-01T19:47:04.639596+00:00"
+        },
+        "2006240": {
+          "name": "NV Foursquare Rum Distillery 10 Year Old \"Mark VII - Dominus\" Ex-Bourbon & Cognac Cask Exceptional Cask Selection Single Blended Barbados Rum",
+          "price": 130.0,
+          "url": "https://www.klwines.com/p/i?i=2006240",
+          "first_seen": "2026-05-01T19:47:04.639601+00:00"
         }
       },
       "watches": {
