@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-01T20:56:34.329755+00:00",
+  "last_run": "2026-05-01T20:57:16.065148+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -700,7 +700,7 @@
           "first_seen": "2026-04-05T14:47:51.389365+00:00"
         },
         "1809057": {
-          "name": "2004 Reserve Rum of Nicaragua 18 Year Old \"Bristol Classic\" Nicaraguan Rum (700ml) (Previously $135)",
+          "name": "2004 Reserve Rum of Nicaragua 18 Year Old \"Bristol Classic\" Nicaraguan Rum (700ml) (Previously $150)",
           "price": 0.0,
           "url": "https://www.klwines.com/p/i?i=1809057",
           "first_seen": "2026-04-05T14:47:51.389458+00:00"
@@ -988,7 +988,7 @@
           "first_seen": "2026-04-05T14:47:52.520401+00:00"
         },
         "1809055": {
-          "name": "2010 Distillerie De Labourdonnais 11 Year Old \"Bristol Classic\" Mauritius Rum (700ml) (Previously $135)",
+          "name": "2010 Distillerie De Labourdonnais 11 Year Old \"Bristol Classic\" Mauritius Rum (700ml) (Previously $150)",
           "price": 0.0,
           "url": "https://www.klwines.com/p/i?i=1809055",
           "first_seen": "2026-04-05T14:47:52.520446+00:00"
