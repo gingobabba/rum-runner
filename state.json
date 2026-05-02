@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-02T02:53:14.024523+00:00",
+  "last_run": "2026-05-02T04:50:34.253597+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1706,6 +1706,36 @@
           "price": 205.0,
           "url": "https://www.klwines.com/p/i?i=2006674",
           "first_seen": "2026-05-01T21:56:36.470521+00:00"
+        },
+        "2007273": {
+          "name": "NV Lemon Hart Demerara 151 Proof Rum (Old Label)",
+          "price": 35.0,
+          "url": "https://www.klwines.com/p/i?i=2007273",
+          "first_seen": "2026-05-02T04:50:25.012880+00:00"
+        },
+        "2007166": {
+          "name": "NV Appleton Estate 20 Year Old \"Signature Marque for Park Avenue Liquor Shop, Bottle #1\" Jamaican Rum",
+          "price": 680.0,
+          "url": "https://www.klwines.com/p/i?i=2007166",
+          "first_seen": "2026-05-02T04:50:25.013272+00:00"
+        },
+        "2006986": {
+          "name": "NV Amagi 9 Year \"Honkaku Reserve\" Kokuto Sugar Japanese Rum (720ml)",
+          "price": 100.0,
+          "url": "https://www.klwines.com/p/i?i=2006986",
+          "first_seen": "2026-05-02T04:50:25.013280+00:00"
+        },
+        "2006980": {
+          "name": "NV Coyopa 10 Year Old Barbados Rum",
+          "price": 90.0,
+          "url": "https://www.klwines.com/p/i?i=2006980",
+          "first_seen": "2026-05-02T04:50:25.013286+00:00"
+        },
+        "2006192": {
+          "name": "Worthy Park Overproof Jamaican Rum (1L)",
+          "price": 36.99,
+          "url": "https://www.klwines.com/p/i?i=2006192",
+          "first_seen": "2026-05-02T04:50:25.013321+00:00"
         }
       },
       "watches": {
