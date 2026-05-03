@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-03T03:08:30.945647+00:00",
+  "last_run": "2026-05-03T03:28:51.912469+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3201,6 +3201,12 @@
           "price": 109.99,
           "url": "https://potomacwines.com/en-gb/product/Old-Charter-Oak-Finest-Oak-Bourbon",
           "first_seen": "2026-04-30T21:03:46.028778+00:00"
+        },
+        "2025-woodford-reserve-kentucky-derby-151-straight-bourbon-1l": {
+          "name": "2025 Woodford Reserve Kentucky Derby 151 Straight Bourbon 1L",
+          "price": 54.99,
+          "url": "https://potomacwines.com/en-gb/product/2025-woodford-reserve-kentucky-derby-151-straight-bourbon-1l",
+          "first_seen": "2026-05-03T03:27:47.487287+00:00"
         }
       }
     },
