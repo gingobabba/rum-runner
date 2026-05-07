@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-06T03:39:31.497458+00:00",
+  "last_run": "2026-05-07T03:41:19.756799+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3231,6 +3231,18 @@
           "price": 99.99,
           "url": "https://potomacwines.com/en-gb/product/Smoky-Scot-Cask-Strength-Edition-12-Year-Old",
           "first_seen": "2026-05-06T03:38:06.995545+00:00"
+        },
+        "Murray-McDavid-Caol-Ila-Tokaji-Finish-13-Year-Old": {
+          "name": "Murray McDavid Benchmark Caol Ila Tokaji Wine Cask Finish 13 Year Old Single Malt",
+          "price": 159.99,
+          "url": "https://potomacwines.com/en-gb/product/Murray-McDavid-Caol-Ila-Tokaji-Finish-13-Year-Old",
+          "first_seen": "2026-05-07T03:39:57.353996+00:00"
+        },
+        "Murray-McDavid-Bunnahabhain-Margaux-Finish-15-Year-Old": {
+          "name": "Murray McDavid Benchmark Bunnahabhain Margaux Wine Cask Finish 15 Year Old Single Malt",
+          "price": 224.99,
+          "url": "https://potomacwines.com/en-gb/product/Murray-McDavid-Bunnahabhain-Margaux-Finish-15-Year-Old",
+          "first_seen": "2026-05-07T03:39:57.354038+00:00"
         }
       }
     },
