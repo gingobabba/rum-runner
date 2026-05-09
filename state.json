@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-08T03:42:09.136238+00:00",
+  "last_run": "2026-05-09T03:43:36.844936+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2768,7 +2768,7 @@
         },
         "la-favorite-blanc-rhum": {
           "name": "La Favorite Blanc Rhum",
-          "price": 44.5,
+          "price": 46.5,
           "url": "https://www.bittersandbottles.com/products/la-favorite-blanc-rhum",
           "first_seen": "2026-04-04T06:45:35.304061+00:00"
         },
@@ -4468,7 +4468,7 @@
         },
         "39287": {
           "name": "Habitation Velier Foursquare Rum",
-          "price": 99.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/39287",
           "first_seen": "2026-04-05T01:36:34.617428+00:00"
         },
@@ -4945,7 +4945,7 @@
           "first_seen": "2026-04-04T06:13:55.998586+00:00"
         },
         "spiced-rum": {
-          "name": "Spiced Rum(20)",
+          "name": "Spiced Rum(21)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/spiced-rum",
           "first_seen": "2026-04-04T06:13:55.998589+00:00"
@@ -4957,7 +4957,7 @@
           "first_seen": "2026-04-04T06:13:55.998592+00:00"
         },
         "flavored-rum": {
-          "name": "Flavored Rum(30)",
+          "name": "Flavored Rum(31)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/flavored-rum",
           "first_seen": "2026-04-04T06:13:55.998595+00:00"
@@ -4967,6 +4967,12 @@
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/pot-still-rum",
           "first_seen": "2026-04-04T06:13:55.998598+00:00"
+        },
+        "cask-strength-rum": {
+          "name": "Cask Strength Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/cask-strength-rum",
+          "first_seen": "2026-05-09T03:43:36.844850+00:00"
         }
       }
     }
