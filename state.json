@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-10T03:45:01.012694+00:00",
+  "last_run": "2026-05-11T03:46:50.058725+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3328,7 +3328,7 @@
         },
         "54672": {
           "name": "The Rums of Mexico Caldo                                  ...",
-          "price": 46.72,
+          "price": 54.96,
           "url": "https://www.astorwines.com/item/54672",
           "first_seen": "2026-04-05T01:36:23.096848+00:00"
         },
@@ -3412,7 +3412,7 @@
         },
         "54656": {
           "name": "The Rums of Mexico Melaza Con Muck                        ...",
-          "price": 72.22,
+          "price": 84.96,
           "url": "https://www.astorwines.com/item/54656",
           "first_seen": "2026-04-05T01:36:24.599559+00:00"
         },
@@ -3526,7 +3526,7 @@
         },
         "54669": {
           "name": "The Rums of Mexico Ca\u00f1a Dura                              ...",
-          "price": 46.72,
+          "price": 54.96,
           "url": "https://www.astorwines.com/item/54669",
           "first_seen": "2026-04-05T01:36:25.100562+00:00"
         },
@@ -3634,7 +3634,7 @@
         },
         "54670": {
           "name": "The Rums of Mexico Ca\u00f1a Cristalina                        ...",
-          "price": 46.72,
+          "price": 54.96,
           "url": "https://www.astorwines.com/item/54670",
           "first_seen": "2026-04-05T01:36:25.100692+00:00"
         },
