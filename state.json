@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-12T03:48:11.533303+00:00",
+  "last_run": "2026-05-13T03:49:33.508755+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3267,6 +3267,30 @@
           "price": 399.99,
           "url": "https://potomacwines.com/en-gb/product/e-guigal-la-turque-cote-rotie-2020",
           "first_seen": "2026-05-12T03:47:08.404418+00:00"
+        },
+        "Foursquare-Penultimus-Rum": {
+          "name": "Foursquare Rum Distillery Exceptional Cask Selection Mark XXX Penultimus 15 Year Old Single Blended Rum",
+          "price": 169.99,
+          "url": "https://potomacwines.com/en-gb/product/Foursquare-Penultimus-Rum",
+          "first_seen": "2026-05-13T03:48:32.423262+00:00"
+        },
+        "old-carter-batch-19-bourbon": {
+          "name": "Old Carter Whiskey Co. Batch 19 Straight Bourbon",
+          "price": 229.99,
+          "url": "https://potomacwines.com/en-gb/product/old-carter-batch-19-bourbon",
+          "first_seen": "2026-05-13T03:48:32.423285+00:00"
+        },
+        "old-carter-batch-18-bourbon": {
+          "name": "Old Carter Whiskey Co. Batch 18 Straight Bourbon",
+          "price": 229.99,
+          "url": "https://potomacwines.com/en-gb/product/old-carter-batch-18-bourbon",
+          "first_seen": "2026-05-13T03:48:32.423291+00:00"
+        },
+        "old-carter-batch-17-bourbon": {
+          "name": "Old Carter Whiskey Co. Batch 17 Straight Bourbon",
+          "price": 229.99,
+          "url": "https://potomacwines.com/en-gb/product/old-carter-batch-17-bourbon",
+          "first_seen": "2026-05-13T03:48:32.423297+00:00"
         }
       }
     },
@@ -4915,31 +4939,31 @@
     "baytowne": {
       "catalog": {
         "aged": {
-          "name": "Aged(69)",
+          "name": "Aged(70)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/aged",
           "first_seen": "2026-04-04T06:13:55.998513+00:00"
         },
         "silver-rum": {
-          "name": "Silver Rum(8)",
+          "name": "Silver Rum(7)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/silver-rum",
           "first_seen": "2026-04-04T06:13:55.998538+00:00"
         },
         "gold-rum": {
-          "name": "Gold Rum(10)",
+          "name": "Gold Rum(11)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/gold-rum",
           "first_seen": "2026-04-04T06:13:55.998545+00:00"
         },
         "dark-rum": {
-          "name": "Dark Rum(4)",
+          "name": "Dark Rum(5)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/dark-rum",
           "first_seen": "2026-04-04T06:13:55.998550+00:00"
         },
         "white-rum": {
-          "name": "White Rum(4)",
+          "name": "White Rum(5)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/white-rum",
           "first_seen": "2026-04-04T06:13:55.998555+00:00"
@@ -4963,13 +4987,13 @@
           "first_seen": "2026-04-04T06:13:55.998579+00:00"
         },
         "white-rum-1": {
-          "name": "White Rum(4)",
+          "name": "White Rum(5)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/white-rum-1",
           "first_seen": "2026-04-04T06:13:55.998586+00:00"
         },
         "spiced-rum": {
-          "name": "Spiced Rum(21)",
+          "name": "Spiced Rum(22)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/spiced-rum",
           "first_seen": "2026-04-04T06:13:55.998589+00:00"
@@ -4981,7 +5005,7 @@
           "first_seen": "2026-04-04T06:13:55.998592+00:00"
         },
         "flavored-rum": {
-          "name": "Flavored Rum(31)",
+          "name": "Flavored Rum(26)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/flavored-rum",
           "first_seen": "2026-04-04T06:13:55.998595+00:00"
@@ -4997,6 +5021,12 @@
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/cask-strength-rum",
           "first_seen": "2026-05-09T03:43:36.844850+00:00"
+        },
+        "coconut-rum": {
+          "name": "Coconut Rum(3)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/coconut-rum",
+          "first_seen": "2026-05-13T03:49:33.508682+00:00"
         }
       }
     }
