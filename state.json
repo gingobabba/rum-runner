@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-15T03:52:23.558552+00:00",
+  "last_run": "2026-05-16T03:53:44.838501+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3309,6 +3309,12 @@
           "price": 74.99,
           "url": "https://potomacwines.com/en-gb/product/Derrumbes-Zacatecas-Mezcal",
           "first_seen": "2026-05-15T03:51:26.883825+00:00"
+        },
+        "Sol-Tarasco-Charanda-Mushrooms-Rum": {
+          "name": "Sol Tarasco Charanda Anejo Rum Infused With Mushrooms",
+          "price": 49.99,
+          "url": "https://potomacwines.com/en-gb/product/Sol-Tarasco-Charanda-Mushrooms-Rum",
+          "first_seen": "2026-05-16T03:52:43.542793+00:00"
         }
       }
     },
@@ -4951,43 +4957,49 @@
           "price": 49.96,
           "url": "https://www.astorwines.com/item/29240?lt=Search+Results&lid=search_results",
           "first_seen": "2026-05-01T20:56:31.429339+00:00"
+        },
+        "54927": {
+          "name": "Les Iles D'ardeche Rhum Blanc Grand Arome",
+          "price": 0.0,
+          "url": "https://www.astorwines.com/item/54927?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-05-16T03:53:41.693348+00:00"
         }
       }
     },
     "baytowne": {
       "catalog": {
         "aged": {
-          "name": "Aged(31)",
+          "name": "Aged(15)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/aged",
           "first_seen": "2026-04-04T06:13:55.998513+00:00"
         },
         "silver-rum": {
-          "name": "Silver Rum(5)",
+          "name": "Silver Rum(1)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/silver-rum",
           "first_seen": "2026-04-04T06:13:55.998538+00:00"
         },
         "gold-rum": {
-          "name": "Gold Rum(12)",
+          "name": "Gold Rum(10)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/gold-rum",
           "first_seen": "2026-04-04T06:13:55.998545+00:00"
         },
         "dark-rum": {
-          "name": "Dark Rum(6)",
+          "name": "Dark Rum(9)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/dark-rum",
           "first_seen": "2026-04-04T06:13:55.998550+00:00"
         },
         "white-rum": {
-          "name": "White Rum(12)",
+          "name": "White Rum(14)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/white-rum",
           "first_seen": "2026-04-04T06:13:55.998555+00:00"
         },
         "rhum-agricole": {
-          "name": "Rhum Agricole(4)",
+          "name": "Rhum Agricole(3)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/rhum-agricole",
           "first_seen": "2026-04-04T06:13:55.998560+00:00"
@@ -5005,7 +5017,7 @@
           "first_seen": "2026-04-04T06:13:55.998579+00:00"
         },
         "white-rum-1": {
-          "name": "White Rum(12)",
+          "name": "White Rum(14)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/white-rum-1",
           "first_seen": "2026-04-04T06:13:55.998586+00:00"
@@ -5017,13 +5029,13 @@
           "first_seen": "2026-04-04T06:13:55.998589+00:00"
         },
         "un-aged": {
-          "name": "Un Aged(5)",
+          "name": "Un Aged(1)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/un-aged",
           "first_seen": "2026-04-04T06:13:55.998592+00:00"
         },
         "flavored-rum": {
-          "name": "Flavored Rum(21)",
+          "name": "Flavored Rum(19)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/flavored-rum",
           "first_seen": "2026-04-04T06:13:55.998595+00:00"
@@ -5041,7 +5053,7 @@
           "first_seen": "2026-05-09T03:43:36.844850+00:00"
         },
         "coconut-rum": {
-          "name": "Coconut Rum(2)",
+          "name": "Coconut Rum(3)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/coconut-rum",
           "first_seen": "2026-05-13T03:49:33.508682+00:00"
@@ -5059,31 +5071,31 @@
           "first_seen": "2026-05-14T03:51:03.163785+00:00"
         },
         "barbados-rum": {
-          "name": "Barbados Rum(1)",
+          "name": "Barbados Rum(2)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/barbados-rum",
           "first_seen": "2026-05-14T03:51:03.163791+00:00"
         },
         "single-cask-rum": {
-          "name": "Single Cask Rum(3)",
+          "name": "Single Cask Rum(5)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/single-cask-rum",
           "first_seen": "2026-05-14T03:51:03.163801+00:00"
         },
         "blended-rum": {
-          "name": "Blended Rum(2)",
+          "name": "Blended Rum(3)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/blended-rum",
           "first_seen": "2026-05-14T03:51:03.163806+00:00"
         },
         "jamaican-rum": {
-          "name": "Jamaican Rum(7)",
+          "name": "Jamaican Rum(8)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/jamaican-rum",
           "first_seen": "2026-05-14T03:51:03.163811+00:00"
         },
         "navy-strength-rum": {
-          "name": "Navy Strength Rum(2)",
+          "name": "Navy Strength Rum(3)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/navy-strength-rum",
           "first_seen": "2026-05-14T03:51:03.163816+00:00"
@@ -5095,7 +5107,7 @@
           "first_seen": "2026-05-14T03:51:03.163822+00:00"
         },
         "overproof-rum": {
-          "name": "Overproof Rum(7)",
+          "name": "Overproof Rum(9)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/overproof-rum",
           "first_seen": "2026-05-14T03:51:03.163828+00:00"
@@ -5113,7 +5125,7 @@
           "first_seen": "2026-05-14T03:51:03.163839+00:00"
         },
         "aged-rum": {
-          "name": "Aged Rum(22)",
+          "name": "Aged Rum(33)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/aged-rum",
           "first_seen": "2026-05-14T03:51:03.163843+00:00"
@@ -5125,7 +5137,7 @@
           "first_seen": "2026-05-14T03:51:03.163848+00:00"
         },
         "rhum-arrange": {
-          "name": "Rhum Arrange(2)",
+          "name": "Rhum Arrange(5)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/rhum-arrange",
           "first_seen": "2026-05-14T03:51:03.163852+00:00"
@@ -5173,13 +5185,13 @@
           "first_seen": "2026-05-15T03:52:23.558477+00:00"
         },
         "anejo-rum": {
-          "name": "Anejo Rum(1)",
+          "name": "Anejo Rum(2)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/anejo-rum",
           "first_seen": "2026-05-15T03:52:23.558481+00:00"
         },
         "pure-single-jamaican-rum": {
-          "name": "Pure Single Jamaican Rum(4)",
+          "name": "Pure Single Jamaican Rum(6)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/pure-single-jamaican-rum",
           "first_seen": "2026-05-15T03:52:23.558487+00:00"
@@ -5233,10 +5245,82 @@
           "first_seen": "2026-05-15T03:52:23.558514+00:00"
         },
         "rhum-agricole-blanc": {
-          "name": "Rhum Agricole Blanc(1)",
+          "name": "Rhum Agricole Blanc(2)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/rhum-agricole-blanc",
           "first_seen": "2026-05-15T03:52:23.558516+00:00"
+        },
+        "agricole-rum": {
+          "name": "Agricole Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/agricole-rum",
+          "first_seen": "2026-05-16T03:53:44.838373+00:00"
+        },
+        "cherry-spiced-rum": {
+          "name": "Cherry Spiced Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/cherry-spiced-rum",
+          "first_seen": "2026-05-16T03:53:44.838392+00:00"
+        },
+        "jaggery-rum": {
+          "name": "Jaggery Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/jaggery-rum",
+          "first_seen": "2026-05-16T03:53:44.838403+00:00"
+        },
+        "coffee-infused-rum": {
+          "name": "Coffee Infused Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/coffee-infused-rum",
+          "first_seen": "2026-05-16T03:53:44.838410+00:00"
+        },
+        "rum-de-cana": {
+          "name": "Rum De Cana(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/rum-de-cana",
+          "first_seen": "2026-05-16T03:53:44.838416+00:00"
+        },
+        "blanco-rum": {
+          "name": "Blanco Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/blanco-rum",
+          "first_seen": "2026-05-16T03:53:44.838424+00:00"
+        },
+        "pure-single-rum": {
+          "name": "Pure Single Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/pure-single-rum",
+          "first_seen": "2026-05-16T03:53:44.838428+00:00"
+        },
+        "rhum-vieux-agricole": {
+          "name": "Rhum Vieux Agricole(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/rhum-vieux-agricole",
+          "first_seen": "2026-05-16T03:53:44.838432+00:00"
+        },
+        "pineapple-rum": {
+          "name": "Pineapple Rum(2)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/pineapple-rum",
+          "first_seen": "2026-05-16T03:53:44.838439+00:00"
+        },
+        "trinidad-rum": {
+          "name": "Trinidad Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/trinidad-rum",
+          "first_seen": "2026-05-16T03:53:44.838442+00:00"
+        },
+        "amber-rum": {
+          "name": "Amber Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/amber-rum",
+          "first_seen": "2026-05-16T03:53:44.838446+00:00"
+        },
+        "blended-white-rum": {
+          "name": "Blended White Rum(1)",
+          "price": 0.0,
+          "url": "https://baytownewine.com/spirits/rum/blended-white-rum",
+          "first_seen": "2026-05-16T03:53:44.838452+00:00"
         }
       }
     }
