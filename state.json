@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-21T03:57:40.404689+00:00",
+  "last_run": "2026-05-21T07:57:10.570110+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3580,7 +3580,7 @@
         },
         "03693": {
           "name": "Flor de Ca\u00f1a 12 Yr. Rum                                   ...",
-          "price": 34.99,
+          "price": 29.74,
           "url": "https://www.astorwines.com/item/03693",
           "first_seen": "2026-04-05T01:36:24.599632+00:00"
         },
@@ -3694,7 +3694,7 @@
         },
         "23849": {
           "name": "Flor de Ca\u00f1a Extra Dry 4 Yr. White Rum                    ...",
-          "price": 19.99,
+          "price": 16.99,
           "url": "https://www.astorwines.com/item/23849",
           "first_seen": "2026-04-05T01:36:25.100629+00:00"
         },
@@ -4288,7 +4288,7 @@
         },
         "03696": {
           "name": "Flor de Ca\u00f1a 18 yr. Rum                                   ...",
-          "price": 59.96,
+          "price": 50.97,
           "url": "https://www.astorwines.com/item/03696",
           "first_seen": "2026-04-05T01:36:30.109668+00:00"
         },
