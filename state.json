@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-22T21:17:25.236761+00:00",
+  "last_run": "2026-05-22T23:02:54.565277+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3405,6 +3405,12 @@
           "price": 349.99,
           "url": "https://potomacwines.com/en-gb/product/King-of-Kentucky-Small-Batch-12-Year-Bourbon-Batch-1",
           "first_seen": "2026-05-22T19:49:10.210969+00:00"
+        },
+        "Hampden-Estate-Rum-Fire": {
+          "name": "Hampden Estate Rum Fire White Overproof Rum",
+          "price": 37.99,
+          "url": "https://potomacwines.com/en-gb/product/Hampden-Estate-Rum-Fire",
+          "first_seen": "2026-05-22T23:01:52.790633+00:00"
         }
       }
     },
