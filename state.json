@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-22T17:20:24.016815+00:00",
+  "last_run": "2026-05-22T19:50:17.233736+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3387,6 +3387,24 @@
           "price": 229.99,
           "url": "https://potomacwines.com/en-gb/product/Fuenteseca-2015-5-Year-Tequila-Extra-Anejo",
           "first_seen": "2026-05-21T20:05:56.694322+00:00"
+        },
+        "King-of-Kentucky-Small-Batch-12-Year-Bourbon-Batch-3": {
+          "name": "Brown-Forman's King of Kentucky Small Batch 12 Year Old Straight Bourbon Batch 3",
+          "price": 349.99,
+          "url": "https://potomacwines.com/en-gb/product/King-of-Kentucky-Small-Batch-12-Year-Bourbon-Batch-3",
+          "first_seen": "2026-05-22T19:49:10.210934+00:00"
+        },
+        "King-of-Kentucky-Small-Batch-12-Year-Bourbon-Batch-2": {
+          "name": "Brown-Forman's King of Kentucky Small Batch 12 Year Old Straight Bourbon Batch 2",
+          "price": 349.99,
+          "url": "https://potomacwines.com/en-gb/product/King-of-Kentucky-Small-Batch-12-Year-Bourbon-Batch-2",
+          "first_seen": "2026-05-22T19:49:10.210963+00:00"
+        },
+        "King-of-Kentucky-Small-Batch-12-Year-Bourbon-Batch-1": {
+          "name": "Brown-Forman's King of Kentucky Small Batch 12 Year Old Straight Bourbon Batch 1",
+          "price": 349.99,
+          "url": "https://potomacwines.com/en-gb/product/King-of-Kentucky-Small-Batch-12-Year-Bourbon-Batch-1",
+          "first_seen": "2026-05-22T19:49:10.210969+00:00"
         }
       }
     },
@@ -5041,7 +5059,7 @@
     "baytowne": {
       "catalog": {
         "aged": {
-          "name": "Aged(15)",
+          "name": "Aged(16)",
           "price": 0.0,
           "url": "https://baytownewine.com/spirits/rum/aged",
           "first_seen": "2026-04-04T06:13:55.998513+00:00"
