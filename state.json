@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-26T08:41:24.598379+00:00",
+  "last_run": "2026-05-26T16:44:30.736928+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -5065,6 +5065,12 @@
           "price": 0.0,
           "url": "https://www.astorwines.com/item/54927?lt=Search+Results&lid=search_results",
           "first_seen": "2026-05-16T03:53:41.693348+00:00"
+        },
+        "54900": {
+          "name": "Hampden Astor Select HGML 8yr Single Cask Jamaican Rum",
+          "price": 239.97,
+          "url": "https://www.astorwines.com/item/54900?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-05-26T16:44:27.640864+00:00"
         }
       }
     },
