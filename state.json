@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-28T03:50:42.253077+00:00",
+  "last_run": "2026-05-29T03:51:59.637755+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3459,6 +3459,24 @@
           "price": 174.99,
           "url": "https://potomacwines.com/en-gb/product/frogs-leap-rutherford-cabernet-magnum-2022",
           "first_seen": "2026-05-27T23:18:28.362945+00:00"
+        },
+        "Jamun-Gin": {
+          "name": "Jamun The Himalayan Juniper Dry Gin",
+          "price": 34.99,
+          "url": "https://potomacwines.com/en-gb/product/Jamun-Gin",
+          "first_seen": "2026-05-29T03:50:59.505146+00:00"
+        },
+        "Springbank-Fino-Cask-Matured-10-Year": {
+          "name": "Springbank Fino Cask Matured 10 Year Old Single Malt",
+          "price": 249.99,
+          "url": "https://potomacwines.com/en-gb/product/Springbank-Fino-Cask-Matured-10-Year",
+          "first_seen": "2026-05-29T03:50:59.505182+00:00"
+        },
+        "Lady-Trieu-Gin": {
+          "name": "Lady Trieu Contemporary Vietnam Gin",
+          "price": 34.99,
+          "url": "https://potomacwines.com/en-gb/product/Lady-Trieu-Gin",
+          "first_seen": "2026-05-29T03:50:59.505189+00:00"
         }
       }
     },
@@ -3484,7 +3502,7 @@
         },
         "40288": {
           "name": "Foursquare Probitas Rum                                   ...",
-          "price": 29.96,
+          "price": 25.47,
           "url": "https://www.astorwines.com/item/40288",
           "first_seen": "2026-04-05T01:36:22.595991+00:00"
         },
@@ -3556,7 +3574,7 @@
         },
         "52590": {
           "name": "Habitation Velier Hampden PM/Prestige Single Blended ...",
-          "price": 119.96,
+          "price": 95.97,
           "url": "https://www.astorwines.com/item/52590",
           "first_seen": "2026-04-05T01:36:23.597790+00:00"
         },
@@ -3700,7 +3718,7 @@
         },
         "53080": {
           "name": "Planteray Astor Select Guyana Single Cask Rum             ...",
-          "price": 74.96,
+          "price": 56.22,
           "url": "https://www.astorwines.com/item/53080",
           "first_seen": "2026-04-05T01:36:25.100525+00:00"
         },
