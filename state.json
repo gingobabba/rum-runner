@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-04T04:01:21.260765+00:00",
+  "last_run": "2026-06-05T04:02:47.178947+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3483,6 +3483,12 @@
           "price": 34.99,
           "url": "https://potomacwines.com/en-gb/product/Lady-Trieu-Gin",
           "first_seen": "2026-05-29T03:50:59.505189+00:00"
+        },
+        "James-E-Pepper-Decanter-Barrel-Proof-Rye": {
+          "name": "James E. Pepper Decanter Barrel Proof Straight Rye",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/James-E-Pepper-Decanter-Barrel-Proof-Rye",
+          "first_seen": "2026-06-05T04:01:39.486303+00:00"
         }
       }
     },
@@ -5133,7 +5139,7 @@
           "first_seen": "2026-05-16T03:53:41.693348+00:00"
         },
         "54900": {
-          "name": "Hampden Astor Select HGML 8yr Single Cask Jamaican Rum",
+          "name": "Hampden Astor Select HGML 8yr Single Cask Jamaican Rum    ...",
           "price": 299.96,
           "url": "https://www.astorwines.com/item/54900?lt=Search+Results&lid=search_results",
           "first_seen": "2026-05-26T16:44:27.640864+00:00"
@@ -5143,6 +5149,12 @@
           "price": 34.96,
           "url": "https://www.astorwines.com/item/55016?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-03T04:00:18.265448+00:00"
+        },
+        "51999": {
+          "name": "Mater Yellow Cane Artisan Sicilian Rum                    ...",
+          "price": 64.96,
+          "url": "https://www.astorwines.com/item/51999?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-06-05T04:02:35.624357+00:00"
         }
       }
     },
