@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-11T04:14:35.812660+00:00",
+  "last_run": "2026-06-12T04:16:11.874890+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3544,7 +3544,7 @@
       "catalog": {
         "06956": {
           "name": "Pitu Cacha\u00e7a                                              ...",
-          "price": 14.96,
+          "price": 19.99,
           "url": "https://www.astorwines.com/item/06956",
           "first_seen": "2026-04-05T01:36:22.095268+00:00"
         },
@@ -4018,7 +4018,7 @@
         },
         "49927": {
           "name": "Clairin Communal Rum                                      ...",
-          "price": 36.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/49927",
           "first_seen": "2026-04-05T01:36:26.603204+00:00"
         },
@@ -4528,7 +4528,7 @@
         },
         "49237": {
           "name": "Black Tot Finest Caribbean Rum                            ...",
-          "price": 59.99,
+          "price": 54.99,
           "url": "https://www.astorwines.com/item/49237",
           "first_seen": "2026-04-05T01:36:30.109789+00:00"
         },
@@ -5233,6 +5233,12 @@
           "price": 64.96,
           "url": "https://www.astorwines.com/item/47737?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-10T04:12:43.009811+00:00"
+        },
+        "55110": {
+          "name": "Black Tot Historic Solera Rum",
+          "price": 79.96,
+          "url": "https://www.astorwines.com/item/55110?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-06-12T04:15:58.800747+00:00"
         }
       }
     },
