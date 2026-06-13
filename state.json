@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-12T04:16:11.874890+00:00",
+  "last_run": "2026-06-13T04:17:49.177269+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3537,6 +3537,66 @@
           "price": 84.99,
           "url": "https://potomacwines.com/en-gb/product/pahlmeyer-jayson-cabernet-2019",
           "first_seen": "2026-06-10T04:10:41.734905+00:00"
+        },
+        "Riachi-Arak-Al-Jouzour": {
+          "name": "Riachi Arak Al Jouzour",
+          "price": 26.99,
+          "url": "https://potomacwines.com/en-gb/product/Riachi-Arak-Al-Jouzour",
+          "first_seen": "2026-06-13T04:16:36.219207+00:00"
+        },
+        "Blackadder-Raw-Cask-Trinidad-14-Year-Rum": {
+          "name": "Blackadder Raw Cask Finest Trinidad 14 Year Old Rum",
+          "price": 129.99,
+          "url": "https://potomacwines.com/en-gb/product/Blackadder-Raw-Cask-Trinidad-14-Year-Rum",
+          "first_seen": "2026-06-13T04:16:36.219245+00:00"
+        },
+        "Blackadder-Statement-Ledaig-25-Year-Single-Malt": {
+          "name": "Blackadder Raw Cask Statement Ledaig 25 Year Old Single Malt",
+          "price": 619.99,
+          "url": "https://potomacwines.com/en-gb/product/Blackadder-Statement-Ledaig-25-Year-Single-Malt",
+          "first_seen": "2026-06-13T04:16:36.219253+00:00"
+        },
+        "Whispering-Waters-Balveddich-36-Year-Scotch": {
+          "name": "Whispering Waters Balve'ddich 36 Year Old Blended Malt Scotch",
+          "price": 314.99,
+          "url": "https://potomacwines.com/en-gb/product/Whispering-Waters-Balveddich-36-Year-Scotch",
+          "first_seen": "2026-06-13T04:16:36.219259+00:00"
+        },
+        "Uncharted-Golden-Years-Caol-Ila-14-Year-Single-Malt": {
+          "name": "Uncharted Whisky Co. Golden Years Caol Ila 14 Year Old Single Malt",
+          "price": 144.99,
+          "url": "https://potomacwines.com/en-gb/product/Uncharted-Golden-Years-Caol-Ila-14-Year-Single-Malt",
+          "first_seen": "2026-06-13T04:16:36.219267+00:00"
+        },
+        "Uncharted-Whole-Lotta-Rose-Bunnahabhain-7-Year-Single-Malt": {
+          "name": "Uncharted Whisky Co. Whole Lotta Rose Bunnahabhain Staoisha 7 Year Old Single Malt",
+          "price": 84.99,
+          "url": "https://potomacwines.com/en-gb/product/Uncharted-Whole-Lotta-Rose-Bunnahabhain-7-Year-Single-Malt",
+          "first_seen": "2026-06-13T04:16:36.219274+00:00"
+        },
+        "Tri-Carragh-Bruichladdich-Lochindaal-16-Year-Old-Single-Malt": {
+          "name": "Tri Carragh Bruichladdich Lochindaal 16 Year Old Single Malt",
+          "price": 339.99,
+          "url": "https://potomacwines.com/en-gb/product/Tri-Carragh-Bruichladdich-Lochindaal-16-Year-Old-Single-Malt",
+          "first_seen": "2026-06-13T04:16:36.219280+00:00"
+        },
+        "Finn-Thomson-Caol-Ila-15-Year-Amarone-Finish-Single-Malt": {
+          "name": "Finn Thomson Caol Ila 15 Year Old Amarone Finish Single Malt",
+          "price": 169.99,
+          "url": "https://potomacwines.com/en-gb/product/Finn-Thomson-Caol-Ila-15-Year-Amarone-Finish-Single-Malt",
+          "first_seen": "2026-06-13T04:16:36.219285+00:00"
+        },
+        "boscarelli-prugnolo-rosso-di-montepulciano-2023": {
+          "name": "Boscarelli Prugnolo Rosso di Montepulciano 2023",
+          "price": 26.99,
+          "url": "https://potomacwines.com/en-gb/product/boscarelli-prugnolo-rosso-di-montepulciano-2023",
+          "first_seen": "2026-06-13T04:16:36.219292+00:00"
+        },
+        "continuum-proprietary-red-blend-2018-175L-magnum": {
+          "name": "Continuum Proprietary Red 2018 1.5L MAGNUM",
+          "price": 599.99,
+          "url": "https://potomacwines.com/en-gb/product/continuum-proprietary-red-blend-2018-175L-magnum",
+          "first_seen": "2026-06-13T04:16:36.219298+00:00"
         }
       }
     },
@@ -5235,7 +5295,7 @@
           "first_seen": "2026-06-10T04:12:43.009811+00:00"
         },
         "55110": {
-          "name": "Black Tot Historic Solera Rum",
+          "name": "Black Tot Historic Solera Rum                             ...",
           "price": 79.96,
           "url": "https://www.astorwines.com/item/55110?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-12T04:15:58.800747+00:00"
