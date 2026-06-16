@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-15T04:20:53.791862+00:00",
+  "last_run": "2026-06-16T04:22:32.119435+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4588,7 +4588,7 @@
         },
         "49237": {
           "name": "Black Tot Finest Caribbean Rum                            ...",
-          "price": 54.99,
+          "price": 46.96,
           "url": "https://www.astorwines.com/item/49237",
           "first_seen": "2026-04-05T01:36:30.109789+00:00"
         },
@@ -4846,7 +4846,7 @@
         },
         "53083": {
           "name": "Planteray Astor Select Fiji Single Cask",
-          "price": 0.0,
+          "price": 74.96,
           "url": "https://www.astorwines.com/item/53083",
           "first_seen": "2026-04-05T01:36:35.619171+00:00"
         },
