@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-16T04:22:32.119435+00:00",
+  "last_run": "2026-06-17T04:24:01.329676+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2402,7 +2402,7 @@
         },
         "tiki-lovers-white-rum": {
           "name": "Tiki Lovers White Rum",
-          "price": 24.5,
+          "price": 26.5,
           "url": "https://www.bittersandbottles.com/products/tiki-lovers-white-rum",
           "first_seen": "2026-04-04T06:45:26.871775+00:00"
         },
@@ -2606,7 +2606,7 @@
         },
         "rhum-jm-vsop-agricole-rhum": {
           "name": "Rhum JM VSOP Agricole Rhum",
-          "price": 54.5,
+          "price": 58.5,
           "url": "https://www.bittersandbottles.com/products/rhum-jm-vsop-agricole-rhum",
           "first_seen": "2026-04-04T06:45:33.202462+00:00"
         },
@@ -2726,7 +2726,7 @@
         },
         "el-dorado-cask-aged-3-year-white-rum": {
           "name": "El Dorado Cask Aged 3 Year White Rum",
-          "price": 19.5,
+          "price": 22.5,
           "url": "https://www.bittersandbottles.com/products/el-dorado-cask-aged-3-year-white-rum",
           "first_seen": "2026-04-04T06:45:34.275373+00:00"
         },
@@ -2915,6 +2915,12 @@
           "price": 36.5,
           "url": "https://www.bittersandbottles.com/products/foursquare-probitas-dark-rum",
           "first_seen": "2026-06-03T03:58:59.277124+00:00"
+        },
+        "hampden-great-house-distillery-edition-2025-rum": {
+          "name": "Hampden \"Great House\" Distillery Edition 2025 Rum",
+          "price": 164.5,
+          "url": "https://www.bittersandbottles.com/products/hampden-great-house-distillery-edition-2025-rum",
+          "first_seen": "2026-06-17T04:22:48.468733+00:00"
         }
       }
     },
