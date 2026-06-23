@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-22T04:32:36.092701+00:00",
+  "last_run": "2026-06-23T04:34:05.209765+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4114,7 +4114,7 @@
         },
         "22720": {
           "name": "Chairman's Reserve Rum                                    ...",
-          "price": 29.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/22720",
           "first_seen": "2026-04-05T01:36:26.603216+00:00"
         },
@@ -5329,6 +5329,12 @@
           "price": 189.96,
           "url": "https://www.astorwines.com/item/55136?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-18T04:25:18.304830+00:00"
+        },
+        "22917": {
+          "name": "Zafra Master Reserve 21 Yr. Rum                           ...",
+          "price": 69.96,
+          "url": "https://www.astorwines.com/item/22917?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-06-23T04:33:54.421382+00:00"
         }
       }
     },
