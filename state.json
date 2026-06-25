@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-24T04:35:43.065979+00:00",
+  "last_run": "2026-06-25T04:37:33.474913+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4390,7 +4390,7 @@
         },
         "53895": {
           "name": "Privateer Fresh to Death New England Rum                  ...",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/53895",
           "first_seen": "2026-04-05T01:36:29.107387+00:00"
         },
@@ -4984,7 +4984,7 @@
         },
         "53082": {
           "name": "Planteray Astor Select Vulcan Still Single Cask Barbados ...",
-          "price": 0.0,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/53082",
           "first_seen": "2026-04-05T01:36:38.124224+00:00"
         },
@@ -5224,7 +5224,7 @@
         },
         "52684": {
           "name": "KoHana Kea Hawaiian Agricole Rum                          ...",
-          "price": 33.97,
+          "price": 39.96,
           "url": "https://www.astorwines.com/item/52684",
           "first_seen": "2026-04-08T21:44:19.072158+00:00"
         },
