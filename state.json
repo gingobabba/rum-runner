@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-30T04:47:01.940769+00:00",
+  "last_run": "2026-07-01T04:48:30.138133+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1814,7 +1814,7 @@
         },
         "alambique-serrano-3-anos-single-origin-oaxacan-rum": {
           "name": "Alambique Serrano \"3 A\u00f1os\" Single Origin Oaxacan Rum",
-          "price": 54.5,
+          "price": 62.5,
           "url": "https://www.bittersandbottles.com/products/alambique-serrano-3-anos-single-origin-oaxacan-rum",
           "first_seen": "2026-04-04T06:38:08.456536+00:00"
         },
@@ -1910,7 +1910,7 @@
         },
         "alambique-serrano-cartier-30-oaxacan-rum": {
           "name": "Alambique Serrano \"Cartier 30\" Oaxacan Rum",
-          "price": 64.5,
+          "price": 68.5,
           "url": "https://www.bittersandbottles.com/products/alambique-serrano-cartier-30-oaxacan-rum",
           "first_seen": "2026-04-04T06:45:21.569922+00:00"
         },
@@ -2927,6 +2927,12 @@
           "price": 179.5,
           "url": "https://www.bittersandbottles.com/products/foursquare-exceptional-cask-mark-xxxi-epilogue-19-year-rum",
           "first_seen": "2026-06-24T04:34:25.602635+00:00"
+        },
+        "holmes-cay-single-origin-reunion-island-traditionnel-rum": {
+          "name": "Holmes Cay Single Origin R\u00e9union Island Traditionnel Rum",
+          "price": 52.5,
+          "url": "https://www.bittersandbottles.com/products/holmes-cay-single-origin-reunion-island-traditionnel-rum",
+          "first_seen": "2026-07-01T04:47:16.494630+00:00"
         }
       }
     },
@@ -3639,6 +3645,18 @@
           "price": 749.99,
           "url": "https://potomacwines.com/en-gb/product/Blackadder-Statement-Tamnavulin-29-Year-Single-Malt",
           "first_seen": "2026-06-30T04:45:21.106369+00:00"
+        },
+        "Ararat-Apricot-Brandy": {
+          "name": "Ararat Apricot Brandy",
+          "price": 36.99,
+          "url": "https://potomacwines.com/en-gb/product/Ararat-Apricot-Brandy",
+          "first_seen": "2026-07-01T04:47:19.209937+00:00"
+        },
+        "Podrum-Pevac-Desetka-Slivovitz-Plum-Brandy": {
+          "name": "Podrum Pevac Desetka Slivovitz Plum Brandy",
+          "price": 39.99,
+          "url": "https://potomacwines.com/en-gb/product/Podrum-Pevac-Desetka-Slivovitz-Plum-Brandy",
+          "first_seen": "2026-07-01T04:47:19.209959+00:00"
         }
       }
     },
@@ -3688,7 +3706,7 @@
         },
         "31618": {
           "name": "Planteray 3 Star White Rum                                ...",
-          "price": 22.96,
+          "price": 19.52,
           "url": "https://www.astorwines.com/item/31618",
           "first_seen": "2026-04-05T01:36:22.596053+00:00"
         },
@@ -4018,7 +4036,7 @@
         },
         "53089": {
           "name": "Wray & Nephew 126\u00b0 White Overproof Rum                    ...",
-          "price": 34.96,
+          "price": 29.72,
           "url": "https://www.astorwines.com/item/53089",
           "first_seen": "2026-04-05T01:36:25.100700+00:00"
         },
@@ -5296,7 +5314,7 @@
         },
         "55016": {
           "name": "'Probitas Green' Blended Dark Rum",
-          "price": 34.96,
+          "price": 29.72,
           "url": "https://www.astorwines.com/item/55016?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-03T04:00:18.265448+00:00"
         },
