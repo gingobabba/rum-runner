@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-02T04:50:31.960114+00:00",
+  "last_run": "2026-07-03T04:52:22.543366+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -5395,6 +5395,12 @@
           "price": 69.96,
           "url": "https://www.astorwines.com/item/22917?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-23T04:33:54.421382+00:00"
+        },
+        "55240": {
+          "name": "Mount Gay Exceptionally Aged 25yr Rum",
+          "price": 224.96,
+          "url": "https://www.astorwines.com/item/55240?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-07-03T04:52:11.156830+00:00"
         }
       }
     },
