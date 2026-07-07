@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-06T04:56:49.948394+00:00",
+  "last_run": "2026-07-07T04:58:44.806268+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3681,6 +3681,36 @@
           "price": 124.99,
           "url": "https://potomacwines.com/en-gb/product/Star-Hill-Farm-Wheat-Whisky",
           "first_seen": "2026-07-02T04:48:53.213157+00:00"
+        },
+        "frescobaldi-montsesodi-chianti-riserva-2021": {
+          "name": "Frescobaldi Montesodi Chianti Rufina Riserva 2021",
+          "price": 44.99,
+          "url": "https://potomacwines.com/en-gb/product/frescobaldi-montsesodi-chianti-riserva-2021",
+          "first_seen": "2026-07-07T04:57:13.007239+00:00"
+        },
+        "vanagandr-small-batch-gin-750ml": {
+          "name": "Vanagandr London Dry Gin 750ml",
+          "price": 79.99,
+          "url": "https://potomacwines.com/en-gb/product/vanagandr-small-batch-gin-750ml",
+          "first_seen": "2026-07-07T04:57:13.007264+00:00"
+        },
+        "marcarini-la-morra-barolo-2020": {
+          "name": "Marcarini Barolo del Comune di La Morra DOCG 2020",
+          "price": 49.99,
+          "url": "https://potomacwines.com/en-gb/product/marcarini-la-morra-barolo-2020",
+          "first_seen": "2026-07-07T04:57:13.007272+00:00"
+        },
+        "pichon-longueville-comtesse-lalande-pauillac-2018": {
+          "name": "Chateau Pichon Longueville Comtesse de Lalande 2018",
+          "price": 219.99,
+          "url": "https://potomacwines.com/en-gb/product/pichon-longueville-comtesse-lalande-pauillac-2018",
+          "first_seen": "2026-07-07T04:57:13.007278+00:00"
+        },
+        "hdv-hyde-de-villaine-chardonnay-2023": {
+          "name": "HDV Hyde de Villaine Hyde Vineyard Chardonnay 2023",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/hdv-hyde-de-villaine-chardonnay-2023",
+          "first_seen": "2026-07-07T04:57:13.007283+00:00"
         }
       }
     },
