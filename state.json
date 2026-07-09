@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-08T05:00:22.308675+00:00",
+  "last_run": "2026-07-09T05:02:26.724246+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3753,6 +3753,18 @@
           "price": 49.99,
           "url": "https://potomacwines.com/en-gb/product/Seelbachs-Wheated-Bourbon",
           "first_seen": "2026-07-08T04:59:06.699516+00:00"
+        },
+        "little-book-chapter-10-all-the-wiser": {
+          "name": "Little Book Chapter 10: All The Wiser Straight Bourbon",
+          "price": 159.99,
+          "url": "https://potomacwines.com/en-gb/product/little-book-chapter-10-all-the-wiser",
+          "first_seen": "2026-07-09T05:00:48.250678+00:00"
+        },
+        "promontory-proprietary-red-blend-2020-750ml": {
+          "name": "Promontory Proprietary Red 2020",
+          "price": 1199.99,
+          "url": "https://potomacwines.com/en-gb/product/promontory-proprietary-red-blend-2020-750ml",
+          "first_seen": "2026-07-09T05:00:48.250705+00:00"
         }
       }
     },
@@ -4696,7 +4708,7 @@
         },
         "53088": {
           "name": "Wray & Nephew 126\u00b0 White Overproof Rum                    ...",
-          "price": 59.96,
+          "price": 51.99,
           "url": "https://www.astorwines.com/item/53088",
           "first_seen": "2026-04-05T01:36:30.109733+00:00"
         },
