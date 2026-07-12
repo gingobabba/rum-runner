@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-11T05:06:32.332816+00:00",
+  "last_run": "2026-07-12T05:08:15.377880+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3765,6 +3765,12 @@
           "price": 1199.99,
           "url": "https://potomacwines.com/en-gb/product/promontory-proprietary-red-blend-2020-750ml",
           "first_seen": "2026-07-09T05:00:48.250705+00:00"
+        },
+        "Stray-Oak-Small-Batch-Bourbon": {
+          "name": "Stray Oak Small Batch Kentucky Bourbon",
+          "price": 44.99,
+          "url": "https://potomacwines.com/en-gb/product/Stray-Oak-Small-Batch-Bourbon",
+          "first_seen": "2026-07-12T05:06:52.293518+00:00"
         }
       }
     },
