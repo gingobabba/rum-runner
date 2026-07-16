@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-15T05:12:18.700816+00:00",
+  "last_run": "2026-07-16T05:13:59.505645+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2042,13 +2042,13 @@
         },
         "rhum-jm-epices-creoles-agricole-rhum": {
           "name": "Rhum JM Epices Creoles Agricole Rhum",
-          "price": 37.5,
+          "price": 38.5,
           "url": "https://www.bittersandbottles.com/products/rhum-jm-epices-creoles-agricole-rhum",
           "first_seen": "2026-04-04T06:45:23.714803+00:00"
         },
         "rhum-jm-frumee-volcanique-agricole-rhum": {
           "name": "Rhum JM Fum\u00e9e Volcanique Agricole Rhum",
-          "price": 39.5,
+          "price": 38.5,
           "url": "https://www.bittersandbottles.com/products/rhum-jm-frumee-volcanique-agricole-rhum",
           "first_seen": "2026-04-04T06:45:23.714818+00:00"
         },
@@ -2150,7 +2150,7 @@
         },
         "rhum-jm-jardin-fruite-agricole-rhum": {
           "name": "Rhum JM Jardin Fruit\u00e9 Agricole Rhum",
-          "price": 41.5,
+          "price": 38.5,
           "url": "https://www.bittersandbottles.com/products/rhum-jm-jardin-fruite-agricole-rhum",
           "first_seen": "2026-04-04T06:45:23.715122+00:00"
         },
@@ -2957,6 +2957,12 @@
           "price": 69.5,
           "url": "https://www.bittersandbottles.com/products/clairin-casimir-distillery-faubert-haitian-rum",
           "first_seen": "2026-07-08T04:59:02.711441+00:00"
+        },
+        "clairin-milot-rum": {
+          "name": "Clairin Milot Rum",
+          "price": 48.5,
+          "url": "https://www.bittersandbottles.com/products/clairin-milot-rum",
+          "first_seen": "2026-07-16T05:12:41.220884+00:00"
         }
       }
     },
@@ -3795,6 +3801,24 @@
           "price": 299.99,
           "url": "https://potomacwines.com/en-gb/product/heitz-marthas-vineyard-cabernet-oakville-2016",
           "first_seen": "2026-07-14T05:10:12.186679+00:00"
+        },
+        "Craigellachie-17-Year-Old-Single-Malt": {
+          "name": "Craigellachie 17 Year Old Single Malt",
+          "price": 179.99,
+          "url": "https://potomacwines.com/en-gb/product/Craigellachie-17-Year-Old-Single-Malt",
+          "first_seen": "2026-07-16T05:12:44.360273+00:00"
+        },
+        "Black-Maple-Hill-Premium-Small-Batch-Bourbon": {
+          "name": "Black Maple Hill Premium Small Batch Bourbon",
+          "price": 79.99,
+          "url": "https://potomacwines.com/en-gb/product/Black-Maple-Hill-Premium-Small-Batch-Bourbon",
+          "first_seen": "2026-07-16T05:12:44.360293+00:00"
+        },
+        "Sarti-Rosa": {
+          "name": "Sarti Rosa Aperitivo",
+          "price": 24.99,
+          "url": "https://potomacwines.com/en-gb/product/Sarti-Rosa",
+          "first_seen": "2026-07-16T05:12:44.360300+00:00"
         }
       }
     },
@@ -3802,61 +3826,61 @@
       "catalog": {
         "06956": {
           "name": "Pitu Cacha\u00e7a                                              ...",
-          "price": 16.99,
+          "price": 19.99,
           "url": "https://www.astorwines.com/item/06956",
           "first_seen": "2026-04-05T01:36:22.095268+00:00"
         },
         "54107": {
           "name": "Bacardi Gold Rum",
-          "price": 1.67,
+          "price": 1.96,
           "url": "https://www.astorwines.com/item/54107",
           "first_seen": "2026-04-05T01:36:22.095290+00:00"
         },
         "07624": {
           "name": "Wray & Nephew 126\u00b0 White Overproof Rum                    ...",
-          "price": 23.79,
+          "price": 27.99,
           "url": "https://www.astorwines.com/item/07624",
           "first_seen": "2026-04-05T01:36:22.095299+00:00"
         },
         "40288": {
           "name": "Foursquare Probitas Rum                                   ...",
-          "price": 25.47,
+          "price": 29.96,
           "url": "https://www.astorwines.com/item/40288",
           "first_seen": "2026-04-05T01:36:22.595991+00:00"
         },
         "50550": {
           "name": "Coruba Jamaican Dark Rum                                  ...",
-          "price": 16.97,
+          "price": 19.96,
           "url": "https://www.astorwines.com/item/50550",
           "first_seen": "2026-04-05T01:36:22.596030+00:00"
         },
         "53958": {
           "name": "Bacardi Superior White Rum                                ...",
-          "price": 1.05,
+          "price": 1.24,
           "url": "https://www.astorwines.com/item/53958",
           "first_seen": "2026-04-05T01:36:22.596039+00:00"
         },
         "31300": {
           "name": "Hamilton Worthy Park Jamaica Black Rum                    ...",
-          "price": 25.47,
+          "price": 29.96,
           "url": "https://www.astorwines.com/item/31300",
           "first_seen": "2026-04-05T01:36:22.596047+00:00"
         },
         "31618": {
           "name": "Planteray 3 Star White Rum                                ...",
-          "price": 19.52,
+          "price": 22.96,
           "url": "https://www.astorwines.com/item/31618",
           "first_seen": "2026-04-05T01:36:22.596053+00:00"
         },
         "36518": {
           "name": "Hampden Estate Rum Fire Overproof                         ...",
-          "price": 25.49,
+          "price": 29.99,
           "url": "https://www.astorwines.com/item/36518",
           "first_seen": "2026-04-05T01:36:23.096801+00:00"
         },
         "13334": {
           "name": "Diplomatico Reserva Exclusiva Rum                         ...",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/13334",
           "first_seen": "2026-04-05T01:36:23.096839+00:00"
         },
@@ -3868,31 +3892,31 @@
         },
         "30861": {
           "name": "Denizen Merchant's Reserve 8 year Rum                     ...",
-          "price": 23.77,
+          "price": 27.96,
           "url": "https://www.astorwines.com/item/30861",
           "first_seen": "2026-04-05T01:36:23.096857+00:00"
         },
         "14211": {
           "name": "Leblon Cacha\u00e7a                                            ...",
-          "price": 21.24,
+          "price": 24.99,
           "url": "https://www.astorwines.com/item/14211",
           "first_seen": "2026-04-05T01:36:23.096871+00:00"
         },
         "21735": {
           "name": "El Dorado 3 Yr. White Rum                                 ...",
-          "price": 16.14,
+          "price": 18.99,
           "url": "https://www.astorwines.com/item/21735",
           "first_seen": "2026-04-05T01:36:23.096878+00:00"
         },
         "32857": {
           "name": "El Dorado 12yr Demerara Rum                               ...",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/32857",
           "first_seen": "2026-04-05T01:36:23.096885+00:00"
         },
         "52590": {
           "name": "Habitation Velier Hampden PM/Prestige Single Blended ...",
-          "price": 101.97,
+          "price": 119.96,
           "url": "https://www.astorwines.com/item/52590",
           "first_seen": "2026-04-05T01:36:23.597790+00:00"
         },
@@ -3904,7 +3928,7 @@
         },
         "07484": {
           "name": "Appleton Estate Rare Blend 12 Yr. Jamaica Rum             ...",
-          "price": 42.49,
+          "price": 49.99,
           "url": "https://www.astorwines.com/item/07484",
           "first_seen": "2026-04-05T01:36:23.597837+00:00"
         },
@@ -3916,7 +3940,7 @@
         },
         "37211": {
           "name": "Rivers Antoine Full Proof Rum                             ...",
-          "price": 76.49,
+          "price": 89.99,
           "url": "https://www.astorwines.com/item/37211",
           "first_seen": "2026-04-05T01:36:23.597851+00:00"
         },
@@ -3952,19 +3976,19 @@
         },
         "31619": {
           "name": "Planteray Original Dark Rum                               ...",
-          "price": 18.69,
+          "price": 21.99,
           "url": "https://www.astorwines.com/item/31619",
           "first_seen": "2026-04-05T01:36:24.599569+00:00"
         },
         "44148": {
           "name": "Two James, Doctor Bird Rum                                ...",
-          "price": 25.49,
+          "price": 29.99,
           "url": "https://www.astorwines.com/item/44148",
           "first_seen": "2026-04-05T01:36:24.599577+00:00"
         },
         "51129": {
           "name": "Planteray Cut & Dry Natural Coconut Rum                   ...",
-          "price": 29.74,
+          "price": 34.99,
           "url": "https://www.astorwines.com/item/51129",
           "first_seen": "2026-04-05T01:36:24.599585+00:00"
         },
@@ -3976,7 +4000,7 @@
         },
         "43684": {
           "name": "Saint Benevolence Rum Clairin",
-          "price": 27.17,
+          "price": 31.96,
           "url": "https://www.astorwines.com/item/43684",
           "first_seen": "2026-04-05T01:36:24.599602+00:00"
         },
@@ -3988,7 +4012,7 @@
         },
         "07584": {
           "name": "Ron del Barrilito Rum 3 Star                              ...",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/07584",
           "first_seen": "2026-04-05T01:36:24.599617+00:00"
         },
@@ -4030,7 +4054,7 @@
         },
         "07116": {
           "name": "Bacardi Silver Rum                                        ...",
-          "price": 16.99,
+          "price": 19.99,
           "url": "https://www.astorwines.com/item/07116",
           "first_seen": "2026-04-05T01:36:25.100516+00:00"
         },
@@ -4048,7 +4072,7 @@
         },
         "54263": {
           "name": "Don Q Cristal Rum",
-          "price": 18.67,
+          "price": 21.96,
           "url": "https://www.astorwines.com/item/54263",
           "first_seen": "2026-04-05T01:36:25.100539+00:00"
         },
@@ -4096,7 +4120,7 @@
         },
         "07064": {
           "name": "Lemon Hart 151\u00b0 Overproof Demerara Rum                    ...",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/07064",
           "first_seen": "2026-04-05T01:36:25.100605+00:00"
         },
@@ -4114,13 +4138,13 @@
         },
         "23849": {
           "name": "Flor de Ca\u00f1a Extra Dry 4 Yr. White Rum                    ...",
-          "price": 16.99,
+          "price": 19.99,
           "url": "https://www.astorwines.com/item/23849",
           "first_seen": "2026-04-05T01:36:25.100629+00:00"
         },
         "31873": {
           "name": "Astor White Rum",
-          "price": 10.17,
+          "price": 11.96,
           "url": "https://www.astorwines.com/item/31873",
           "first_seen": "2026-04-05T01:36:25.100635+00:00"
         },
@@ -4138,19 +4162,19 @@
         },
         "31874": {
           "name": "Astor Dark Rum",
-          "price": 12.72,
+          "price": 14.96,
           "url": "https://www.astorwines.com/item/31874",
           "first_seen": "2026-04-05T01:36:25.100653+00:00"
         },
         "52837": {
           "name": "Alambique Serrano 3 A\u00f1os Oaxacan Rum                      ...",
-          "price": 64.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/52837",
           "first_seen": "2026-04-05T01:36:25.100662+00:00"
         },
         "39073": {
           "name": "Mount Gay Eclipse Dark Rum                                ...",
-          "price": 21.22,
+          "price": 24.96,
           "url": "https://www.astorwines.com/item/39073",
           "first_seen": "2026-04-05T01:36:25.100669+00:00"
         },
@@ -4162,7 +4186,7 @@
         },
         "54671": {
           "name": "The Rums of Mexico Ca\u00f1a Criolla                           ...",
-          "price": 50.97,
+          "price": 59.96,
           "url": "https://www.astorwines.com/item/54671",
           "first_seen": "2026-04-05T01:36:25.100684+00:00"
         },
@@ -4174,7 +4198,7 @@
         },
         "53089": {
           "name": "Wray & Nephew 126\u00b0 White Overproof Rum                    ...",
-          "price": 29.72,
+          "price": 34.96,
           "url": "https://www.astorwines.com/item/53089",
           "first_seen": "2026-04-05T01:36:25.100700+00:00"
         },
@@ -4210,13 +4234,13 @@
         },
         "36663": {
           "name": "HSE Blanc Martinique Rhum Agricole                        ...",
-          "price": 25.47,
+          "price": 29.96,
           "url": "https://www.astorwines.com/item/36663",
           "first_seen": "2026-04-05T01:36:25.601576+00:00"
         },
         "23425": {
           "name": "Coruba Dark Rum                                           ...",
-          "price": 25.47,
+          "price": 29.96,
           "url": "https://www.astorwines.com/item/23425",
           "first_seen": "2026-04-05T01:36:25.601583+00:00"
         },
@@ -4282,13 +4306,13 @@
         },
         "50926": {
           "name": "Ten To One White Rum                                      ...",
-          "price": 21.22,
+          "price": 24.96,
           "url": "https://www.astorwines.com/item/50926",
           "first_seen": "2026-04-05T01:36:26.603210+00:00"
         },
         "22720": {
           "name": "Chairman's Reserve Rum                                    ...",
-          "price": 25.47,
+          "price": 29.96,
           "url": "https://www.astorwines.com/item/22720",
           "first_seen": "2026-04-05T01:36:26.603216+00:00"
         },
@@ -4330,7 +4354,7 @@
         },
         "34644": {
           "name": "Appleton Estate Signature Blend Jamaica Rum               ...",
-          "price": 22.92,
+          "price": 26.96,
           "url": "https://www.astorwines.com/item/34644",
           "first_seen": "2026-04-05T01:36:26.603265+00:00"
         },
@@ -4360,7 +4384,7 @@
         },
         "42430": {
           "name": "Hamilton White 'Stache Rum                                ...",
-          "price": 21.24,
+          "price": 24.99,
           "url": "https://www.astorwines.com/item/42430",
           "first_seen": "2026-04-05T01:36:26.603297+00:00"
         },
@@ -4420,7 +4444,7 @@
         },
         "48950": {
           "name": "Isautier 16yr Molasses Rum                                ...",
-          "price": 114.74,
+          "price": 134.99,
           "url": "https://www.astorwines.com/item/48950",
           "first_seen": "2026-04-05T01:36:27.104131+00:00"
         },
@@ -4510,7 +4534,7 @@
         },
         "48948": {
           "name": "Holmes Cay R\u00e9union Island Grand Arome Rum                 ...",
-          "price": 42.49,
+          "price": 49.99,
           "url": "https://www.astorwines.com/item/48948",
           "first_seen": "2026-04-05T01:36:28.606542+00:00"
         },
@@ -4528,7 +4552,7 @@
         },
         "43685": {
           "name": "Saint Benevolence 5yr Caribbean Rum                       ...",
-          "price": 31.42,
+          "price": 36.96,
           "url": "https://www.astorwines.com/item/43685",
           "first_seen": "2026-04-05T01:36:28.606564+00:00"
         },
@@ -4570,7 +4594,7 @@
         },
         "54171": {
           "name": "Sihhenge Pineapple Rum                                    ...",
-          "price": 33.97,
+          "price": 39.96,
           "url": "https://www.astorwines.com/item/54171",
           "first_seen": "2026-04-05T01:36:29.107405+00:00"
         },
@@ -4672,13 +4696,13 @@
         },
         "53833": {
           "name": "Pa'lante Reposado Mexican Rum                             ...",
-          "price": 29.72,
+          "price": 34.96,
           "url": "https://www.astorwines.com/item/53833",
           "first_seen": "2026-04-05T01:36:30.109619+00:00"
         },
         "50695": {
           "name": "Rhum J.M. Jardin Fruit\u00e9                                   ...",
-          "price": 41.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/50695",
           "first_seen": "2026-04-05T01:36:30.109629+00:00"
         },
@@ -4702,7 +4726,7 @@
         },
         "21770": {
           "name": "Rhum J.M Blanc                                            ...",
-          "price": 29.72,
+          "price": 34.96,
           "url": "https://www.astorwines.com/item/21770",
           "first_seen": "2026-04-05T01:36:30.109658+00:00"
         },
@@ -4786,7 +4810,7 @@
         },
         "49237": {
           "name": "Black Tot Finest Caribbean Rum                            ...",
-          "price": 39.92,
+          "price": 46.96,
           "url": "https://www.astorwines.com/item/49237",
           "first_seen": "2026-04-05T01:36:30.109789+00:00"
         },
@@ -4906,7 +4930,7 @@
         },
         "23689": {
           "name": "Blackheart Spiced Rum",
-          "price": 11.89,
+          "price": 13.99,
           "url": "https://www.astorwines.com/item/23689",
           "first_seen": "2026-04-05T01:36:30.610766+00:00"
         },
@@ -4954,7 +4978,7 @@
         },
         "35200": {
           "name": "Hamilton Demerara Rum                                     ...",
-          "price": 23.77,
+          "price": 27.96,
           "url": "https://www.astorwines.com/item/35200",
           "first_seen": "2026-04-05T01:36:31.612481+00:00"
         },
@@ -5044,7 +5068,7 @@
         },
         "53083": {
           "name": "Planteray Astor Select 16.9yrs Single Cask Fiji Rum       ...",
-          "price": 63.72,
+          "price": 74.96,
           "url": "https://www.astorwines.com/item/53083",
           "first_seen": "2026-04-05T01:36:35.619171+00:00"
         },
@@ -5152,7 +5176,7 @@
         },
         "53082": {
           "name": "Planteray Astor Select Vulcan Still Single Cask Barbados ...",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/53082",
           "first_seen": "2026-04-05T01:36:38.124224+00:00"
         },
@@ -5332,19 +5356,19 @@
         },
         "33173": {
           "name": "Planteray Stiggins' Fancy Pineapple Rum",
-          "price": 28.89,
+          "price": 33.99,
           "url": "https://www.astorwines.com/item/33173",
           "first_seen": "2026-04-06T17:50:06.203670+00:00"
         },
         "35955": {
           "name": "Planteray O.F.T.D. Overproof Rum                          ...",
-          "price": 28.04,
+          "price": 32.99,
           "url": "https://www.astorwines.com/item/35955",
           "first_seen": "2026-04-06T17:50:06.203707+00:00"
         },
         "43060": {
           "name": "Appleton Estate 8yr Jamaican Rum",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/43060",
           "first_seen": "2026-04-06T17:50:06.203725+00:00"
         },
@@ -5380,25 +5404,25 @@
         },
         "54798": {
           "name": "Transcontinental Rum Line High Seas Caibbean Blend Rum    ...",
-          "price": 28.87,
+          "price": 33.96,
           "url": "https://www.astorwines.com/item/54798",
           "first_seen": "2026-04-08T15:16:25.484480+00:00"
         },
         "21937": {
           "name": "Smith & Cross Jamaica Rum                                 ...",
-          "price": 25.49,
+          "price": 29.99,
           "url": "https://www.astorwines.com/item/21937",
           "first_seen": "2026-04-08T17:07:29.521280+00:00"
         },
         "52684": {
           "name": "KoHana Kea Hawaiian Agricole Rum                          ...",
-          "price": 33.97,
+          "price": 39.96,
           "url": "https://www.astorwines.com/item/52684",
           "first_seen": "2026-04-08T21:44:19.072158+00:00"
         },
         "48727": {
           "name": "Rhum J.M Terroir Volcanique Vieux Agricole Rhum           ...",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/48727",
           "first_seen": "2026-04-09T17:11:43.521782+00:00"
         },
@@ -5428,7 +5452,7 @@
         },
         "54859": {
           "name": "Alambique Serrano 'Alambique de Cobre' Pot Still White ...",
-          "price": 63.72,
+          "price": 74.96,
           "url": "https://www.astorwines.com/item/54859",
           "first_seen": "2026-04-16T17:19:12.973409+00:00"
         },
@@ -5446,13 +5470,13 @@
         },
         "54900": {
           "name": "Hampden Astor Select HGML 8yr Single Cask Jamaican Rum    ...",
-          "price": 254.97,
+          "price": 299.96,
           "url": "https://www.astorwines.com/item/54900?lt=Search+Results&lid=search_results",
           "first_seen": "2026-05-26T16:44:27.640864+00:00"
         },
         "55016": {
           "name": "'Probitas Green' Blended Dark Rum",
-          "price": 29.72,
+          "price": 34.96,
           "url": "https://www.astorwines.com/item/55016?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-03T04:00:18.265448+00:00"
         },
@@ -5464,25 +5488,25 @@
         },
         "38093": {
           "name": "Clairin Casimir Haitian Rum",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/38093?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-10T04:12:43.009775+00:00"
         },
         "38094": {
           "name": "Clairin Sajous Haitian Rum",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/38094?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-10T04:12:43.009792+00:00"
         },
         "38095": {
           "name": "Clairin Vaval Haitian Rum",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/38095?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-10T04:12:43.009799+00:00"
         },
         "40522": {
           "name": "Clairin Le Rocher Haitian Rum",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/40522?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-10T04:12:43.009805+00:00"
         },
@@ -5506,7 +5530,7 @@
         },
         "22917": {
           "name": "Zafra Master Reserve 21 Yr. Rum                           ...",
-          "price": 59.47,
+          "price": 69.96,
           "url": "https://www.astorwines.com/item/22917?lt=Search+Results&lid=search_results",
           "first_seen": "2026-06-23T04:33:54.421382+00:00"
         },
@@ -5521,6 +5545,12 @@
           "price": 36.99,
           "url": "https://www.astorwines.com/item/55242?lt=Search+Results&lid=search_results",
           "first_seen": "2026-07-08T05:00:10.758844+00:00"
+        },
+        "43069": {
+          "name": "Ak Zanj Haitian Dark Rum                                  ...",
+          "price": 31.96,
+          "url": "https://www.astorwines.com/item/43069?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-07-16T05:13:47.762577+00:00"
         }
       }
     },
