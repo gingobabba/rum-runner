@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-21T05:22:06.232146+00:00",
+  "last_run": "2026-07-22T05:23:39.806212+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -5641,6 +5641,12 @@
           "price": 99.96,
           "url": "https://www.astorwines.com/item/55417?lt=Search+Results&lid=search_results",
           "first_seen": "2026-07-18T05:16:59.335532+00:00"
+        },
+        "53587": {
+          "name": "Worthy Park 9th Floor Cane Juice Rum",
+          "price": 74.96,
+          "url": "https://www.astorwines.com/item/53587?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-07-22T05:23:27.271538+00:00"
         }
       }
     },
