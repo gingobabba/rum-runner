@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-22T05:23:39.806212+00:00",
+  "last_run": "2026-07-23T05:25:47.474631+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3897,6 +3897,66 @@
           "price": 134.99,
           "url": "https://potomacwines.com/en-gb/product/5-Sentidos-Jabali-Tobala-Reynaldo",
           "first_seen": "2026-07-21T05:20:50.179114+00:00"
+        },
+        "verite-la-joie-2018": {
+          "name": "Verite La Joie 2018",
+          "price": 399.99,
+          "url": "https://potomacwines.com/en-gb/product/verite-la-joie-2018",
+          "first_seen": "2026-07-23T05:24:02.227493+00:00"
+        },
+        "verite-la-muse-2019": {
+          "name": "Verite La Muse 2019",
+          "price": 399.99,
+          "url": "https://potomacwines.com/en-gb/product/verite-la-muse-2019",
+          "first_seen": "2026-07-23T05:24:02.227517+00:00"
+        },
+        "verite-la-muse-2018": {
+          "name": "Verite La Muse 2018",
+          "price": 399.99,
+          "url": "https://potomacwines.com/en-gb/product/verite-la-muse-2018",
+          "first_seen": "2026-07-23T05:24:02.227524+00:00"
+        },
+        "verite-la-muse-2015": {
+          "name": "Verite La Muse 2015",
+          "price": 399.99,
+          "url": "https://potomacwines.com/en-gb/product/verite-la-muse-2015",
+          "first_seen": "2026-07-23T05:24:02.227529+00:00"
+        },
+        "verite-le-desir-2016": {
+          "name": "Verite Le Desir 2016",
+          "price": 399.99,
+          "url": "https://potomacwines.com/en-gb/product/verite-le-desir-2016",
+          "first_seen": "2026-07-23T05:24:02.227535+00:00"
+        },
+        "anseillan-du-lafite-rothschild-pauillac-2019": {
+          "name": "Anseillan Du Chateau Lafite Rothschild 2019",
+          "price": 99.99,
+          "url": "https://potomacwines.com/en-gb/product/anseillan-du-lafite-rothschild-pauillac-2019",
+          "first_seen": "2026-07-23T05:24:02.227540+00:00"
+        },
+        "volpaia-balifico-toscana-2021": {
+          "name": "Castello di Volpaia Balifico 2021",
+          "price": 114.99,
+          "url": "https://potomacwines.com/en-gb/product/volpaia-balifico-toscana-2021",
+          "first_seen": "2026-07-23T05:24:02.227545+00:00"
+        },
+        "antinori-tignanello-2020-3-liter": {
+          "name": "Antinori Tignanello 2020 3-Liter",
+          "price": 899.99,
+          "url": "https://potomacwines.com/en-gb/product/antinori-tignanello-2020-3-liter",
+          "first_seen": "2026-07-23T05:24:02.227550+00:00"
+        },
+        "chateau-leoville-poyferre-saint-julien-2016": {
+          "name": "Chateau Leoville Poyferre 2016",
+          "price": 139.99,
+          "url": "https://potomacwines.com/en-gb/product/chateau-leoville-poyferre-saint-julien-2016",
+          "first_seen": "2026-07-23T05:24:02.227556+00:00"
+        },
+        "chateau-lascombes-margaux-2022": {
+          "name": "Chateau Lascombes 2022",
+          "price": 89.99,
+          "url": "https://potomacwines.com/en-gb/product/chateau-lascombes-margaux-2022",
+          "first_seen": "2026-07-23T05:24:02.227561+00:00"
         }
       }
     },
@@ -4816,7 +4876,7 @@
         },
         "54187": {
           "name": "Viamundi Charanda de la Familia Rum Artesanal             ...",
-          "price": 114.96,
+          "price": 97.72,
           "url": "https://www.astorwines.com/item/54187",
           "first_seen": "2026-04-05T01:36:30.109674+00:00"
         },
