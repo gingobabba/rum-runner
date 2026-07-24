@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-23T05:25:47.474631+00:00",
+  "last_run": "2026-07-24T05:27:18.217508+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4305,7 +4305,7 @@
           "first_seen": "2026-04-05T01:36:25.100653+00:00"
         },
         "52837": {
-          "name": "Alambique Serrano 3 A\u00f1os Oaxacan Rum                      ...",
+          "name": "Alambique Serrano 3 A\u00f1os Oaxacan Rum",
           "price": 64.96,
           "url": "https://www.astorwines.com/item/52837",
           "first_seen": "2026-04-05T01:36:25.100662+00:00"
@@ -4876,7 +4876,7 @@
         },
         "54187": {
           "name": "Viamundi Charanda de la Familia Rum Artesanal             ...",
-          "price": 97.72,
+          "price": 114.96,
           "url": "https://www.astorwines.com/item/54187",
           "first_seen": "2026-04-05T01:36:30.109674+00:00"
         },
@@ -5707,6 +5707,18 @@
           "price": 74.96,
           "url": "https://www.astorwines.com/item/53587?lt=Search+Results&lid=search_results",
           "first_seen": "2026-07-22T05:23:27.271538+00:00"
+        },
+        "55478": {
+          "name": "The Rums of Mexico Panela",
+          "price": 54.96,
+          "url": "https://www.astorwines.com/item/55478?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-07-24T05:27:05.925484+00:00"
+        },
+        "55477": {
+          "name": "Alambique Serrano 4 A\u00f1os Oaxaca Rum",
+          "price": 89.96,
+          "url": "https://www.astorwines.com/item/55477?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-07-24T05:27:05.925529+00:00"
         }
       }
     },
