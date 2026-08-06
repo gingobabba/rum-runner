@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-05T05:48:52.673204+00:00",
+  "last_run": "2026-08-06T05:50:48.772140+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4035,6 +4035,12 @@
           "price": 119.99,
           "url": "https://potomacwines.com/en-gb/product/Kilkerran-Heavily-Peated-Single-Malt-Batch-13",
           "first_seen": "2026-08-02T05:42:30.940651+00:00"
+        },
+        "springbank-12-year-old-cask-strength-single-malt-batch-29": {
+          "name": "Springbank 12 Year Old Cask Strength Single Malt Batch 29",
+          "price": 199.99,
+          "url": "https://potomacwines.com/en-gb/product/springbank-12-year-old-cask-strength-single-malt-batch-29",
+          "first_seen": "2026-08-06T05:49:11.150610+00:00"
         }
       }
     },
