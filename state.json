@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-14T06:05:06.054021+00:00",
+  "last_run": "2026-08-15T06:06:37.370256+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4089,6 +4089,30 @@
           "price": 199.99,
           "url": "https://potomacwines.com/en-gb/product/Michters-10-Year-Old-Rye",
           "first_seen": "2026-08-13T06:01:35.969425+00:00"
+        },
+        "Foursquare-Epilogue": {
+          "name": "Foursquare Rum Distillery Exceptional Cask Selection Mark XXXI Epilogue 19 Year Old Single Blended Rum",
+          "price": 184.99,
+          "url": "https://potomacwines.com/en-gb/product/Foursquare-Epilogue",
+          "first_seen": "2026-08-15T06:05:27.037797+00:00"
+        },
+        "old-carter-batch-18-american-whiskey": {
+          "name": "Old Carter Whiskey Co. Batch 18 Straight American Whiskey",
+          "price": 229.99,
+          "url": "https://potomacwines.com/en-gb/product/old-carter-batch-18-american-whiskey",
+          "first_seen": "2026-08-15T06:05:27.037820+00:00"
+        },
+        "old-carter-batch-17-american-whiskey": {
+          "name": "Old Carter Whiskey Co. Batch 17 Straight American Whiskey",
+          "price": 229.99,
+          "url": "https://potomacwines.com/en-gb/product/old-carter-batch-17-american-whiskey",
+          "first_seen": "2026-08-15T06:05:27.037826+00:00"
+        },
+        "old-carter-batch-16-american-whiskey": {
+          "name": "Old Carter Whiskey Co. Batch 16 Straight American Whiskey",
+          "price": 229.99,
+          "url": "https://potomacwines.com/en-gb/product/old-carter-batch-16-american-whiskey",
+          "first_seen": "2026-08-15T06:05:27.037829+00:00"
         }
       }
     },
