@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-31T06:33:35.250321+00:00",
+  "last_run": "2026-09-01T06:34:59.838963+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4642,7 +4642,7 @@
         },
         "50926": {
           "name": "Ten To One White Rum                                      ...",
-          "price": 21.22,
+          "price": 24.96,
           "url": "https://www.astorwines.com/item/50926",
           "first_seen": "2026-04-05T01:36:26.603210+00:00"
         },
@@ -4701,8 +4701,8 @@
           "first_seen": "2026-04-05T01:36:26.603271+00:00"
         },
         "21772": {
-          "name": "Rhum J.M VSOP                                             ...",
-          "price": 54.96,
+          "name": "Rhum J.M VSOP",
+          "price": 55.96,
           "url": "https://www.astorwines.com/item/21772",
           "first_seen": "2026-04-05T01:36:26.603276+00:00"
         },
