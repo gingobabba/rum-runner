@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-02T06:36:41.904446+00:00",
+  "last_run": "2026-09-03T06:38:45.688275+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -5917,6 +5917,30 @@
           "price": 89.96,
           "url": "https://www.astorwines.com/item/55477?lt=Search+Results&lid=search_results",
           "first_seen": "2026-07-24T05:27:05.925529+00:00"
+        },
+        "37271": {
+          "name": "Paranubes Oaxacan Agricole Rum                            ...",
+          "price": 41.99,
+          "url": "https://www.astorwines.com/item/37271?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-09-03T06:38:32.330332+00:00"
+        },
+        "55752": {
+          "name": "Alambique Serrano Vida Nativa Blend #2 Mariposa Vitral Rum",
+          "price": 0.0,
+          "url": "https://www.astorwines.com/item/55752?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-09-03T06:38:32.330393+00:00"
+        },
+        "55751": {
+          "name": "Alambique Serrano Vida Nativa Blend #4 Mariposa 88 Rum",
+          "price": 0.0,
+          "url": "https://www.astorwines.com/item/55751?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-09-03T06:38:32.330400+00:00"
+        },
+        "55753": {
+          "name": "Alambique Serrano Vida Nativa Blend #3 Tepijilote Rum",
+          "price": 0.0,
+          "url": "https://www.astorwines.com/item/55753?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-09-03T06:38:32.330407+00:00"
         }
       }
     },
