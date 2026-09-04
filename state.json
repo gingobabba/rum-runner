@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-03T06:38:45.688275+00:00",
+  "last_run": "2026-09-04T06:40:23.158272+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1826,7 +1826,7 @@
         },
         "holmes-cay-venezuela-15-year-2007-single-cask-rum": {
           "name": "Holmes Cay Venezuela 15 Year 2007 Single Cask Rum",
-          "price": 92.0,
+          "price": 92.5,
           "url": "https://www.bittersandbottles.com/products/holmes-cay-venezuela-15-year-2007-single-cask-rum",
           "first_seen": "2026-04-04T06:38:08.456596+00:00"
         },
@@ -4155,6 +4155,24 @@
           "price": 99.99,
           "url": "https://potomacwines.com/en-gb/product/Laphroaig-15-Year-Old-Single-Malt",
           "first_seen": "2026-08-27T06:25:47.149897+00:00"
+        },
+        "Octomore-17-3": {
+          "name": "Bruichladdich Octomore 17.3 5 Year Old Single Malt",
+          "price": 284.99,
+          "url": "https://potomacwines.com/en-gb/product/Octomore-17-3",
+          "first_seen": "2026-09-04T06:39:05.496432+00:00"
+        },
+        "Octomore-17-2": {
+          "name": "Bruichladdich Octomore 17.2 5 Year Old Single Malt",
+          "price": 249.99,
+          "url": "https://potomacwines.com/en-gb/product/Octomore-17-2",
+          "first_seen": "2026-09-04T06:39:05.496454+00:00"
+        },
+        "Octomore-17-1": {
+          "name": "Bruichladdich Octomore 17.1 5 Year Old Single Malt",
+          "price": 209.99,
+          "url": "https://potomacwines.com/en-gb/product/Octomore-17-1",
+          "first_seen": "2026-09-04T06:39:05.496458+00:00"
         }
       }
     },
@@ -5008,7 +5026,7 @@
         },
         "47368": {
           "name": "Baie Des Tr\u00e9sors Plein Soleil Blanc Martinique Rhum ...",
-          "price": 59.99,
+          "price": 63.99,
           "url": "https://www.astorwines.com/item/47368",
           "first_seen": "2026-04-05T01:36:30.109586+00:00"
         },
@@ -5926,19 +5944,19 @@
         },
         "55752": {
           "name": "Alambique Serrano Vida Nativa Blend #2 Mariposa Vitral Rum",
-          "price": 0.0,
+          "price": 119.96,
           "url": "https://www.astorwines.com/item/55752?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-03T06:38:32.330393+00:00"
         },
         "55751": {
           "name": "Alambique Serrano Vida Nativa Blend #4 Mariposa 88 Rum",
-          "price": 0.0,
+          "price": 119.96,
           "url": "https://www.astorwines.com/item/55751?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-03T06:38:32.330400+00:00"
         },
         "55753": {
           "name": "Alambique Serrano Vida Nativa Blend #3 Tepijilote Rum",
-          "price": 0.0,
+          "price": 119.96,
           "url": "https://www.astorwines.com/item/55753?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-03T06:38:32.330407+00:00"
         }
