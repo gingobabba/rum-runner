@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-04T06:40:23.158272+00:00",
+  "last_run": "2026-09-05T06:41:55.619825+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -5950,7 +5950,7 @@
         },
         "55751": {
           "name": "Alambique Serrano Vida Nativa Blend #4 Mariposa 88 Rum",
-          "price": 119.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/55751?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-03T06:38:32.330400+00:00"
         },
