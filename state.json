@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-08T06:47:15.386381+00:00",
+  "last_run": "2026-09-09T06:48:50.067408+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -5956,9 +5956,15 @@
         },
         "55753": {
           "name": "Alambique Serrano Vida Nativa Blend #3 Tepijilote Rum",
-          "price": 119.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/55753?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-03T06:38:32.330407+00:00"
+        },
+        "55656": {
+          "name": "Hampden Astor Select C<>H 4yr Single Cask Jamaican Rum    ...",
+          "price": 199.96,
+          "url": "https://www.astorwines.com/item/55656?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-09-09T06:48:37.851416+00:00"
         }
       }
     },
