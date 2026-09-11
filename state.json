@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-10T06:50:46.490616+00:00",
+  "last_run": "2026-09-11T06:52:23.004059+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4660,7 +4660,7 @@
         },
         "50926": {
           "name": "Ten To One White Rum                                      ...",
-          "price": 24.96,
+          "price": 26.96,
           "url": "https://www.astorwines.com/item/50926",
           "first_seen": "2026-04-05T01:36:26.603210+00:00"
         },
@@ -5965,6 +5965,12 @@
           "price": 199.96,
           "url": "https://www.astorwines.com/item/55656?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-09T06:48:37.851416+00:00"
+        },
+        "55750": {
+          "name": "Alambique Serrano Vida Nativa Single Cask #6 Zacua Rum",
+          "price": 124.96,
+          "url": "https://www.astorwines.com/item/55750?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-09-11T06:52:10.921820+00:00"
         }
       }
     },
