@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-18T07:04:32.855852+00:00",
+  "last_run": "2026-09-19T07:06:41.957339+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -3065,6 +3065,18 @@
           "price": 58.5,
           "url": "https://www.bittersandbottles.com/products/ten-to-one-five-origin-select-rum",
           "first_seen": "2026-09-18T07:03:26.132963+00:00"
+        },
+        "ron-pelacanas-solera-aged-mexican-rum": {
+          "name": "Ron Pelaca\u00f1as Solera Aged Mexican Rum",
+          "price": 76.5,
+          "url": "https://www.bittersandbottles.com/products/ron-pelacanas-solera-aged-mexican-rum",
+          "first_seen": "2026-09-19T07:04:49.383648+00:00"
+        },
+        "ron-pelacanas-blanco-mexican-rum": {
+          "name": "Ron Pelaca\u00f1as Blanco Mexican Rum",
+          "price": 38.5,
+          "url": "https://www.bittersandbottles.com/products/ron-pelacanas-blanco-mexican-rum",
+          "first_seen": "2026-09-19T07:04:49.383674+00:00"
         }
       }
     },
@@ -4330,7 +4342,7 @@
         },
         "13334": {
           "name": "Diplomatico Reserva Exclusiva Rum                         ...",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/13334",
           "first_seen": "2026-04-05T01:36:23.096839+00:00"
         },
@@ -4384,7 +4396,7 @@
         },
         "30436": {
           "name": "El Dorado 8 Year Cask Aged Rum                            ...",
-          "price": 25.49,
+          "price": 29.99,
           "url": "https://www.astorwines.com/item/30436",
           "first_seen": "2026-04-05T01:36:23.597845+00:00"
         },
@@ -5806,7 +5818,7 @@
         },
         "33173": {
           "name": "Planteray Stiggins' Fancy Pineapple Rum",
-          "price": 28.89,
+          "price": 33.99,
           "url": "https://www.astorwines.com/item/33173",
           "first_seen": "2026-04-06T17:50:06.203670+00:00"
         },
@@ -6081,7 +6093,7 @@
           "first_seen": "2026-09-16T07:00:54.158547+00:00"
         },
         "55791": {
-          "name": "New Yarmoouth 27yr Lime House Heavy Jamaican Rum",
+          "name": "New Yarmoouth 27yr Lime House Heavy Jamaican Rum          ...",
           "price": 599.96,
           "url": "https://www.astorwines.com/item/55791?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-16T07:00:54.158563+00:00"
