@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-19T07:06:41.957339+00:00",
+  "last_run": "2026-09-20T07:08:04.494738+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -6088,7 +6088,7 @@
         },
         "55796": {
           "name": "TDSC 41yr Vatted Single Cask Vatted Colombian Rum",
-          "price": 199.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/55796?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-16T07:00:54.158547+00:00"
         },
