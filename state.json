@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-22T07:11:12.458885+00:00",
+  "last_run": "2026-09-23T07:12:23.613239+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1951,7 +1951,7 @@
           "first_seen": "2026-04-04T06:45:21.570081+00:00"
         },
         "mount-gay-navy-strength-rum": {
-          "name": "Mount Gay Navy Strength Rum",
+          "name": "Mount Gay Eclipse Navy Strength Rum",
           "price": 29.5,
           "url": "https://www.bittersandbottles.com/products/mount-gay-navy-strength-rum",
           "first_seen": "2026-04-04T06:45:21.570092+00:00"
@@ -4281,6 +4281,12 @@
           "price": 64.99,
           "url": "https://potomacwines.com/en-gb/product/Arran-Barrel-Reserve-Single-Malt",
           "first_seen": "2026-09-17T07:01:55.872063+00:00"
+        },
+        "Bardstown-Bourbon-Company-2026-Discovery-Bourbon": {
+          "name": "Bardstown Bourbon Company 2026 Discovery Straight Bourbon",
+          "price": 164.99,
+          "url": "https://potomacwines.com/en-gb/product/Bardstown-Bourbon-Company-2026-Discovery-Bourbon",
+          "first_seen": "2026-09-23T07:11:35.170537+00:00"
         }
       }
     },
@@ -4582,7 +4588,7 @@
         },
         "07064": {
           "name": "Lemon Hart 151\u00b0 Overproof Demerara Rum                    ...",
-          "price": 33.99,
+          "price": 39.99,
           "url": "https://www.astorwines.com/item/07064",
           "first_seen": "2026-04-05T01:36:25.100605+00:00"
         },
@@ -6070,7 +6076,7 @@
         },
         "55656": {
           "name": "Hampden Astor Select C<>H 4yr Single Cask Jamaican Rum    ...",
-          "price": 169.97,
+          "price": 199.96,
           "url": "https://www.astorwines.com/item/55656?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-09T06:48:37.851416+00:00"
         },
