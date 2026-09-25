@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-24T07:14:01.870325+00:00",
+  "last_run": "2026-09-25T07:15:35.904794+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2312,7 +2312,7 @@
         },
         "kohana-koho-barrel-aged-hawaiian-agricole-rum": {
           "name": "KoHana Koho Barrel Aged Hawaiian Agricole Rum",
-          "price": 84.5,
+          "price": 89.5,
           "url": "https://www.bittersandbottles.com/products/kohana-koho-barrel-aged-hawaiian-agricole-rum",
           "first_seen": "2026-04-04T06:45:26.871491+00:00"
         },
@@ -4287,6 +4287,12 @@
           "price": 164.99,
           "url": "https://potomacwines.com/en-gb/product/Bardstown-Bourbon-Company-2026-Discovery-Bourbon",
           "first_seen": "2026-09-23T07:11:35.170537+00:00"
+        },
+        "de-Borgen-Malt-Genever-Cask-Finished": {
+          "name": "de Borgen Malt Genever Cask Finished 1L",
+          "price": 44.99,
+          "url": "https://potomacwines.com/en-gb/product/de-Borgen-Malt-Genever-Cask-Finished",
+          "first_seen": "2026-09-25T07:14:23.794986+00:00"
         }
       }
     },
