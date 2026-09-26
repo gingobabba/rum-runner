@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-25T07:15:35.904794+00:00",
+  "last_run": "2026-09-26T07:17:31.281233+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4293,6 +4293,18 @@
           "price": 44.99,
           "url": "https://potomacwines.com/en-gb/product/de-Borgen-Malt-Genever-Cask-Finished",
           "first_seen": "2026-09-25T07:14:23.794986+00:00"
+        },
+        "Bruichladdich-The-Laddie-Rye-6-Year": {
+          "name": "Bruichladdich The Laddie Rye 6 Year Old Single Grain Scotch",
+          "price": 59.99,
+          "url": "https://potomacwines.com/en-gb/product/Bruichladdich-The-Laddie-Rye-6-Year",
+          "first_seen": "2026-09-26T07:15:57.797688+00:00"
+        },
+        "Bardstown-Bourbon-Company-Lochs-of-Jura-Barrel-Finish": {
+          "name": "Bardstown Bourbon Company Lochs of Jura Barrel Finish Blend of Straight Whiskies",
+          "price": 164.99,
+          "url": "https://potomacwines.com/en-gb/product/Bardstown-Bourbon-Company-Lochs-of-Jura-Barrel-Finish",
+          "first_seen": "2026-09-26T07:15:57.797711+00:00"
         }
       }
     },
@@ -4462,7 +4474,7 @@
         },
         "51129": {
           "name": "Planteray Cut & Dry Natural Coconut Rum                   ...",
-          "price": 29.74,
+          "price": 34.99,
           "url": "https://www.astorwines.com/item/51129",
           "first_seen": "2026-04-05T01:36:24.599585+00:00"
         },
