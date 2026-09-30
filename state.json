@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-29T07:22:54.041718+00:00",
+  "last_run": "2026-09-30T07:24:47.165269+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -1874,7 +1874,7 @@
         },
         "hamilton-the-grass-skirt-blend-rum": {
           "name": "Hamilton The Grass Skirt Blend Rum",
-          "price": 38.5,
+          "price": 41.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-the-grass-skirt-blend-rum",
           "first_seen": "2026-04-04T06:45:19.488790+00:00"
         },
@@ -2072,7 +2072,7 @@
         },
         "hamilton-strong-water-lost-voyage-rum": {
           "name": "Hamilton Strong Water Lost Voyage Rum",
-          "price": 28.5,
+          "price": 31.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-strong-water-lost-voyage-rum",
           "first_seen": "2026-04-04T06:45:23.714883+00:00"
         },
@@ -2282,7 +2282,7 @@
         },
         "hamilton-beachbum-berrys-zombie-blend-rum": {
           "name": "Hamilton Beachbum Berry's Zombie Blend Rum",
-          "price": 38.5,
+          "price": 41.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-beachbum-berrys-zombie-blend-rum",
           "first_seen": "2026-04-04T06:45:26.871372+00:00"
         },
@@ -2318,7 +2318,7 @@
         },
         "hamilton-false-idol-151-proof-west-indies-rum": {
           "name": "Hamilton False Idol 151 Proof West Indies Rum",
-          "price": 39.5,
+          "price": 42.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-false-idol-151-proof-west-indies-rum",
           "first_seen": "2026-04-04T06:45:26.871508+00:00"
         },
@@ -2414,7 +2414,7 @@
         },
         "hamilton-87-white-stache-rum": {
           "name": "Hamilton 87 White 'Stache Rum",
-          "price": 26.5,
+          "price": 28.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-87-white-stache-rum",
           "first_seen": "2026-04-04T06:45:26.871805+00:00"
         },
@@ -2498,7 +2498,7 @@
         },
         "hamilton-jamaican-pot-still-blonde-rum": {
           "name": "Hamilton Jamaican Pot Still Blonde Rum",
-          "price": 28.5,
+          "price": 31.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-jamaican-pot-still-blonde-rum",
           "first_seen": "2026-04-04T06:45:30.021585+00:00"
         },
@@ -2564,7 +2564,7 @@
         },
         "hamilton-jamaican-pot-still-black-rum": {
           "name": "Hamilton Jamaican Pot Still Black Rum",
-          "price": 29.5,
+          "price": 31.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-jamaican-pot-still-black-rum",
           "first_seen": "2026-04-04T06:45:32.148481+00:00"
         },
@@ -2696,13 +2696,13 @@
         },
         "hamilton-demerara-86-proof-rum": {
           "name": "Hamilton Demerara 86 Proof Rum",
-          "price": 26.5,
+          "price": 28.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-demerara-86-proof-rum",
           "first_seen": "2026-04-04T06:45:34.275307+00:00"
         },
         "hamilton-jamaican-pot-still-gold-rum": {
           "name": "Hamilton Jamaican Pot Still Gold Rum",
-          "price": 29.5,
+          "price": 31.5,
           "url": "https://www.bittersandbottles.com/products/hamilton-jamaican-pot-still-gold-rum",
           "first_seen": "2026-04-04T06:45:34.275315+00:00"
         },
@@ -3077,6 +3077,12 @@
           "price": 38.5,
           "url": "https://www.bittersandbottles.com/products/ron-pelacanas-blanco-mexican-rum",
           "first_seen": "2026-09-19T07:04:49.383674+00:00"
+        },
+        "tiki-lovers-pineapple-rum": {
+          "name": "Tiki Lovers Pineapple Rum",
+          "price": 14.99,
+          "url": "https://www.bittersandbottles.com/products/tiki-lovers-pineapple-rum",
+          "first_seen": "2026-09-30T07:23:13.806189+00:00"
         }
       }
     },
