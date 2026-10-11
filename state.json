@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-10T07:42:17.436188+00:00",
+  "last_run": "2026-10-11T07:43:45.911088+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4396,7 +4396,7 @@
         },
         "54107": {
           "name": "Bacardi Gold Rum",
-          "price": 1.96,
+          "price": 0.0,
           "url": "https://www.astorwines.com/item/54107",
           "first_seen": "2026-04-05T01:36:22.095290+00:00"
         },
