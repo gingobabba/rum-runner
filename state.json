@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-14T07:49:45.824897+00:00",
+  "last_run": "2026-10-15T07:51:21.445630+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4413,6 +4413,36 @@
           "price": 1599.99,
           "url": "https://potomacwines.com/en-gb/product/Clynelish-1996-26-Year-Prima-Ultima-Single-Malt",
           "first_seen": "2026-10-14T07:48:00.481263+00:00"
+        },
+        "Habitation-Velier-Providence-2020-Rhum": {
+          "name": "Habitation Velier Providence 2020 Haiti Pure Single Rhum",
+          "price": 179.99,
+          "url": "https://potomacwines.com/en-gb/product/Habitation-Velier-Providence-2020-Rhum",
+          "first_seen": "2026-10-15T07:50:06.954520+00:00"
+        },
+        "El-Dorado-Enmore-Cask-Strength-Rum": {
+          "name": "El Dorado Enmore Cask Strength Single Still Rum",
+          "price": 159.99,
+          "url": "https://potomacwines.com/en-gb/product/El-Dorado-Enmore-Cask-Strength-Rum",
+          "first_seen": "2026-10-15T07:50:06.954568+00:00"
+        },
+        "Meunier-Cacao-Noir-Chocolate-Liqueur": {
+          "name": "Meunier Cacao Noir Dark Chocolate Liqueur",
+          "price": 29.99,
+          "url": "https://potomacwines.com/en-gb/product/Meunier-Cacao-Noir-Chocolate-Liqueur",
+          "first_seen": "2026-10-15T07:50:06.954577+00:00"
+        },
+        "Timbal-Vermut-Seco": {
+          "name": "Timbal Vermut Seco 500ml",
+          "price": 13.99,
+          "url": "https://potomacwines.com/en-gb/product/Timbal-Vermut-Seco",
+          "first_seen": "2026-10-15T07:50:06.954583+00:00"
+        },
+        "Timbal-Vermut-Rojo": {
+          "name": "Timbal Vermut Rojo 500ml",
+          "price": 13.99,
+          "url": "https://potomacwines.com/en-gb/product/Timbal-Vermut-Rojo",
+          "first_seen": "2026-10-15T07:50:06.954589+00:00"
         }
       }
     },
@@ -5662,7 +5692,7 @@
         },
         "53083": {
           "name": "Planteray Astor Select 16.9yrs Single Cask Fiji Rum       ...",
-          "price": 74.96,
+          "price": 63.72,
           "url": "https://www.astorwines.com/item/53083",
           "first_seen": "2026-04-05T01:36:35.619171+00:00"
         },
