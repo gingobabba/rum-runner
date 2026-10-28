@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-27T08:11:13.640960+00:00",
+  "last_run": "2026-10-28T08:12:16.713031+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4491,6 +4491,12 @@
           "price": 139.99,
           "url": "https://potomacwines.com/en-gb/product/high-west-midwinter-nights-dram-rye-act-14-750ml",
           "first_seen": "2026-10-27T08:10:04.383891+00:00"
+        },
+        "high-west-midwinter-nights-dram-rye-act-14": {
+          "name": "High West Distillery A Midwinter Night's Dram Straight Rye Act 14",
+          "price": 139.99,
+          "url": "https://potomacwines.com/en-gb/product/high-west-midwinter-nights-dram-rye-act-14",
+          "first_seen": "2026-10-28T08:11:32.806113+00:00"
         }
       }
     },
@@ -4558,7 +4564,7 @@
         },
         "54672": {
           "name": "The Rums of Mexico Caldo                                  ...",
-          "price": 46.72,
+          "price": 54.96,
           "url": "https://www.astorwines.com/item/54672",
           "first_seen": "2026-04-05T01:36:23.096848+00:00"
         },
@@ -4642,7 +4648,7 @@
         },
         "54656": {
           "name": "The Rums of Mexico Melaza Con Muck                        ...",
-          "price": 72.22,
+          "price": 84.96,
           "url": "https://www.astorwines.com/item/54656",
           "first_seen": "2026-04-05T01:36:24.599559+00:00"
         },
@@ -4708,7 +4714,7 @@
         },
         "38604": {
           "name": "Charanda Uruapan Single Blended Rum                       ...",
-          "price": 25.47,
+          "price": 29.96,
           "url": "https://www.astorwines.com/item/38604",
           "first_seen": "2026-04-05T01:36:24.599651+00:00"
         },
@@ -4858,7 +4864,7 @@
         },
         "54671": {
           "name": "The Rums of Mexico Ca\u00f1a Criolla                           ...",
-          "price": 50.97,
+          "price": 59.96,
           "url": "https://www.astorwines.com/item/54671",
           "first_seen": "2026-04-05T01:36:25.100684+00:00"
         },
@@ -5230,7 +5236,7 @@
         },
         "53834": {
           "name": "Pa'lante A\u00f1ejo Mexican Rum                                ...",
-          "price": 33.12,
+          "price": 38.96,
           "url": "https://www.astorwines.com/item/53834",
           "first_seen": "2026-04-05T01:36:28.606573+00:00"
         },
@@ -5272,7 +5278,7 @@
         },
         "51844": {
           "name": "Charanda Uruapan Single Blended Anejo Rum                 ...",
-          "price": 35.67,
+          "price": 41.96,
           "url": "https://www.astorwines.com/item/51844",
           "first_seen": "2026-04-05T01:36:29.107412+00:00"
         },
@@ -5368,7 +5374,7 @@
         },
         "53833": {
           "name": "Pa'lante Reposado Mexican Rum                             ...",
-          "price": 29.72,
+          "price": 34.96,
           "url": "https://www.astorwines.com/item/53833",
           "first_seen": "2026-04-05T01:36:30.109619+00:00"
         },
@@ -5422,7 +5428,7 @@
         },
         "41032": {
           "name": "Uruapan Charanda Single Estate Rum",
-          "price": 33.97,
+          "price": 39.96,
           "url": "https://www.astorwines.com/item/41032",
           "first_seen": "2026-04-05T01:36:30.109688+00:00"
         },
@@ -5452,7 +5458,7 @@
         },
         "51417": {
           "name": "Alambique Serrano 'Cartier 30' Single Origin Oaxacan Rum  ...",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/51417",
           "first_seen": "2026-04-05T01:36:30.109756+00:00"
         },
@@ -6118,13 +6124,13 @@
         },
         "54860": {
           "name": "Alambique Serrano 'Besadiablos' Single Origin Oaxacan Rum ...",
-          "price": 76.47,
+          "price": 89.96,
           "url": "https://www.astorwines.com/item/54860",
           "first_seen": "2026-04-16T17:19:12.973386+00:00"
         },
         "54859": {
           "name": "Alambique Serrano 'Alambique de Cobre' Pot Still White ...",
-          "price": 63.72,
+          "price": 74.96,
           "url": "https://www.astorwines.com/item/54859",
           "first_seen": "2026-04-16T17:19:12.973409+00:00"
         },
@@ -6256,7 +6262,7 @@
         },
         "37271": {
           "name": "Paranubes Oaxacan Agricole Rum                            ...",
-          "price": 35.69,
+          "price": 41.99,
           "url": "https://www.astorwines.com/item/37271?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-03T06:38:32.330332+00:00"
         },
