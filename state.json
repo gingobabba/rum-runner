@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-02T08:19:54.341691+00:00",
+  "last_run": "2026-11-03T08:21:22.695726+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4497,6 +4497,12 @@
           "price": 139.99,
           "url": "https://potomacwines.com/en-gb/product/high-west-midwinter-nights-dram-rye-act-14",
           "first_seen": "2026-10-28T08:11:32.806113+00:00"
+        },
+        "darna-teranino-istria-700ml": {
+          "name": "Darna Teranino Istria Liqueur 700ml",
+          "price": 19.99,
+          "url": "https://potomacwines.com/en-gb/product/darna-teranino-istria-700ml",
+          "first_seen": "2026-11-03T08:20:13.203296+00:00"
         }
       }
     },
