@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-05T08:24:58.241561+00:00",
+  "last_run": "2026-11-06T08:27:14.979495+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4539,6 +4539,24 @@
           "price": 169.99,
           "url": "https://potomacwines.com/en-gb/product/woodford-reserve-super-seasoned-oak-bourbon",
           "first_seen": "2026-11-05T08:23:16.713063+00:00"
+        },
+        "Foursquare-Indomitas-Rum": {
+          "name": "Foursquare Rum Distillery Indomitas Single Blended Rum",
+          "price": 299.99,
+          "url": "https://potomacwines.com/en-gb/product/Foursquare-Indomitas-Rum",
+          "first_seen": "2026-11-06T08:26:16.349406+00:00"
+        },
+        "Alambique-Serrano-Vida-Nativa-Mariposa-Vitral-Rum": {
+          "name": "Alambique Serrano Vida Nativa Blend #2 Mariposa Vitral Oaxacan Rum",
+          "price": 89.99,
+          "url": "https://potomacwines.com/en-gb/product/Alambique-Serrano-Vida-Nativa-Mariposa-Vitral-Rum",
+          "first_seen": "2026-11-06T08:26:16.349435+00:00"
+        },
+        "Alambique-Serrano-Vida-Nativa-Mariposa-88": {
+          "name": "Alambique Serrano Vida Nativa Blend #4 Mariposa 88 Oaxacan Rum",
+          "price": 89.99,
+          "url": "https://potomacwines.com/en-gb/product/Alambique-Serrano-Vida-Nativa-Mariposa-88",
+          "first_seen": "2026-11-06T08:26:16.349442+00:00"
         }
       }
     },
@@ -5062,7 +5080,7 @@
         },
         "52432": {
           "name": "El Dorado Port Mourant Cask Strength Single Still Rum",
-          "price": 134.96,
+          "price": 148.96,
           "url": "https://www.astorwines.com/item/52432",
           "first_seen": "2026-04-05T01:36:26.603252+00:00"
         },
@@ -5374,7 +5392,7 @@
         },
         "52718": {
           "name": "Cadenhead's Classic Rum                                   ...",
-          "price": 59.99,
+          "price": 62.99,
           "url": "https://www.astorwines.com/item/52718",
           "first_seen": "2026-04-05T01:36:29.608428+00:00"
         },
@@ -6429,14 +6447,14 @@
           "first_seen": "2026-11-04T08:22:44.877521+00:00"
         },
         "56068": {
-          "name": "Samaroli Jamaica Rhapsody Rum",
-          "price": 0.0,
+          "name": "Samaroli Jamaica Rhapsody Blended Rum",
+          "price": 99.96,
           "url": "https://www.astorwines.com/item/56068?lt=Search+Results&lid=search_results",
           "first_seen": "2026-11-05T08:24:46.033160+00:00"
         },
         "56069": {
           "name": "Samaroli Trinidad Carnival Blended Rum",
-          "price": 0.0,
+          "price": 114.96,
           "url": "https://www.astorwines.com/item/56069?lt=Search+Results&lid=search_results",
           "first_seen": "2026-11-05T08:24:46.033182+00:00"
         }
