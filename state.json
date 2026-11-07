@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-06T08:27:14.979495+00:00",
+  "last_run": "2026-11-07T08:28:41.085429+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -6457,6 +6457,12 @@
           "price": 114.96,
           "url": "https://www.astorwines.com/item/56069?lt=Search+Results&lid=search_results",
           "first_seen": "2026-11-05T08:24:46.033182+00:00"
+        },
+        "56020": {
+          "name": "Gustoso Mexican Rum",
+          "price": 39.96,
+          "url": "https://www.astorwines.com/item/56020?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-11-07T08:28:31.070099+00:00"
         }
       }
     },
