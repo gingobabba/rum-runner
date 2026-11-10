@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-09T08:31:51.499214+00:00",
+  "last_run": "2026-11-10T08:33:25.289844+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4569,6 +4569,42 @@
           "price": 16.99,
           "url": "https://potomacwines.com/en-gb/product/arak-al-assi-750ml",
           "first_seen": "2026-11-08T08:28:59.173050+00:00"
+        },
+        "Ardnahoe-Bholsa-Single-Malt": {
+          "name": "Ardnahoe Bholsa Single Malt",
+          "price": 74.99,
+          "url": "https://potomacwines.com/en-gb/product/Ardnahoe-Bholsa-Single-Malt",
+          "first_seen": "2026-11-10T08:32:09.999754+00:00"
+        },
+        "Ardnahoe-Infinite-Loch-Single-Malt": {
+          "name": "Ardnahoe Infinite Loch Single Malt",
+          "price": 69.99,
+          "url": "https://potomacwines.com/en-gb/product/Ardnahoe-Infinite-Loch-Single-Malt",
+          "first_seen": "2026-11-10T08:32:09.999793+00:00"
+        },
+        "ridge-geyserville-2024": {
+          "name": "Ridge Geyserville 2024",
+          "price": 49.99,
+          "url": "https://potomacwines.com/en-gb/product/ridge-geyserville-2024",
+          "first_seen": "2026-11-10T08:32:09.999803+00:00"
+        },
+        "Ardnahoe-Cask-Strength-5-Year-Single-Malt": {
+          "name": "Ardnahoe Cask Strength 5 Year Old Single Malt",
+          "price": 89.99,
+          "url": "https://potomacwines.com/en-gb/product/Ardnahoe-Cask-Strength-5-Year-Single-Malt",
+          "first_seen": "2026-11-10T08:32:09.999810+00:00"
+        },
+        "The-Classic-Cask-Ardmore-13-Year-Single-Malt": {
+          "name": "The Classic Cask Ardmore 13 Year Old Single Malt",
+          "price": 149.99,
+          "url": "https://potomacwines.com/en-gb/product/The-Classic-Cask-Ardmore-13-Year-Single-Malt",
+          "first_seen": "2026-11-10T08:32:09.999816+00:00"
+        },
+        "The-Classic-Cask-Caol-Ila-14-Year-Single-Malt": {
+          "name": "The Classic Cask Caol Ila 14 Year Old Single Malt",
+          "price": 129.99,
+          "url": "https://potomacwines.com/en-gb/product/The-Classic-Cask-Caol-Ila-14-Year-Single-Malt",
+          "first_seen": "2026-11-10T08:32:09.999822+00:00"
         }
       }
     },
@@ -4606,7 +4642,7 @@
         },
         "53958": {
           "name": "Bacardi Superior White Rum                                ...",
-          "price": 1.24,
+          "price": 1.96,
           "url": "https://www.astorwines.com/item/53958",
           "first_seen": "2026-04-05T01:36:22.596039+00:00"
         },
@@ -5578,7 +5614,7 @@
         },
         "07354": {
           "name": "Ron Barcelo Imperial Rum                                  ...",
-          "price": 25.47,
+          "price": 32.99,
           "url": "https://www.astorwines.com/item/07354",
           "first_seen": "2026-04-05T01:36:30.109807+00:00"
         },
