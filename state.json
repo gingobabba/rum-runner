@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-11T08:35:00.086162+00:00",
+  "last_run": "2026-11-12T08:36:51.824829+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -4605,6 +4605,36 @@
           "price": 129.99,
           "url": "https://potomacwines.com/en-gb/product/The-Classic-Cask-Caol-Ila-14-Year-Single-Malt",
           "first_seen": "2026-11-10T08:32:09.999822+00:00"
+        },
+        "Uruapan-Cana-Cristalina-Charanda-Anejo-ex-Arette-Cask": {
+          "name": "Uruapan Cana Cristalina Charanda Anejo Aged in ex-Arette Tequila Cask",
+          "price": 69.99,
+          "url": "https://potomacwines.com/en-gb/product/Uruapan-Cana-Cristalina-Charanda-Anejo-ex-Arette-Cask",
+          "first_seen": "2026-11-12T08:35:16.732205+00:00"
+        },
+        "Rey-Campero-Fusion-Criolla-Mezcal": {
+          "name": "Rey Campero Fusion Criolla Mezcal",
+          "price": 109.99,
+          "url": "https://potomacwines.com/en-gb/product/Rey-Campero-Fusion-Criolla-Mezcal",
+          "first_seen": "2026-11-12T08:35:16.732228+00:00"
+        },
+        "Rey-Campero-Ponche-de-Frutas-Mezcal": {
+          "name": "Rey Campero Ponche de Frutas Mezcal",
+          "price": 104.99,
+          "url": "https://potomacwines.com/en-gb/product/Rey-Campero-Ponche-de-Frutas-Mezcal",
+          "first_seen": "2026-11-12T08:35:16.732233+00:00"
+        },
+        "Rey-Campero-Chuparrosa-Mezcal": {
+          "name": "Rey Campero Chuparrosa Mezcal Joven",
+          "price": 144.99,
+          "url": "https://potomacwines.com/en-gb/product/Rey-Campero-Chuparrosa-Mezcal",
+          "first_seen": "2026-11-12T08:35:16.732237+00:00"
+        },
+        "Rey-Campero-Mexicano-Mezcal": {
+          "name": "Rey Campero Mexicano Mezcal Joven",
+          "price": 94.99,
+          "url": "https://potomacwines.com/en-gb/product/Rey-Campero-Mexicano-Mezcal",
+          "first_seen": "2026-11-12T08:35:16.732241+00:00"
         }
       }
     },
