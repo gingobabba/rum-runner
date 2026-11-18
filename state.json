@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-17T08:44:17.988532+00:00",
+  "last_run": "2026-11-18T08:46:58.768050+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -2246,7 +2246,7 @@
         },
         "paranubes-oaxaca-anejo-rum": {
           "name": "Paranubes Oaxaca Anejo Rum",
-          "price": 72.5,
+          "price": 74.5,
           "url": "https://www.bittersandbottles.com/products/paranubes-oaxaca-anejo-rum",
           "first_seen": "2026-04-04T06:45:26.871203+00:00"
         },
@@ -2300,7 +2300,7 @@
         },
         "r-l-seales-12-year-barbados-rum": {
           "name": "R.L. Seale's 12 Year Barbados Rum",
-          "price": 46.5,
+          "price": 52.5,
           "url": "https://www.bittersandbottles.com/products/r-l-seales-12-year-barbados-rum",
           "first_seen": "2026-04-04T06:45:26.871454+00:00"
         },
@@ -4954,7 +4954,7 @@
         },
         "53080": {
           "name": "Planteray Astor Select Guyana Single Cask Rum             ...",
-          "price": 63.72,
+          "price": 74.96,
           "url": "https://www.astorwines.com/item/53080",
           "first_seen": "2026-04-05T01:36:25.100525+00:00"
         },
@@ -5038,7 +5038,7 @@
         },
         "31873": {
           "name": "Astor White Rum",
-          "price": 10.17,
+          "price": 11.96,
           "url": "https://www.astorwines.com/item/31873",
           "first_seen": "2026-04-05T01:36:25.100635+00:00"
         },
@@ -5056,7 +5056,7 @@
         },
         "31874": {
           "name": "Astor Dark Rum",
-          "price": 12.72,
+          "price": 14.96,
           "url": "https://www.astorwines.com/item/31874",
           "first_seen": "2026-04-05T01:36:25.100653+00:00"
         },
@@ -5476,7 +5476,7 @@
         },
         "53895": {
           "name": "Privateer Fresh to Death New England Rum                  ...",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/53895",
           "first_seen": "2026-04-05T01:36:29.107387+00:00"
         },
@@ -5764,7 +5764,7 @@
         },
         "51500": {
           "name": "Plantation Astor Select Fiji Single Cask Rum              ...",
-          "price": 93.49,
+          "price": 109.99,
           "url": "https://www.astorwines.com/item/51500",
           "first_seen": "2026-04-05T01:36:30.109859+00:00"
         },
@@ -5962,7 +5962,7 @@
         },
         "53083": {
           "name": "Planteray Astor Select 16.9yrs Single Cask Fiji Rum       ...",
-          "price": 63.72,
+          "price": 74.96,
           "url": "https://www.astorwines.com/item/53083",
           "first_seen": "2026-04-05T01:36:35.619171+00:00"
         },
@@ -6070,7 +6070,7 @@
         },
         "53082": {
           "name": "Planteray Astor Select Vulcan Still Single Cask Barbados ...",
-          "price": 55.22,
+          "price": 64.96,
           "url": "https://www.astorwines.com/item/53082",
           "first_seen": "2026-04-05T01:36:38.124224+00:00"
         },
@@ -6364,7 +6364,7 @@
         },
         "54900": {
           "name": "Hampden Astor Select HGML 8yr Single Cask Jamaican Rum    ...",
-          "price": 254.97,
+          "price": 299.96,
           "url": "https://www.astorwines.com/item/54900?lt=Search+Results&lid=search_results",
           "first_seen": "2026-05-26T16:44:27.640864+00:00"
         },
@@ -6550,19 +6550,19 @@
         },
         "55794": {
           "name": "TDSC/Silver Seal 38yr Single Vatted Colombian Rum",
-          "price": 157.22,
+          "price": 184.96,
           "url": "https://www.astorwines.com/item/55794?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-17T07:02:57.030832+00:00"
         },
         "55792": {
           "name": "Silver Seal Hampden 21yr Single Cask Jamaican Rum",
-          "price": 424.97,
+          "price": 499.96,
           "url": "https://www.astorwines.com/item/55792?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-17T07:02:58.001156+00:00"
         },
         "55789": {
           "name": "Caroni 23yr Precious Liquors Trinidad Rum",
-          "price": 722.47,
+          "price": 849.96,
           "url": "https://www.astorwines.com/item/55789?lt=Search+Results&lid=search_results",
           "first_seen": "2026-09-17T07:02:58.001233+00:00"
         },
