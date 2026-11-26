@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-25T08:59:51.733869+00:00",
+  "last_run": "2026-11-26T09:01:28.736380+00:00",
   "retailers": {
     "klwines": {
       "catalog": {
@@ -6703,6 +6703,30 @@
           "price": 499.96,
           "url": "https://www.astorwines.com/item/54592?lt=Search+Results&lid=search_results",
           "first_seen": "2026-11-24T08:57:50.144877+00:00"
+        },
+        "56135": {
+          "name": "Planteray Extreme Series VI Legends of Rum No 2 Belize",
+          "price": 214.96,
+          "url": "https://www.astorwines.com/item/56135?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-11-26T09:01:18.737046+00:00"
+        },
+        "56136": {
+          "name": "Planteray Extreme Series VI Legends of Rum No 1 Haiti",
+          "price": 214.96,
+          "url": "https://www.astorwines.com/item/56136?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-11-26T09:01:18.737073+00:00"
+        },
+        "56137": {
+          "name": "Planteray Extreme Series VI Legends of Rum No 6 Jamaica",
+          "price": 274.96,
+          "url": "https://www.astorwines.com/item/56137?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-11-26T09:01:18.737090+00:00"
+        },
+        "56132": {
+          "name": "Planteray Extreme Series VI Legends of Rum No 5 Saint ...",
+          "price": 199.99,
+          "url": "https://www.astorwines.com/item/56132?lt=Search+Results&lid=search_results",
+          "first_seen": "2026-11-26T09:01:18.737097+00:00"
         }
       }
     },
